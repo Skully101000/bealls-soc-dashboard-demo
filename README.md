@@ -1,56 +1,23 @@
-# Bealls SOC Dashboard (private source)
+# Bealls SOC Dashboard — **DEMO ONLY**
 
-Security Operations Center dashboard concept for Bealls LP/SOC.
+> **Demo only — not a live SOC system.**  
+> Fake/sample data for presenting the webpage concept. Do **not** put real BOLOs, case intel, passwords, or internal paths here.
 
-## Demo website (open in browser — no install)
-
-Staff who only need to **look** at the idea should use the public GitHub Pages demo:
+## Open the demo in your browser (no install)
 
 **https://Skully101000.github.io/bealls-soc-dashboard-demo/**
 
-- That link runs in the browser. No npm, no download.
-- Opening **this** private GitHub repo only shows source files — it does **not** run the app.
-- Public demo repo: https://github.com/Skully101000/bealls-soc-dashboard-demo  
-  (**Demo only — not a live SOC system.** Do not put real BOLOs or secrets there.)
+Anyone with that link can view the concept site. No npm, no download.
 
-See `STAFF_ROLLOUT.md` for handoff notes.
+Opening this GitHub **code** page only shows files — it does **not** run the app. The running site is GitHub Pages (link above).
 
-## Run locally (needs Node.js)
+## Private source
 
-```bash
-npm install
-npm run dev
-```
-
-Then open the URL it prints (usually `http://localhost:5173`).
-
-## Build
-
-```bash
-npm install
-npm run build
-```
-
-Output goes to `dist/`.
-
-For the GitHub Pages demo path, CI sets:
-
-- `VITE_BASE_PATH=/bealls-soc-dashboard-demo/`
-- `VITE_DEMO=true`
-
-## Refresh data from Excel
-
-```bash
-npm run import-data
-```
-
-## Stack
-
-- React 18 + TypeScript
-- Vite + Tailwind CSS v4
-- `lucide-react`, `recharts`, `react-leaflet` + `leaflet`
+Full private project (not required for viewers):  
+https://github.com/Skully101000/bealls-soc-dashboard
 
 ## Notes
 
-- Sample/demo data is for concept preview. Replace carefully; never commit real suspect dossiers into the public demo repo.
-- Photos for BOLO cards currently link to Unsplash placeholders.
+- Domain context: beallsinc.com staff concept preview
+- Banner on the site states this is a concept preview, not a live SOC
+- Pushes to `main` rebuild and redeploy Pages via GitHub Actions when enabled

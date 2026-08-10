@@ -1,11 +1,11 @@
 {
-  "sourceFile": "Store Assignments Dataminr 3-22-26 (Ty Copy).xlsx",
+  "sourceFile": "[demo] sample assignments workbook",
   "importedAt": "2026-03-22",
   "operators": [
     {
-      "id": "op-3501",
-      "name": "Stephen Bowman",
-      "extension": "3501",
+      "id": "demo-op-01",
+      "name": "Demo Operator 01",
+      "extension": "5001",
       "socSite": "FL",
       "storeCount": 17,
       "topStore": "009",
@@ -28,9 +28,9 @@
       "extraStores": []
     },
     {
-      "id": "op-3502",
-      "name": "Joseph Ramsey",
-      "extension": "3502",
+      "id": "demo-op-02",
+      "name": "Demo Operator 02",
+      "extension": "5002",
       "socSite": "FL",
       "storeCount": 9,
       "topStore": "010",
@@ -58,9 +58,9 @@
       ]
     },
     {
-      "id": "op-3504",
-      "name": "Adam Wilcosh",
-      "extension": "3504",
+      "id": "demo-op-03",
+      "name": "Demo Operator 03",
+      "extension": "5003",
       "socSite": "FL",
       "storeCount": 13,
       "topStore": "020",
@@ -88,9 +88,9 @@
       ]
     },
     {
-      "id": "op-3506",
-      "name": "Joe Guillemette",
-      "extension": "3506",
+      "id": "demo-op-04",
+      "name": "Demo Operator 04",
+      "extension": "5004",
       "socSite": "FL",
       "storeCount": 6,
       "topStore": "023",
@@ -112,9 +112,9 @@
       "extraStores": []
     },
     {
-      "id": "op-3507",
-      "name": "Jason Gagliano",
-      "extension": "3507",
+      "id": "demo-op-05",
+      "name": "Demo Operator 05",
+      "extension": "5005",
       "socSite": "FL",
       "storeCount": 11,
       "topStore": "024",
@@ -136,9 +136,9 @@
       "extraStores": []
     },
     {
-      "id": "op-3508",
-      "name": "Tyler Cofer",
-      "extension": "3508",
+      "id": "demo-op-06",
+      "name": "Demo Operator 06",
+      "extension": "5006",
       "socSite": "FL",
       "storeCount": 28,
       "topStore": "048",
@@ -163,9 +163,9 @@
       ]
     },
     {
-      "id": "op-3509",
-      "name": "Ben Pieper",
-      "extension": "3509",
+      "id": "demo-op-07",
+      "name": "Demo Operator 07",
+      "extension": "5007",
       "socSite": "FL",
       "storeCount": 15,
       "topStore": "059",
@@ -187,9 +187,9 @@
       "extraStores": []
     },
     {
-      "id": "op-3510",
-      "name": "Moses Bennett",
-      "extension": "3510",
+      "id": "demo-op-08",
+      "name": "Demo Operator 08",
+      "extension": "5008",
       "socSite": "FL",
       "storeCount": 20,
       "topStore": "060",
@@ -216,9 +216,9 @@
       ]
     },
     {
-      "id": "op-3511",
-      "name": "Stephen Bowman",
-      "extension": "3511",
+      "id": "demo-op-09",
+      "name": "Demo Operator 09",
+      "extension": "5009",
       "socSite": "FL",
       "storeCount": 19,
       "topStore": "073",
@@ -246,9 +246,9 @@
       ]
     },
     {
-      "id": "op-3512",
-      "name": "Anne-Marie Olin",
-      "extension": "3512",
+      "id": "demo-op-10",
+      "name": "Demo Operator 10",
+      "extension": "5010",
       "socSite": "FL",
       "storeCount": 3,
       "topStore": "083",
@@ -271,9 +271,9 @@
       "extraStores": []
     },
     {
-      "id": "op-3514",
-      "name": "Bryan Speer",
-      "extension": "3514",
+      "id": "demo-op-11",
+      "name": "Demo Operator 11",
+      "extension": "5011",
       "socSite": "FL",
       "storeCount": 18,
       "topStore": "102",
@@ -298,9 +298,9 @@
       ]
     },
     {
-      "id": "op-3515",
-      "name": "Brianna Crawley",
-      "extension": "3515",
+      "id": "demo-op-12",
+      "name": "Demo Operator 12",
+      "extension": "5012",
       "socSite": "FL",
       "storeCount": 2,
       "topStore": "103",
@@ -322,9 +322,9 @@
       "extraStores": []
     },
     {
-      "id": "op-3516",
-      "name": "Ty Kelly",
-      "extension": "3516",
+      "id": "demo-op-13",
+      "name": "Demo Operator 13",
+      "extension": "5013",
       "socSite": "FL",
       "storeCount": 27,
       "topStore": "116",
@@ -351,9 +351,9 @@
       ]
     },
     {
-      "id": "op-3519",
-      "name": "Ben Pieper",
-      "extension": "3519",
+      "id": "demo-op-14",
+      "name": "Demo Operator 14",
+      "extension": "5014",
       "socSite": "FL",
       "storeCount": 36,
       "topStore": "142",
@@ -375,9 +375,9 @@
       "extraStores": []
     },
     {
-      "id": "op-3520",
-      "name": "Tyler Vo",
-      "extension": "3520",
+      "id": "demo-op-15",
+      "name": "Demo Operator 15",
+      "extension": "5015",
       "socSite": "FL",
       "storeCount": 26,
       "topStore": "147",
@@ -400,9 +400,9 @@
       "extraStores": []
     },
     {
-      "id": "op-3522",
-      "name": "Kenjra Mays",
-      "extension": "3522",
+      "id": "demo-op-16",
+      "name": "Demo Operator 16",
+      "extension": "5016",
       "socSite": "FL",
       "storeCount": 51,
       "topStore": "159",
@@ -425,9 +425,9 @@
       "extraStores": []
     },
     {
-      "id": "op-3523",
-      "name": "Chase Petrie",
-      "extension": "3523",
+      "id": "demo-op-17",
+      "name": "Demo Operator 17",
+      "extension": "5017",
       "socSite": "FL",
       "storeCount": 31,
       "topStore": "173",
@@ -453,9 +453,9 @@
       ]
     },
     {
-      "id": "op-3524",
-      "name": "Suzanne Levesque",
-      "extension": "3524",
+      "id": "demo-op-18",
+      "name": "Demo Operator 18",
+      "extension": "5018",
       "socSite": "FL",
       "storeCount": 12,
       "topStore": "179",
@@ -481,9 +481,9 @@
       ]
     },
     {
-      "id": "op-3525",
-      "name": "Zachary Colone",
-      "extension": "3525",
+      "id": "demo-op-19",
+      "name": "Demo Operator 19",
+      "extension": "5019",
       "socSite": "FL",
       "storeCount": 35,
       "topStore": "196",
@@ -505,9 +505,9 @@
       "extraStores": []
     },
     {
-      "id": "op-3580",
-      "name": "Ian Smith",
-      "extension": "3580",
+      "id": "demo-op-20",
+      "name": "Demo Operator 20",
+      "extension": "5020",
       "socSite": "TX",
       "storeCount": 29,
       "topStore": "206",
@@ -529,9 +529,9 @@
       "extraStores": []
     },
     {
-      "id": "op-3581",
-      "name": "Clare Lawes",
-      "extension": "3581",
+      "id": "demo-op-21",
+      "name": "Demo Operator 21",
+      "extension": "5021",
       "socSite": "TX",
       "storeCount": 43,
       "topStore": "221",
@@ -556,9 +556,9 @@
       ]
     },
     {
-      "id": "op-3582",
-      "name": "Jada Parson",
-      "extension": "3582",
+      "id": "demo-op-22",
+      "name": "Demo Operator 22",
+      "extension": "5022",
       "socSite": "TX",
       "storeCount": 66,
       "topStore": "226",
@@ -581,9 +581,9 @@
       "extraStores": []
     },
     {
-      "id": "op-3584",
-      "name": "Melanie Giron",
-      "extension": "3584",
+      "id": "demo-op-23",
+      "name": "Demo Operator 23",
+      "extension": "5023",
       "socSite": "TX",
       "storeCount": 85,
       "topStore": "246",
@@ -611,9 +611,9 @@
       ]
     },
     {
-      "id": "op-3585",
-      "name": "Brianna Knowlton",
-      "extension": "3585",
+      "id": "demo-op-24",
+      "name": "Demo Operator 24",
+      "extension": "5024",
       "socSite": "TX",
       "storeCount": 21,
       "topStore": "255",
@@ -635,9 +635,9 @@
       "extraStores": []
     },
     {
-      "id": "op-3586",
-      "name": "Zach Watkins",
-      "extension": "3586",
+      "id": "demo-op-25",
+      "name": "Demo Operator 25",
+      "extension": "5025",
       "socSite": "TX",
       "storeCount": 54,
       "topStore": "263",
@@ -659,9 +659,9 @@
       "extraStores": []
     },
     {
-      "id": "op-3587",
-      "name": "John Harber",
-      "extension": "3587",
+      "id": "demo-op-26",
+      "name": "Demo Operator 26",
+      "extension": "5026",
       "socSite": "TX",
       "storeCount": 34,
       "topStore": "271",
@@ -686,9 +686,9 @@
       ]
     },
     {
-      "id": "op-3588",
-      "name": "Kenjra Mays",
-      "extension": "3588",
+      "id": "demo-op-27",
+      "name": "Demo Operator 27",
+      "extension": "5027",
       "socSite": "TX",
       "storeCount": 50,
       "topStore": "280",
@@ -710,9 +710,9 @@
       "extraStores": []
     },
     {
-      "id": "op-3589",
-      "name": "April Grendell",
-      "extension": "3589",
+      "id": "demo-op-28",
+      "name": "Demo Operator 28",
+      "extension": "5028",
       "socSite": "TX",
       "storeCount": 40,
       "topStore": "284",
@@ -738,9 +738,9 @@
       ]
     },
     {
-      "id": "op-LPA",
-      "name": "Sydney Thomas",
-      "extension": "LPA",
+      "id": "demo-op-29",
+      "name": "Demo Operator 29",
+      "extension": "5029",
       "socSite": "TX",
       "storeCount": 57,
       "topStore": "334",
@@ -6859,5 +6859,6 @@
       "operator": "Sydney Thomas"
     }
   ],
-  "defaultOperatorExt": "3516"
+  "defaultOperatorExt": "3516",
+  "publicDemoScrubbed": true
 }
