@@ -1,0 +1,6863 @@
+{
+  "sourceFile": "Store Assignments Dataminr 3-22-26 (Ty Copy).xlsx",
+  "importedAt": "2026-03-22",
+  "operators": [
+    {
+      "id": "op-3501",
+      "name": "Stephen Bowman",
+      "extension": "3501",
+      "socSite": "FL",
+      "storeCount": 17,
+      "topStore": "009",
+      "topLabel": "009 - Bealls Merchants Crossing Sh.Ctr Englewood FL",
+      "assignedStores": [
+        "009",
+        "073",
+        "147",
+        "226",
+        "294",
+        "368",
+        "442",
+        "506",
+        "551",
+        "590",
+        "619",
+        "727"
+      ],
+      "hotStore": "001",
+      "extraStores": []
+    },
+    {
+      "id": "op-3502",
+      "name": "Joseph Ramsey",
+      "extension": "3502",
+      "socSite": "FL",
+      "storeCount": 9,
+      "topStore": "010",
+      "topLabel": "010 - Bealls Largo Mall Largo FL",
+      "assignedStores": [
+        "010",
+        "083",
+        "151",
+        "241",
+        "300",
+        "369",
+        "447",
+        "510",
+        "553",
+        "595",
+        "625",
+        "802",
+        "009",
+        "458"
+      ],
+      "hotStore": "012",
+      "extraStores": [
+        "009",
+        "458"
+      ]
+    },
+    {
+      "id": "op-3504",
+      "name": "Adam Wilcosh",
+      "extension": "3504",
+      "socSite": "FL",
+      "storeCount": 13,
+      "topStore": "020",
+      "topLabel": "020 - Bealls Town N' Country Shpg Ctr Sarasota FL",
+      "assignedStores": [
+        "020",
+        "099",
+        "159",
+        "246",
+        "328",
+        "370",
+        "458",
+        "511",
+        "561",
+        "601",
+        "663",
+        "808",
+        "241",
+        "602"
+      ],
+      "hotStore": "066",
+      "extraStores": [
+        "241",
+        "602"
+      ]
+    },
+    {
+      "id": "op-3506",
+      "name": "Joe Guillemette",
+      "extension": "3506",
+      "socSite": "FL",
+      "storeCount": 6,
+      "topStore": "023",
+      "topLabel": "023 - Bealls Town Center Shopping Ctr. Port St. Lucie FL",
+      "assignedStores": [
+        "023",
+        "102",
+        "173",
+        "255",
+        "329",
+        "375",
+        "480",
+        "514",
+        "562",
+        "602",
+        "677"
+      ],
+      "hotStore": "067",
+      "extraStores": []
+    },
+    {
+      "id": "op-3507",
+      "name": "Jason Gagliano",
+      "extension": "3507",
+      "socSite": "FL",
+      "storeCount": 11,
+      "topStore": "024",
+      "topLabel": "024 - Bealls Fountain Court Center Bradenton FL",
+      "assignedStores": [
+        "024",
+        "103",
+        "179",
+        "263",
+        "334",
+        "397",
+        "486",
+        "518",
+        "563",
+        "604",
+        "680"
+      ],
+      "hotStore": "330",
+      "extraStores": []
+    },
+    {
+      "id": "op-3508",
+      "name": "Tyler Cofer",
+      "extension": "3508",
+      "socSite": "FL",
+      "storeCount": 28,
+      "topStore": "048",
+      "topLabel": "048 - Bealls Indian River Square Vero Beach FL",
+      "assignedStores": [
+        "048",
+        "116",
+        "196",
+        "271",
+        "335",
+        "406",
+        "489",
+        "521",
+        "583",
+        "605",
+        "691",
+        "002"
+      ],
+      "hotStore": "424",
+      "extraStores": [
+        "002"
+      ]
+    },
+    {
+      "id": "op-3509",
+      "name": "Ben Pieper",
+      "extension": "3509",
+      "socSite": "FL",
+      "storeCount": 15,
+      "topStore": "059",
+      "topLabel": "059 - Bealls Merchants Crossing Cape Coral FL",
+      "assignedStores": [
+        "059",
+        "127",
+        "206",
+        "280",
+        "362",
+        "422",
+        "493",
+        "538",
+        "587",
+        "607",
+        "693"
+      ],
+      "hotStore": "564",
+      "extraStores": []
+    },
+    {
+      "id": "op-3510",
+      "name": "Moses Bennett",
+      "extension": "3510",
+      "socSite": "FL",
+      "storeCount": 20,
+      "topStore": "060",
+      "topLabel": "060 - Bealls Ormond Towne Center Ormond Beach FL",
+      "assignedStores": [
+        "060",
+        "142",
+        "221",
+        "284",
+        "364",
+        "431",
+        "497",
+        "547",
+        "589",
+        "616",
+        "715",
+        "010",
+        "480"
+      ],
+      "hotStore": null,
+      "extraStores": [
+        "010",
+        "480"
+      ]
+    },
+    {
+      "id": "op-3511",
+      "name": "Stephen Bowman",
+      "extension": "3511",
+      "socSite": "FL",
+      "storeCount": 19,
+      "topStore": "073",
+      "topLabel": "073 - Bealls Cobblestone Village Saint Augustine FL",
+      "assignedStores": [
+        "009",
+        "073",
+        "147",
+        "226",
+        "294",
+        "368",
+        "442",
+        "506",
+        "551",
+        "590",
+        "619",
+        "727",
+        "246",
+        "604"
+      ],
+      "hotStore": null,
+      "extraStores": [
+        "246",
+        "604"
+      ]
+    },
+    {
+      "id": "op-3512",
+      "name": "Anne-Marie Olin",
+      "extension": "3512",
+      "socSite": "FL",
+      "storeCount": 3,
+      "topStore": "083",
+      "topLabel": "083 - Bealls Boynton West Shopping Ctr Boynton Beach FL",
+      "assignedStores": [
+        "010",
+        "083",
+        "151",
+        "241",
+        "300",
+        "369",
+        "447",
+        "510",
+        "553",
+        "595",
+        "625",
+        "802"
+      ],
+      "hotStore": null,
+      "extraStores": []
+    },
+    {
+      "id": "op-3514",
+      "name": "Bryan Speer",
+      "extension": "3514",
+      "socSite": "FL",
+      "storeCount": 18,
+      "topStore": "102",
+      "topLabel": "102 - Bealls Shoppes at Sanford Sanford NC",
+      "assignedStores": [
+        "023",
+        "102",
+        "173",
+        "255",
+        "329",
+        "375",
+        "480",
+        "514",
+        "562",
+        "602",
+        "677",
+        "003"
+      ],
+      "hotStore": null,
+      "extraStores": [
+        "003"
+      ]
+    },
+    {
+      "id": "op-3515",
+      "name": "Brianna Crawley",
+      "extension": "3515",
+      "socSite": "FL",
+      "storeCount": 2,
+      "topStore": "103",
+      "topLabel": "103 - Bealls Pinebrook Commons Bradenton FL",
+      "assignedStores": [
+        "024",
+        "103",
+        "179",
+        "263",
+        "334",
+        "397",
+        "486",
+        "518",
+        "563",
+        "604",
+        "680"
+      ],
+      "hotStore": null,
+      "extraStores": []
+    },
+    {
+      "id": "op-3516",
+      "name": "Ty Kelly",
+      "extension": "3516",
+      "socSite": "FL",
+      "storeCount": 27,
+      "topStore": "116",
+      "topLabel": "116 - Bealls Havandale Square Auburndale FL",
+      "assignedStores": [
+        "048",
+        "116",
+        "196",
+        "271",
+        "335",
+        "406",
+        "489",
+        "521",
+        "583",
+        "605",
+        "691",
+        "020",
+        "486"
+      ],
+      "hotStore": null,
+      "extraStores": [
+        "020",
+        "486"
+      ]
+    },
+    {
+      "id": "op-3519",
+      "name": "Ben Pieper",
+      "extension": "3519",
+      "socSite": "FL",
+      "storeCount": 36,
+      "topStore": "142",
+      "topLabel": "142 - Bealls Gun Barrel Village Gun Barrel City TX",
+      "assignedStores": [
+        "060",
+        "142",
+        "221",
+        "284",
+        "364",
+        "431",
+        "497",
+        "547",
+        "589",
+        "616",
+        "715"
+      ],
+      "hotStore": null,
+      "extraStores": []
+    },
+    {
+      "id": "op-3520",
+      "name": "Tyler Vo",
+      "extension": "3520",
+      "socSite": "FL",
+      "storeCount": 26,
+      "topStore": "147",
+      "topLabel": "147 - Bealls Chestnut Village Orangeburg SC",
+      "assignedStores": [
+        "009",
+        "073",
+        "147",
+        "226",
+        "294",
+        "368",
+        "442",
+        "506",
+        "551",
+        "590",
+        "619",
+        "727"
+      ],
+      "hotStore": null,
+      "extraStores": []
+    },
+    {
+      "id": "op-3522",
+      "name": "Kenjra Mays",
+      "extension": "3522",
+      "socSite": "FL",
+      "storeCount": 51,
+      "topStore": "159",
+      "topLabel": "159 - Bealls Lincoln Square Jacksonville IL",
+      "assignedStores": [
+        "020",
+        "099",
+        "159",
+        "246",
+        "328",
+        "370",
+        "458",
+        "511",
+        "561",
+        "601",
+        "663",
+        "808"
+      ],
+      "hotStore": null,
+      "extraStores": []
+    },
+    {
+      "id": "op-3523",
+      "name": "Chase Petrie",
+      "extension": "3523",
+      "socSite": "FL",
+      "storeCount": 31,
+      "topStore": "173",
+      "topLabel": "173 - Bealls Cedars Square Lebanon TN",
+      "assignedStores": [
+        "023",
+        "102",
+        "173",
+        "255",
+        "329",
+        "375",
+        "480",
+        "514",
+        "562",
+        "602",
+        "677",
+        "489"
+      ],
+      "hotStore": null,
+      "extraStores": [
+        "023",
+        "489"
+      ]
+    },
+    {
+      "id": "op-3524",
+      "name": "Suzanne Levesque",
+      "extension": "3524",
+      "socSite": "FL",
+      "storeCount": 12,
+      "topStore": "179",
+      "topLabel": "179 - Bealls Steeplechase Plaza Ocala FL",
+      "assignedStores": [
+        "024",
+        "103",
+        "179",
+        "263",
+        "334",
+        "397",
+        "486",
+        "518",
+        "563",
+        "604",
+        "680",
+        "607"
+      ],
+      "hotStore": null,
+      "extraStores": [
+        "263",
+        "607"
+      ]
+    },
+    {
+      "id": "op-3525",
+      "name": "Zachary Colone",
+      "extension": "3525",
+      "socSite": "FL",
+      "storeCount": 35,
+      "topStore": "196",
+      "topLabel": "196 - Bealls Franklin Plaza Franklin NC",
+      "assignedStores": [
+        "048",
+        "116",
+        "196",
+        "271",
+        "335",
+        "406",
+        "489",
+        "521",
+        "583",
+        "605",
+        "691"
+      ],
+      "hotStore": null,
+      "extraStores": []
+    },
+    {
+      "id": "op-3580",
+      "name": "Ian Smith",
+      "extension": "3580",
+      "socSite": "TX",
+      "storeCount": 29,
+      "topStore": "206",
+      "topLabel": "206 - Bealls Bartow FL",
+      "assignedStores": [
+        "059",
+        "127",
+        "206",
+        "280",
+        "362",
+        "422",
+        "493",
+        "538",
+        "587",
+        "607",
+        "693"
+      ],
+      "hotStore": null,
+      "extraStores": []
+    },
+    {
+      "id": "op-3581",
+      "name": "Clare Lawes",
+      "extension": "3581",
+      "socSite": "TX",
+      "storeCount": 43,
+      "topStore": "221",
+      "topLabel": "221 - Bealls Tradewinds Shopping Center Key Largo FL",
+      "assignedStores": [
+        "060",
+        "142",
+        "221",
+        "284",
+        "364",
+        "431",
+        "497",
+        "547",
+        "589",
+        "616",
+        "715",
+        "005"
+      ],
+      "hotStore": null,
+      "extraStores": [
+        "005"
+      ]
+    },
+    {
+      "id": "op-3582",
+      "name": "Jada Parson",
+      "extension": "3582",
+      "socSite": "TX",
+      "storeCount": 66,
+      "topStore": "226",
+      "topLabel": "226 - Bealls Pecos TX",
+      "assignedStores": [
+        "009",
+        "073",
+        "147",
+        "226",
+        "294",
+        "368",
+        "442",
+        "506",
+        "551",
+        "590",
+        "619",
+        "727"
+      ],
+      "hotStore": null,
+      "extraStores": []
+    },
+    {
+      "id": "op-3584",
+      "name": "Melanie Giron",
+      "extension": "3584",
+      "socSite": "TX",
+      "storeCount": 85,
+      "topStore": "246",
+      "topLabel": "246 - Bealls Forrest Oaks Shopping Center Mount Airy NC",
+      "assignedStores": [
+        "020",
+        "099",
+        "159",
+        "246",
+        "328",
+        "370",
+        "458",
+        "511",
+        "561",
+        "601",
+        "663",
+        "808",
+        "271",
+        "616"
+      ],
+      "hotStore": null,
+      "extraStores": [
+        "271",
+        "616"
+      ]
+    },
+    {
+      "id": "op-3585",
+      "name": "Brianna Knowlton",
+      "extension": "3585",
+      "socSite": "TX",
+      "storeCount": 21,
+      "topStore": "255",
+      "topLabel": "255 - Bealls Pecan Plaza Monahans TX",
+      "assignedStores": [
+        "023",
+        "102",
+        "173",
+        "255",
+        "329",
+        "375",
+        "480",
+        "514",
+        "562",
+        "602",
+        "677"
+      ],
+      "hotStore": null,
+      "extraStores": []
+    },
+    {
+      "id": "op-3586",
+      "name": "Zach Watkins",
+      "extension": "3586",
+      "socSite": "TX",
+      "storeCount": 54,
+      "topStore": "263",
+      "topLabel": "263 - Bealls Cleveland Mall Shelby NC",
+      "assignedStores": [
+        "024",
+        "103",
+        "179",
+        "263",
+        "334",
+        "397",
+        "486",
+        "518",
+        "563",
+        "604",
+        "680"
+      ],
+      "hotStore": null,
+      "extraStores": []
+    },
+    {
+      "id": "op-3587",
+      "name": "John Harber",
+      "extension": "3587",
+      "socSite": "TX",
+      "storeCount": 34,
+      "topStore": "271",
+      "topLabel": "271 - Bealls Waynesville Shopping Center Waynesville NC",
+      "assignedStores": [
+        "048",
+        "116",
+        "196",
+        "271",
+        "335",
+        "406",
+        "489",
+        "521",
+        "583",
+        "605",
+        "691",
+        "006"
+      ],
+      "hotStore": null,
+      "extraStores": [
+        "006"
+      ]
+    },
+    {
+      "id": "op-3588",
+      "name": "Kenjra Mays",
+      "extension": "3588",
+      "socSite": "TX",
+      "storeCount": 50,
+      "topStore": "280",
+      "topLabel": "280 - Bealls Shoppes At Rivercrest Granite Falls NC",
+      "assignedStores": [
+        "059",
+        "127",
+        "206",
+        "280",
+        "362",
+        "422",
+        "493",
+        "538",
+        "587",
+        "607",
+        "693"
+      ],
+      "hotStore": null,
+      "extraStores": []
+    },
+    {
+      "id": "op-3589",
+      "name": "April Grendell",
+      "extension": "3589",
+      "socSite": "TX",
+      "storeCount": 40,
+      "topStore": "284",
+      "topLabel": "284 - Bealls Hillsboro Plaza Tampa FL",
+      "assignedStores": [
+        "060",
+        "142",
+        "221",
+        "284",
+        "364",
+        "431",
+        "497",
+        "547",
+        "589",
+        "616",
+        "715",
+        "048"
+      ],
+      "hotStore": null,
+      "extraStores": [
+        "048",
+        "497"
+      ]
+    },
+    {
+      "id": "op-LPA",
+      "name": "Sydney Thomas",
+      "extension": "LPA",
+      "socSite": "TX",
+      "storeCount": 57,
+      "topStore": "334",
+      "topLabel": "334 - Bealls Washington NC",
+      "assignedStores": [
+        "024",
+        "103",
+        "179",
+        "263",
+        "334",
+        "397",
+        "486",
+        "518",
+        "563",
+        "604",
+        "680"
+      ],
+      "hotStore": null,
+      "extraStores": []
+    }
+  ],
+  "focusBlocks": [
+    {
+      "focusStores": [
+        "009",
+        "073",
+        "147",
+        "226",
+        "294",
+        "368",
+        "442",
+        "506",
+        "551",
+        "590",
+        "619",
+        "727"
+      ],
+      "hotStore": "001",
+      "dataminrOp": "Sydney Thomas"
+    },
+    {
+      "focusStores": [
+        "010",
+        "083",
+        "151",
+        "241",
+        "300",
+        "369",
+        "447",
+        "510",
+        "553",
+        "595",
+        "625",
+        "802"
+      ],
+      "hotStore": "012",
+      "dataminrOp": "Stephen Bowman"
+    },
+    {
+      "focusStores": [
+        "020",
+        "099",
+        "159",
+        "246",
+        "328",
+        "370",
+        "458",
+        "511",
+        "561",
+        "601",
+        "663",
+        "808"
+      ],
+      "hotStore": "066",
+      "dataminrOp": "Jason Gagliano"
+    },
+    {
+      "focusStores": [
+        "023",
+        "102",
+        "173",
+        "255",
+        "329",
+        "375",
+        "480",
+        "514",
+        "562",
+        "602",
+        "677"
+      ],
+      "hotStore": "067",
+      "dataminrOp": "Adam Wilcosh"
+    },
+    {
+      "focusStores": [
+        "024",
+        "103",
+        "179",
+        "263",
+        "334",
+        "397",
+        "486",
+        "518",
+        "563",
+        "604",
+        "680"
+      ],
+      "hotStore": "330",
+      "dataminrOp": null
+    },
+    {
+      "focusStores": [
+        "048",
+        "116",
+        "196",
+        "271",
+        "335",
+        "406",
+        "489",
+        "521",
+        "583",
+        "605",
+        "691"
+      ],
+      "hotStore": "708",
+      "dataminrOp": null
+    },
+    {
+      "focusStores": [
+        "059",
+        "127",
+        "206",
+        "280",
+        "362",
+        "422",
+        "493",
+        "538",
+        "587",
+        "607",
+        "693"
+      ],
+      "hotStore": "564",
+      "dataminrOp": null
+    },
+    {
+      "focusStores": [
+        "060",
+        "142",
+        "221",
+        "284",
+        "364",
+        "431",
+        "497",
+        "547",
+        "589",
+        "616",
+        "715"
+      ],
+      "hotStore": null,
+      "dataminrOp": null
+    }
+  ],
+  "priorityStoreIds": [
+    "009",
+    "073",
+    "147",
+    "226",
+    "294",
+    "368",
+    "442",
+    "506",
+    "551",
+    "590",
+    "619",
+    "727"
+  ],
+  "opportunityStoreIds": [
+    "001",
+    "012",
+    "066",
+    "067",
+    "330",
+    "708",
+    "564"
+  ],
+  "watchList": [
+    {
+      "id": "001",
+      "city": "Bealls Jacaranda Crossings Venice",
+      "region": "FL",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Hot Store"
+    },
+    {
+      "id": "012",
+      "city": "Bealls Naples Towne Centre SC Naples",
+      "region": "FL",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Hot Store"
+    },
+    {
+      "id": "066",
+      "city": "Bealls Cove Center Stuart",
+      "region": "FL",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Hot Store"
+    },
+    {
+      "id": "067",
+      "city": "Bealls Creekwood Crossings S.C. Bradenton",
+      "region": "FL",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Hot Store"
+    },
+    {
+      "id": "330",
+      "city": "Bealls Broadmoor Shopping Center and Mall Hobbs",
+      "region": "NM",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Hot Store"
+    },
+    {
+      "id": "708",
+      "city": "Bealls Promenade at Casa Grande Casa Grande",
+      "region": "AZ",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Hot Store"
+    },
+    {
+      "id": "564",
+      "city": "Bealls University Center Jacksonville",
+      "region": "FL",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Hot Store"
+    },
+    {
+      "id": "537",
+      "city": "Bealls Cocoplum Village Shops North Port",
+      "region": "FL",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Dataminr"
+    },
+    {
+      "id": "190",
+      "city": "Bealls Belks Plaza Douglas",
+      "region": "GA",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Dataminr"
+    },
+    {
+      "id": "194",
+      "city": "Bealls Cocoa Beach",
+      "region": "FL",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Dataminr"
+    },
+    {
+      "id": "121",
+      "city": "Bealls Gulf Gate Plaza Naples",
+      "region": "FL",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Dataminr"
+    },
+    {
+      "id": "289",
+      "city": "Bealls One Gateway Center Summersville",
+      "region": "WV",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Dataminr"
+    },
+    {
+      "id": "221",
+      "city": "Bealls Tradewinds Shopping Center Key Largo",
+      "region": "FL",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Dataminr"
+    },
+    {
+      "id": "300",
+      "city": "Bealls Northgate Mall Tullahoma",
+      "region": "TN",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Dataminr"
+    },
+    {
+      "id": "514",
+      "city": "Bealls Music City Mall Odessa",
+      "region": "TX",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Dataminr"
+    },
+    {
+      "id": "200",
+      "city": "Bealls Plant City Plaza Plant City",
+      "region": "FL",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Dataminr"
+    },
+    {
+      "id": "213",
+      "city": "Bealls Rainbow Square Mall Dunnellon",
+      "region": "FL",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Dataminr"
+    },
+    {
+      "id": "292",
+      "city": "Bealls Crestview Shopping Center Crestview",
+      "region": "FL",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Dataminr"
+    },
+    {
+      "id": "324",
+      "city": "Bealls Conch Plaza Key West",
+      "region": "FL",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Dataminr"
+    },
+    {
+      "id": "321",
+      "city": "Bealls Posner Village Davenport",
+      "region": "FL",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Dataminr"
+    },
+    {
+      "id": "523",
+      "city": "Bealls Shenandoah Square Woodstock",
+      "region": "VA",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Dataminr"
+    },
+    {
+      "id": "407",
+      "city": "Bealls Jacaranda Plaza Venice",
+      "region": "FL",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Dataminr"
+    },
+    {
+      "id": "182",
+      "city": "Bealls Superstition Plaza Apache Junction",
+      "region": "AZ",
+      "reason": "Hot store or active Dataminr alert",
+      "tier": "\u2014",
+      "socMonitored": true,
+      "lastReview": "\u2014",
+      "flag": "Dataminr"
+    }
+  ],
+  "storeLabels": {
+    "122": "122 - Bealls Food City Center LaFollette TN",
+    "127": "127 - Bealls Tomoka Town Center Daytona Beach FL",
+    "126": "126 - Bealls Bealls Plaza Lehigh Acres FL",
+    "123": "123 - Bealls Warner Robins Place Warner Robins GA",
+    "119": "119 - Bealls Disston Plaza St Petersburg FL",
+    "128": "128 - Bealls Westgate Shopping Center Bradenton FL",
+    "129": "129 - Bealls Cypress Village Shopping Center Ruskin FL",
+    "132": "132 - Bealls Eustis Square Eustis FL",
+    "130": "130 - Bealls Hollywood Festival Hollywood FL",
+    "133": "133 - Bealls New Smyrna Beach Regional Center New Smyrna Beach FL",
+    "137": "137 - Bealls Wayne Heights Mall Waynesboro PA",
+    "139": "139 - Bealls Merchants Crossing North Fort Myers FL",
+    "134": "134 - Bealls Thibodaux LA",
+    "135": "135 - Bealls Huntingdon Plaza Shopping Center Huntingdon PA",
+    "243": "243 - Bealls Live Oak Village Gulf Breeze FL",
+    "244": "244 - Bealls Mellor Park Mall El Dorado AR",
+    "247": "247 - Bealls Lake Worth Plaza West Lake Worth FL",
+    "255": "255 - Bealls Pecan Plaza Monahans TX",
+    "249": "249 - Bealls Taylor Square Perry FL",
+    "256": "256 - Bealls Gatesville TX",
+    "259": "259 - Bealls Shoppes At Boaz Boaz AL",
+    "258": "258 - Bealls University Plaza Magnolia AR",
+    "364": "364 - Bealls River's Edge Shopping Center Erwin NC",
+    "257": "257 - Bealls The Collection at Brandon Brandon FL",
+    "368": "368 - Bealls Statesboro Mall Statesboro GA",
+    "370": "370 - Bealls Sulphur Springs TX",
+    "369": "369 - Bealls Sundance Towne Center Buckeye AZ",
+    "372": "372 - Bealls Village Marketplace Fort Myers FL",
+    "373": "373 - Bealls Epic West Towne Crossing Grand Prairie TX",
+    "374": "374 - Bealls Valley Pointe Elkins WV",
+    "375": "375 - Bealls Westview Shopping Center Plainview TX",
+    "377": "377 - Bealls New Midland Plaza Alcoa TN",
+    "400": "400 - Bealls Lake Park Outlets Lake Park GA",
+    "379": "379 - Bealls Freedom Towne Center Fayetteville NC",
+    "402": "402 - Bealls Westgate Shopping Center Eunice LA",
+    "403": "403 - Bealls Columbus Corners Whiteville NC",
+    "405": "405 - Bealls Springdale Mall Mobile AL",
+    "406": "406 - Bealls Westporte Village Glendale AZ",
+    "408": "408 - Bealls Four Peaks Plaza Fountain Hills AZ",
+    "411": "411 - Bealls Colony Square Dothan AL",
+    "407": "407 - Bealls Jacaranda Plaza Venice FL",
+    "409": "409 - Bealls Treasure Coast Commons Jensen Beach FL",
+    "412": "412 - Bealls Northside Shopping Center Mena AR",
+    "415": "415 - Bealls Five Hills Shopping Center Copperas Cove TX",
+    "486": "486 - Bealls Huck Finn Shopping Center Hannibal MO",
+    "414": "414 - Bealls Athens Town Center Athens AL",
+    "485": "485 - Bealls Cartersville Crossing Cartersville GA",
+    "413": "413 - Bealls Eastland TX",
+    "489": "489 - Bealls College Park Mall Corsicana TX",
+    "490": "490 - Bealls Southgate Shopping Center Kingsville TX",
+    "491": "491 - Bealls Clewiston Plaza Clewiston FL",
+    "493": "493 - Bealls Nashville TN",
+    "492": "492 - Bealls Miramar Shopping Center Seabrook TX",
+    "494": "494 - Bealls Shops at Lake Havasu Lake Havasu AZ",
+    "495": "495 - Bealls Center Point Plaza Asheboro NC",
+    "496": "496 - Bealls Shoppers Haven Pompano Beach FL",
+    "499": "499 - Bealls Ruston Center Ruston LA",
+    "497": "497 - Bealls Danville Manor Danville KY",
+    "498": "498 - Bealls Conyers Commons Conyers GA",
+    "501": "501 - Bealls Vandemark Center Sidney OH",
+    "502": "502 - Bealls Pinecrest Plaza Southern Pines NC",
+    "504": "504 - Bealls Roanoke Rapids NC",
+    "506": "506 - Bealls Commerce Square Brownwood TX",
+    "508": "508 - Bealls Savannah Square Savannah TN",
+    "507": "507 - Bealls Piedmont Plaza Apopka FL",
+    "505": "505 - Bealls Four Corners Angleton TX",
+    "509": "509 - Bealls Kingsway Plaza Eden NC",
+    "510": "510 - Bealls London Marketplace London KY",
+    "512": "512 - Bealls Wallace Pointe Wallace NC",
+    "511": "511 - Bealls Corinth Commons Corinth MS",
+    "513": "513 - Bealls Memorial Plaza Kosciusko MS",
+    "514": "514 - Bealls Music City Mall Odessa TX",
+    "515": "515 - Bealls Hampton Village Shopping Center Taylors SC",
+    "517": "517 - Bealls Shoppes at Russellville Russellville KY",
+    "521": "521 - Bealls Town & Country Shopping Center Palatka FL",
+    "522": "522 - Bealls Marketplace of Alexander City Alexander City AL",
+    "523": "523 - Bealls Shenandoah Square Woodstock VA",
+    "518": "518 - Bealls Jackson Square Shopping Center Livingston TX",
+    "536": "536 - Bealls Mulberry Grove Plaza Lady Lake FL",
+    "524": "524 - Bealls East River Plaza Princeton WV",
+    "601": "601 - Bealls Hillside Plaza Shopping Center Forest City NC",
+    "600": "600 - Bealls Northwest Village Longview TX",
+    "602": "602 - Bealls Northland Shopping Center Cleburne TX",
+    "603": "603 - Bealls 2000 Center Okmulgee OK",
+    "607": "607 - Bealls Briarwood Shopping Center Durant OK",
+    "605": "605 - Bealls Mount Sterling Plaza Mt Sterling KY",
+    "604": "604 - Bealls Bartlesville OK",
+    "609": "609 - Bealls Cypress Trace Fort Myers FL",
+    "608": "608 - Bealls Gallatin Center Gallatin TN",
+    "612": "612 - Bealls Ingles Plaza Murphy NC",
+    "610": "610 - Bealls Keystone Village Square Keystone Heights FL",
+    "617": "617 - Bealls Bremen Crossing Shopping Center Bremen GA",
+    "615": "615 - Bealls Moundsville Plaza Moundsville WV",
+    "616": "616 - Bealls Habersham Village Shopping Center Cornelia GA",
+    "614": "614 - Bealls Hallcrest Plaza Dickson TN",
+    "618": "618 - Bealls Sun Plaza Fort Walton Beach FL",
+    "619": "619 - Bealls Centre Point Plaza Smithfield NC",
+    "620": "620 - Bealls Princeton Plaza Princeton KY",
+    "621": "621 - Bealls Wesmark Plaza Sumter SC",
+    "623": "623 - Bealls North Macon Plaza Macon GA",
+    "622": "622 - Bealls Southgate Shopping Center Lakeland FL",
+    "624": "624 - Bealls Somerset Center Somerset KY",
+    "625": "625 - Bealls Market East Shopping Center Mesquite TX",
+    "630": "630 - Bealls Barren River Plaza Glasgow KY",
+    "627": "627 - Bealls Winter Garden FL",
+    "628": "628 - Bealls Crossroads at Marshall Place Marshall TX",
+    "631": "631 - Bealls River South Commons Shopping Center Natchitoches LA",
+    "636": "636 - Bealls Central City Plaza Central City KY",
+    "637": "637 - Bealls Batesville Shopping Center Batesville MS",
+    "632": "632 - Bealls Regency Park Shopping Center Jacksonville FL",
+    "634": "634 - Bealls Market Street at Ardmore Ardmore OK",
+    "633": "633 - Bealls Bradley Commons Shop Center Cleveland TN",
+    "638": "638 - Bealls Five Points Shopping Center Corpus Christi TX",
+    "642": "642 - Bealls South Lake Plaza Clermont FL",
+    "640": "640 - Bealls Old Kings Common Shopping Center Palm Coast FL",
+    "641": "641 - Bealls Gainesville FL",
+    "639": "639 - Bealls Marketplace Shopping Center Temple TX",
+    "643": "643 - Bealls Sampson Crossing Shopping Center Clinton NC",
+    "644": "644 - Bealls Carillon Place Naples FL",
+    "645": "645 - Bealls Pembroke Pines Plaza West Pembroke Pines FL",
+    "647": "647 - Bealls Broadmoor Mart Shopping Center Meridian MS",
+    "646": "646 - Bealls Gardenside Center Henderson KY",
+    "649": "649 - Bealls Dunlawton Square Port Orange FL",
+    "651": "651 - Bealls Shoppes on the Ridge Lake Wales FL",
+    "652": "652 - Bealls Zuppardo's Plaza Bay St Louis MS",
+    "650": "650 - Bealls Main Street Oak Ridge Oak Ridge TN",
+    "654": "654 - Bealls Pilgrim Place Shopping Center Plymouth IN",
+    "653": "653 - Bealls Shops at McAlester McAlester OK",
+    "656": "656 - Bealls Bootheel Plaza Shopping Center Kennett MO",
+    "655": "655 - Bealls Wyatt Crossing Mayfield KY",
+    "704": "704 - Bealls Easley Commons Easley SC",
+    "705": "705 - Bealls Borger West Shopping Center Borger TX",
+    "657": "657 - Bealls Stage Center Heber Springs AR",
+    "708": "708 - Bealls Promenade at Casa Grande Casa Grande AZ",
+    "709": "709 - Bealls Willow Creek Plaza Prescott AZ",
+    "706": "706 - Bealls Golden Isles Plaza Brunswick GA",
+    "710": "710 - Bealls Tiffin OH",
+    "712": "712 - Bealls Barnes Crossing Tupelo MS",
+    "713": "713 - Bealls Windsor Park Center Windcrest TX",
+    "716": "716 - Bealls Jackson Square Jackson OH",
+    "715": "715 - Bealls Rockwall Market Center Rockwall TX",
+    "717": "717 - Bealls Thomson Plaza Thomson GA",
+    "721": "721 - Bealls Plaza on Galveston Island Galveston TX",
+    "718": "718 - Bealls Guymon OK",
+    "723": "723 - Bealls Ohio River Plaza Gallipolis OH",
+    "722": "722 - Bealls Andalusia AL",
+    "726": "726 - Bealls Town Fair in Princeton Princeton IN",
+    "728": "728 - Bealls Washington Center Washington Court House OH",
+    "727": "727 - Bealls Village Center Seymour IN",
+    "729": "729 - Bealls Bedford Town Fair Bedford IN",
+    "724": "724 - Bealls Lincoln Park Fayetteville TN",
+    "748": "748 - Bealls Scotland Crossing Laurinburg NC",
+    "745": "745 - Bealls Danville VA",
+    "751": "751 - Bealls Lincoln Center Lincolnton NC",
+    "746": "746 - Bealls Elk Plaza Duncan OK",
+    "754": "754 - Bealls Island Walk Fernandina Beach FL",
+    "753": "753 - Bealls Pell City Retail Center Pell City AL",
+    "755": "755 - Bealls Promenade Shopping Plaza Palm Beach Gardens FL",
+    "758": "758 - Bealls Landmark Square Columbia SC",
+    "762": "762 - Bealls Brandywine Crossing Greenfield IN",
+    "761": "761 - Bealls Fern Park Plaza Fern Park FL",
+    "756": "756 - Bealls Marketplace Farms Millington TN",
+    "763": "763 - Bealls Shoppes at Grove Grove OK",
+    "767": "767 - Bealls Westside Center Huntsville AL",
+    "764": "764 - Bealls Premiere Place Prattville AL",
+    "768": "768 - Bealls Clarksville Commons Clarksville TN",
+    "765": "765 - Bealls Orlando FL",
+    "766": "766 - Bealls Yuma Palms Yuma AZ",
+    "770": "770 - Bealls Ingles Shopping Center Marion NC",
+    "821": "821 - Bealls Gilmer TX",
+    "826": "826 - Bealls Chanute KS",
+    "828": "828 - Bealls Coffeyville Plaza Shopping Center Coffeyville KS",
+    "824": "824 - Bealls Greenville AL",
+    "827": "827 - Bealls Amarillo TX",
+    "822": "822 - Bealls Sweetwater TX",
+    "840": "840 - Bealls Sagamore at 26 Shopping Center Lafayette IN",
+    "852": "852 - Bealls Crocket Shopping Plaza Crockett TX",
+    "855": "855 - Bealls Rolla Center Shopping Center Rolla MO",
+    "858": "858 - Bealls Zanesville OH",
+    "880": "880 - Bealls Gulf Shores AL",
+    "873": "873 - Bealls New Iberia LA",
+    "897": "897 - Bealls Dalton GA",
+    "898": "898 - Bealls Butler PA",
+    "895": "895 - Bealls Shops at Checotah Checotah OK",
+    "893": "893 - Bealls Marketplace of Warsaw Warsaw IN",
+    "899": "899 - Bealls Harbor Oaks Shopping Center Rockport TX",
+    "105": "105 - Bealls Coralwood Mall Cape Coral FL",
+    "101": "101 - Bealls Fairview Park Plaza Centralia IL",
+    "104": "104 - Bealls Highland Square Inverness FL",
+    "103": "103 - Bealls Pinebrook Commons Bradenton FL",
+    "102": "102 - Bealls Shoppes at Sanford Sanford NC",
+    "107": "107 - Bealls Morgantown Mall Morgantown WV",
+    "110": "110 - Bealls Hernando West Shopping Center Spring Hill FL",
+    "108": "108 - Bealls Highland Square Brookhaven MS",
+    "111": "111 - Bealls Melbourne Shopping Center Melbourne FL",
+    "109": "109 - Bealls South Plaza Brooksville FL",
+    "116": "116 - Bealls Havandale Square Auburndale FL",
+    "113": "113 - Bealls Liberal Plaza Liberal KS",
+    "117": "117 - Bealls Clearwater Plaza Clearwater FL",
+    "118": "118 - Bealls Tarpon Square Tarpon Springs FL",
+    "121": "121 - Bealls Gulf Gate Plaza Naples FL",
+    "124": "124 - Bealls Walmart Plaza Seffner FL",
+    "120": "120 - Bealls Gulf Coast Town Center Fort Myers FL",
+    "200": "200 - Bealls Plant City Plaza Plant City FL",
+    "125": "125 - Bealls Gateway Plaza Leesburg FL",
+    "203": "203 - Bealls Gateway Shopping Center Thomasville GA",
+    "202": "202 - Bealls DeSoto Plaza Arcadia FL",
+    "204": "204 - Bealls Westgate Shopping Center Saint Cloud FL",
+    "206": "206 - Bealls Bartow FL",
+    "205": "205 - Bealls Coastal North Village N Myrtle Beach SC",
+    "208": "208 - Bealls Pompano Marketplace Pompano Beach FL",
+    "209": "209 - Bealls Rogers AR",
+    "207": "207 - Bealls Six Flags Shopping Center Milton FL",
+    "210": "210 - Bealls Polo Grounds Mall West Palm Beach FL",
+    "213": "213 - Bealls Rainbow Square Mall Dunnellon FL",
+    "212": "212 - Bealls Taylorsville Shopping Center Taylorsville NC",
+    "214": "214 - Bealls Riverside Center St Augustine FL",
+    "211": "211 - Bealls Savannah GA",
+    "215": "215 - Bealls Signature Plaza - Siloam Springs Siloam Springs AR",
+    "217": "217 - Bealls Shoppes at St. Lucie West Port St Lucie FL",
+    "216": "216 - Bealls Roseland Plaza Sebastian FL",
+    "218": "218 - Bealls Southeast Plaza Winter Haven FL",
+    "220": "220 - Bealls Tomball Parkway Plaza Tomball TX",
+    "219": "219 - Bealls Keyser Square Keyser WV",
+    "221": "221 - Bealls Tradewinds Shopping Center Key Largo FL",
+    "222": "222 - Bealls Jacaranda Square Plantation FL",
+    "224": "224 - Bealls Tamiami Crossings Naples FL",
+    "225": "225 - Bealls Town and Country Shopping Center Altavista VA",
+    "226": "226 - Bealls Pecos TX",
+    "228": "228 - Bealls Brice Square Vidalia GA",
+    "227": "227 - Bealls Island Plaza Marco Island FL",
+    "229": "229 - Bealls Norton Commons Norton VA",
+    "231": "231 - Bealls Baron's Creek Fredericksburg TX",
+    "230": "230 - Bealls Marathon Shopping Center Marathon FL",
+    "233": "233 - Bealls Veterans Plaza Alamogordo NM",
+    "234": "234 - Bealls Jefferson Square Liberty TX",
+    "235": "235 - Bealls North Gate Plaza Shopping Center Hereford TX",
+    "236": "236 - Bealls The Crossing as Sahuarita Sahuarita AZ",
+    "232": "232 - Bealls Big Pine Key Big Pine Key FL",
+    "238": "238 - Bealls Madison Square Madison FL",
+    "237": "237 - Bealls Delray Square II Delray Beach FL",
+    "241": "241 - Bealls Market Square Lakeland FL",
+    "240": "240 - Bealls Camden AR",
+    "239": "239 - Bealls Snyder TX",
+    "242": "242 - Bealls Truman Lake Shopping Center Clinton MO",
+    "245": "245 - Bealls Tifton Mall Tifton GA",
+    "318": "318 - Bealls K-Mart Shopping Center Neptune Beach FL",
+    "246": "246 - Bealls Forrest Oaks Shopping Center Mount Airy NC",
+    "082": "082 - Bealls Hodges Point Plaza Jacksonville FL",
+    "320": "320 - Bealls The Shops at Cornerstone Pampa TX",
+    "319": "319 - Bealls Ryanwood Center Vero Beach FL",
+    "321": "321 - Bealls Posner Village Davenport FL",
+    "325": "325 - Bealls Enid OK",
+    "327": "327 - Bealls La Villita Shopping Center Alice TX",
+    "324": "324 - Bealls Conch Plaza Key West FL",
+    "328": "328 - Bealls Westchester Centre High Point NC",
+    "329": "329 - Bealls Sheldon Forest Center Channelview TX",
+    "330": "330 - Bealls Broadmoor Shopping Center and Mall Hobbs NM",
+    "333": "333 - Bealls Hillsboro Plaza Hillsboro OH",
+    "335": "335 - Bealls Riverview Oaks Shopping Center Riverview FL",
+    "331": "331 - Bealls University Commons Martin TN",
+    "334": "334 - Bealls Washington NC",
+    "337": "337 - Bealls Oak Station Marianna FL",
+    "338": "338 - Bealls Glenn Crossing Fort Payne AL",
+    "336": "336 - Bealls Midlothian Town Crossing Midlothian TX",
+    "339": "339 - Bealls Winder Corners Shopping Center Winder GA",
+    "340": "340 - Bealls Town N Country Promenade Tampa FL",
+    "342": "342 - Bealls DeFuniak Square DeFuniak Springs FL",
+    "341": "341 - Bealls Parkland Plaza Cayce SC",
+    "344": "344 - Bealls Lawrenceburg Plaza Lawrenceburg TN",
+    "343": "343 - Bealls Southgate Shopping Center Lake Wales FL",
+    "345": "345 - Bealls Stone Mountain Square Stone Mountain GA",
+    "347": "347 - Bealls Town Plaza Shopping Center Leesville LA",
+    "346": "346 - Bealls Minden LA",
+    "349": "349 - Bealls Gateway Commons Owensboro KY",
+    "348": "348 - Bealls Freedom Village Jacksonville NC",
+    "351": "351 - Bealls Colony Plaza Shopping Center The Villages FL",
+    "350": "350 - Bealls Hillcrest Plaza Shopping Center Vernon TX",
+    "355": "355 - Bealls Green River Plaza Campbellsville KY",
+    "354": "354 - Bealls Southwest Plaza San Angelo TX",
+    "352": "352 - Bealls Angelina Village Lufkin TX",
+    "358": "358 - Bealls The Shops at Landrum Landrum SC",
+    "356": "356 - Bealls Washington's Square Kaufman TX",
+    "357": "357 - Bealls Madison Shopping Center Madison OH",
+    "359": "359 - Bealls Dyersburg Mall Dyersburg TN",
+    "360": "360 - Bealls Tri-County Square Corbin KY",
+    "361": "361 - Bealls Cross Trails Center Punta Gorda FL",
+    "362": "362 - Bealls Crossroads Shopping Center Hinesville GA",
+    "363": "363 - Bealls Monticello AR",
+    "367": "367 - Bealls Starkville Crossings Starkville MS",
+    "366": "366 - Bealls The Highlands Shopping Center Bristol VA",
+    "438": "438 - Bealls Avon Park Plaza Avon Park FL",
+    "442": "442 - Bealls East Ellijay GA",
+    "445": "445 - Bealls Town Shoppes of Margate Margate FL",
+    "447": "447 - Bealls Thatcher Plaza Thatcher AZ",
+    "448": "448 - Bealls Carriage Gate Richmond KY",
+    "451": "451 - Bealls University Plaza Waxahachie TX",
+    "450": "450 - Bealls Taylor Plaza Taylor TX",
+    "453": "453 - Bealls Jacaranda Crossing Venice FL",
+    "459": "459 - Bealls Payton Park Shopping Center Sylacauga AL",
+    "458": "458 - Bealls Hometown Commons Mountain Home AR",
+    "455": "455 - Bealls Decatur Commons Decatur AL",
+    "461": "461 - Bealls Perryton TX",
+    "464": "464 - Bealls Village Square Forest MS",
+    "462": "462 - Bealls Windsor Square Matthews NC",
+    "463": "463 - Bealls El Dorado Shopping Center EL Dorado KS",
+    "465": "465 - Bealls Fairway Plaza Alvin TX",
+    "468": "468 - Bealls Kilgore Plaza Shopping Center Kilgore TX",
+    "469": "469 - Bealls Dayco Crossings Dayton TN",
+    "467": "467 - Bealls Barton Commons Rockledge FL",
+    "470": "470 - Bealls The Fountains on the Lake Stafford TX",
+    "472": "472 - Bealls Payson Plaza Payson AZ",
+    "471": "471 - Bealls Carthage Super Shopping Center Carthage MS",
+    "473": "473 - Bealls Ridgeview Plaza Bluefield VA",
+    "474": "474 - Bealls Athens Promenade Athens GA",
+    "439": "439 - Bealls Village Square Shopping Center Middlesboro KY",
+    "475": "475 - Bealls Pensacola Square Shopping Center Pensacola FL",
+    "478": "478 - Bealls Northgate Shopping Center Winter Haven FL",
+    "479": "479 - Bealls Traders Square Canton TX",
+    "481": "481 - Bealls The Grove at Wesley Chapel Wesley Chapel FL",
+    "483": "483 - Bealls Kroger Shopping Center Winchester KY",
+    "480": "480 - Bealls Wytheville Commons Wytheville VA",
+    "484": "484 - Bealls River Hills Mall Kerrville TX",
+    "487": "487 - Bealls Matagorda Plaza Bay City TX",
+    "559": "559 - Bealls Sarasota Pavilion Sarasota FL",
+    "488": "488 - Bealls Sundome Plaza Sun City West AZ",
+    "563": "563 - Bealls Schillinger Town Center Mobile AL",
+    "562": "562 - Bealls Homestead Plaza Homestead FL",
+    "566": "566 - Bealls Kingsport Pavilion Shop Kingsport TN",
+    "567": "567 - Bealls Carty County Plaza Elizabethton TN",
+    "570": "570 - Bealls Brenham Shopping Center Brenham TX",
+    "572": "572 - Bealls Riverstone Plaza Canton GA",
+    "568": "568 - Bealls Waycross Market Place Waycross GA",
+    "571": "571 - Bealls Bunker Hill Shopping Center Altus OK",
+    "578": "578 - Bealls Perry Marketplace Perry GA",
+    "573": "573 - Bealls Oak Creek Niceville FL",
+    "577": "577 - Bealls Sunshine Heights Shopping Center West Monroe LA",
+    "575": "575 - Bealls Victoria Mall Victoria TX",
+    "574": "574 - Bealls Pleasanton TX",
+    "582": "582 - Bealls Picayune Place Shopping Center McComb MS",
+    "581": "581 - Bealls Knox Village Square Mt. Vernon OH",
+    "579": "579 - Bealls Roswell Mall Roswell NM",
+    "583": "583 - Bealls Lumberton Towne Center Lumberton NC",
+    "580": "580 - Bealls Newton Plaza Covington GA",
+    "585": "585 - Bealls Shoppes of Murray Murray KY",
+    "584": "584 - Bealls Willcox Village Shopping Center Willcox AZ",
+    "587": "587 - Bealls The Kroger Center Morehead KY",
+    "586": "586 - Bealls North Main Market Summerville SC",
+    "592": "592 - Bealls Porter Retail Center Porter TX",
+    "589": "589 - Bealls Maplewood Shopping Center Houston TX",
+    "590": "590 - Bealls Parktown Shopping Center Deer Park TX",
+    "593": "593 - Bealls Eastgate Plaza Wharton TX",
+    "595": "595 - Bealls Airport Plaza Mt Pleasant TX",
+    "594": "594 - Bealls Poteau OK",
+    "597": "597 - Bealls Palestine Mall Palestine TX",
+    "599": "599 - Bealls Congress Parkway Athens TN",
+    "598": "598 - Bealls Paris Square Paris TN",
+    "684": "684 - Bealls Jasper Plaza Jasper AL",
+    "687": "687 - Bealls Marketplace Community Newton NC",
+    "689": "689 - Bealls Farmers Country Market Shopping Center Portales NM",
+    "690": "690 - Bealls Southern Hills Center West Plains MO",
+    "693": "693 - Bealls Southland Crossing Shipping Center Chickasha OK",
+    "692": "692 - Bealls Kings Crossing Shop Center Port Charlotte FL",
+    "691": "691 - Bealls Hwy 70 West Shopping Center Ruidoso NM",
+    "694": "694 - Bealls Carthage Marketplace Carthage TX",
+    "695": "695 - Bealls East Point Bucyrus OH",
+    "696": "696 - Bealls Crawfordsville Square Crawfordsville IN",
+    "697": "697 - Bealls Fort Howard Square Rincon GA",
+    "698": "698 - Bealls Center Marketplace Shopping Center Center TX",
+    "699": "699 - Bealls Cornerstone Square MacClenny FL",
+    "140": "140 - Bealls Highlands Plaza La Fayette GA",
+    "142": "142 - Bealls Gun Barrel Village Gun Barrel City TX",
+    "144": "144 - Bealls Seguin Crossroads Seguin TX",
+    "143": "143 - Bealls Rutland Plaza St Petersburg FL",
+    "141": "141 - Bealls Midtown Shopping Center Columbus GA",
+    "147": "147 - Bealls Chestnut Village Orangeburg SC",
+    "149": "149 - Bealls Stuart FL",
+    "148": "148 - Bealls Dunedin Plaza Dunedin FL",
+    "151": "151 - Bealls The Crossings Crossville TN",
+    "150": "150 - Bealls Lovington Square Lovington NM",
+    "152": "152 - Bealls Andrews TX",
+    "153": "153 - Bealls Kings Bay Villiage St Marys GA",
+    "154": "154 - Bealls Saraland Loop Saraland AL",
+    "155": "155 - Bealls Colonial Plaza Morgan City LA",
+    "156": "156 - Bealls Heritage Walk Milledgeville GA",
+    "157": "157 - Bealls Magee Shopping Center Magee MS",
+    "159": "159 - Bealls Lincoln Square Jacksonville IL",
+    "162": "162 - Bealls Pasadena Shopping Center South Pasadena FL",
+    "160": "160 - Bealls Southgate Shopping Center Pensacola FL",
+    "161": "161 - Bealls Bellair Plaza Daytona Beach FL",
+    "163": "163 - Bealls Junction City KS",
+    "164": "164 - Bealls North River Village Ellenton FL",
+    "167": "167 - Bealls Spring Town Plaza Big Spring TX",
+    "169": "169 - Bealls Philipsburg Plaza Philipsburg PA",
+    "170": "170 - Bealls North Griffin Square Griffin GA",
+    "168": "168 - Bealls Southgate Shopping Center Sebring FL",
+    "173": "173 - Bealls Cedars Square Lebanon TN",
+    "174": "174 - Bealls Blue Quail Shopping Center Artesia NM",
+    "171": "171 - Bealls Grand Center Sun City AZ",
+    "175": "175 - Bealls Chiefland Regional Chiefland FL",
+    "176": "176 - Bealls London Plaza Shopping Center London OH",
+    "178": "178 - Bealls Athens Village Athens TX",
+    "179": "179 - Bealls Steeplechase Plaza Ocala FL",
+    "177": "177 - Bealls Olivet Church Crossing Paducah KY",
+    "181": "181 - Bealls Pratt KS",
+    "186": "186 - Bealls Indrio Crossings Fort Pierce FL",
+    "184": "184 - Bealls Field Club Commons Shopping Center New Castle PA",
+    "185": "185 - Bealls Okeechobee Plaza Okeechobee FL",
+    "183": "183 - Bealls Uvalde Plaza Uvalde TX",
+    "182": "182 - Bealls Superstition Plaza Apache Junction AZ",
+    "192": "192 - Bealls Northgate Shopping Center Tampa FL",
+    "188": "188 - Bealls Legacy Crossing Marion OH",
+    "191": "191 - Bealls Crystal River Plaza Crystal River FL",
+    "189": "189 - Bealls Indian Rocks Shopping Center Largo FL",
+    "190": "190 - Bealls Belks Plaza Douglas GA",
+    "195": "195 - Bealls Causeway Shopping Center Indian Harbour Beach FL",
+    "196": "196 - Bealls Franklin Plaza Franklin NC",
+    "197": "197 - Bealls Plaza of the Oaks Hudson FL",
+    "194": "194 - Bealls Cocoa Beach FL",
+    "198": "198 - Bealls Finlay Plaza Guntersville AL",
+    "199": "199 - Bealls Village Lakes Shopping Center Land O Lakes FL",
+    "201": "201 - Bealls Gateway Village Deland FL",
+    "262": "262 - Bealls Washington Square Stephenville TX",
+    "264": "264 - Bealls Crosstown Plaza West Palm Beach FL",
+    "263": "263 - Bealls Cleveland Mall Shelby NC",
+    "265": "265 - Bealls Fort Stockton Shopping Center Fort Stockton TX",
+    "269": "269 - Bealls Russelville Marketplace Russellville AL",
+    "268": "268 - Bealls Richmond Plaza Rockingham NC",
+    "273": "273 - Bealls The Pine at Toccoa Toccoa GA",
+    "271": "271 - Bealls Waynesville Shopping Center Waynesville NC",
+    "275": "275 - Bealls Eastwood Shopping Center Cleveland TX",
+    "274": "274 - Bealls Greeneville Commons Greeneville TN",
+    "278": "278 - Bealls Wellington Marketplace Wellington FL",
+    "276": "276 - Bealls Miami AZ",
+    "280": "280 - Bealls Shoppes At Rivercrest Granite Falls NC",
+    "281": "281 - Bealls Franklin Shoppes Franklin KY",
+    "283": "283 - Bealls North Fork Station Knoxville TN",
+    "282": "282 - Bealls Haines City Mall Haines City FL",
+    "284": "284 - Bealls Hillsboro Plaza Tampa FL",
+    "279": "279 - Bealls Jesup GA",
+    "287": "287 - Bealls West Towne Commons Jackson TN",
+    "288": "288 - Bealls Southchase Shopping Center Orlando FL",
+    "286": "286 - Bealls Franklin Square Gastonia NC",
+    "292": "292 - Bealls Crestview Shopping Center Crestview FL",
+    "293": "293 - Bealls Shops at Palm Coast West Palm Beach FL",
+    "291": "291 - Bealls Cherry Tree Plaza Washington IN",
+    "289": "289 - Bealls One Gateway Center Summersville WV",
+    "294": "294 - Bealls Sabal Palm Plaza Fort Pierce FL",
+    "295": "295 - Bealls Northside Square Clinton MS",
+    "299": "299 - Bealls South Baldwin Shopping Center Foley AL",
+    "297": "297 - Bealls Seminole TX",
+    "296": "296 - Bealls Ormond Beach Mall Ormond Beach FL",
+    "298": "298 - Bealls Alexandria Village Green Alexandria KY",
+    "302": "302 - Bealls The Heritage Newberry SC",
+    "300": "300 - Bealls Northgate Mall Tullahoma TN",
+    "303": "303 - Bealls BakerSmith Corners Valdosta GA",
+    "305": "305 - Bealls Emporia Marketplace Emporia VA",
+    "301": "301 - Bealls Florida Shores Plaza Edgewater FL",
+    "308": "308 - Bealls Village Shopping Center Orange Park FL",
+    "307": "307 - Bealls Troy Marketplace Troy AL",
+    "309": "309 - Bealls The Acres Shopping Center Lewisburg TN",
+    "311": "311 - Bealls River Pointe Center Madison IN",
+    "313": "313 - Bealls Sedona Village Shopping Center Sedona AZ",
+    "312": "312 - Bealls Crossroads Shopping Center Statesville NC",
+    "316": "316 - Bealls Mooreland Shopping Center Springfield TN",
+    "322": "322 - Bealls Crown Centre Plaza Orange City FL",
+    "323": "323 - Bealls Promenade at Tuskawilla Winter Springs FL",
+    "382": "382 - Bealls Tyler Pointe Rockwood TN",
+    "383": "383 - Bealls Crossroads at Terrell Terrell TX",
+    "385": "385 - Bealls Seminole Plaza Seminole FL",
+    "386": "386 - Bealls Hardee County Center Wauchula FL",
+    "387": "387 - Bealls South Highlands Shop Center Lake Placid FL",
+    "388": "388 - Bealls Beaufort SC",
+    "390": "390 - Bealls Ingles Center Piedmont SC",
+    "391": "391 - Bealls Dade Village Shopping Center Dade City FL",
+    "389": "389 - Bealls North Augusta Plaza North Augusta SC",
+    "393": "393 - Bealls Ashland VA",
+    "392": "392 - Bealls Eastridge Crossing Hendersonville NC",
+    "394": "394 - Bealls Vero Beach Outlets Vero Beach FL",
+    "398": "398 - Bealls Lee Vista Promenades Orlando FL",
+    "399": "399 - Bealls Rolling Acres Plaza Lady Lake FL",
+    "397": "397 - Bealls Stoneybrook South Louisville KY",
+    "396": "396 - Bealls Harrell Square Chipley FL",
+    "416": "416 - Bealls Enterprise Shopping Center Enterprise AL",
+    "417": "417 - Bealls Bonita Springs Bonita Springs FL",
+    "418": "418 - Bealls Henderson Square Henderson NC",
+    "422": "422 - Bealls Marble Falls TX",
+    "420": "420 - Bealls Brazos Village Shopping Center Sealy TX",
+    "425": "425 - Bealls Pier Park North Panama City Beach FL",
+    "421": "421 - Bealls Shoppes at Kissimmee Kissimmee FL",
+    "424": "424 - Bealls High Springs Shopping Center High Springs FL",
+    "426": "426 - Bealls Pioneer Square Shopping Center Lamesa TX",
+    "427": "427 - Bealls Kissimmee Value Outlet Kissimmee FL",
+    "428": "428 - Bealls Ennis TX",
+    "430": "430 - Bealls Pasco Square New Port Richey FL",
+    "429": "429 - Bealls Rivergate Plaza Port St Lucie FL",
+    "431": "431 - Bealls West Orange Plaza Orange TX",
+    "432": "432 - Bealls Greenwood Shopping Center Palm Springs FL",
+    "434": "434 - Bealls Parkway Center Tallahassee FL",
+    "433": "433 - Bealls Gateway Plaza II Conway SC",
+    "436": "436 - Bealls Savannah Festival Factory Savannah GA",
+    "435": "435 - Bealls Orlando FL",
+    "437": "437 - Bealls Westside Plaza Jacksonville FL",
+    "537": "537 - Bealls Cocoplum Village Shops North Port FL",
+    "444": "444 - Bealls Marketplace of Hobe Sound Hobe Sound FL",
+    "443": "443 - Bealls Post Commons Shopping Center Melbourne FL",
+    "538": "538 - Bealls Crossroads Center Gulfport MS",
+    "539": "539 - Bealls Zachary LA",
+    "541": "541 - Bealls Beacon Heights Shopping Center Madison GA",
+    "542": "542 - Bealls Gall Blvd. Shopping Center Zephyrhills FL",
+    "544": "544 - Bealls Meadow Park Plaza Wilmington OH",
+    "545": "545 - Bealls Lakeland Shopping Center Cumming GA",
+    "546": "546 - Bealls Lenoir City TN",
+    "543": "543 - Bealls Lake City Plaza Lake City FL",
+    "551": "551 - Bealls Chicot Crossing Shopping Center Pascagoula MS",
+    "547": "547 - Bealls 59 West Shopping Center Bessemer AL",
+    "548": "548 - Bealls Promenades Mall Port Charlotte FL",
+    "550": "550 - Bealls Plaquemine Marketplace Plaquemine LA",
+    "552": "552 - Bealls Spencer Square Pasadena TX",
+    "554": "554 - Bealls Park Terrace Shopping Center Deridder LA",
+    "549": "549 - Bealls Surfside Shopping Center Surfside Beach SC",
+    "556": "556 - Bealls Prime Outlets at Florida City Florida City FL",
+    "553": "553 - Bealls South Oaks Square Live Oak FL",
+    "555": "555 - Bealls Kings Country Pineville LA",
+    "558": "558 - Bealls Smithfield Shopping Plaza Smithfield VA",
+    "560": "560 - Bealls Hopkinsville Towne Center Hopkinsville KY",
+    "561": "561 - Bealls Luckys Shopping Center Panama City FL",
+    "564": "564 - Bealls University Center Jacksonville FL",
+    "557": "557 - Bealls Marketplace Shopping Center Palm Bay FL",
+    "565": "565 - Bealls Parker True-Value Building Parker AZ",
+    "658": "658 - Bealls York River Crossing Hayes VA",
+    "661": "661 - Bealls Shawnee Crossing Muskogee OK",
+    "659": "659 - Bealls Prime Outlets at Calhoun Calhoun GA",
+    "662": "662 - Bealls Ne-Mar Shopping Center Claremore OK",
+    "663": "663 - Bealls Fountain Place Shopping Center Logan WV",
+    "669": "669 - Bealls Foothills Shopping Center West Union SC",
+    "667": "667 - Bealls Centerlake Plaza Sarasota FL",
+    "665": "665 - Bealls Coastal Walk Marketplace Shallotte NC",
+    "670": "670 - Bealls Eckerd Plaza Crawfordville FL",
+    "671": "671 - Bealls Creekwood Crossing Bradenton FL",
+    "672": "672 - Bealls Boynton Trail Centre Boynton Beach FL",
+    "675": "675 - Bealls Emerald Coast Centre Destin FL",
+    "676": "676 - Bealls Riverside Village New Martinsville WV",
+    "677": "677 - Bealls Nitro Marketplace Cross Lanes WV",
+    "678": "678 - Bealls Six Gun Plaza Ocala FL",
+    "679": "679 - Bealls Southgate Mall Elizabeth City NC",
+    "680": "680 - Bealls Twin City Plaza Crystal City MO",
+    "682": "682 - Bealls Pigeon River Crossing Pigeon Forge TN",
+    "681": "681 - Bealls Deerfoot Village Starke FL",
+    "685": "685 - Bealls The Shoppers' Center Elberton GA",
+    "780": "780 - Bealls Mexia TX",
+    "781": "781 - Bealls High Point Village Bellefontaine OH",
+    "791": "791 - Bealls North Towne Plaza Greenville OH",
+    "792": "792 - Bealls Columbia Square Columbia City IN",
+    "797": "797 - Bealls New Castle Plaza New Castle IN",
+    "381": "381 - Bealls Western Way Shopping Center Brooksville FL",
+    "002": "002 - Bealls Southgate Mall Muscle Shoals AL",
+    "801": "801 - Bealls Cambridge OH",
+    "802": "802 - Bealls Idabel OK",
+    "384": "384 - Bealls Bay Pointe Shopping Center St Petersburg FL",
+    "803": "803 - Bealls The Shops at Emerald Acres Mattoon IL",
+    "804": "804 - Bealls Covington TN",
+    "806": "806 - Bealls Beaver Dam KY",
+    "809": "809 - Bealls Giddings TX",
+    "009": "009 - Bealls Merchants Crossing Sh.Ctr Englewood FL",
+    "859": "859 - Bealls Lumberton TX",
+    "900": "900 - Bealls Park Hills Plaza Altoona PA",
+    "808": "808 - Bealls Cleveland MS",
+    "901": "901 - Bealls West Town Plaza Shopping Center Sparta TN",
+    "904": "904 - Bealls Hobby Lobby Plaza Wichita Falls TX",
+    "909": "909 - Bealls Towne Mall Elizabethtown KY",
+    "923": "923 - Bealls Ponca Shopping Center Ponca City OK",
+    "007": "007 - Bealls Indian Harbour Place Indian Harbour Beach FL",
+    "001": "001 - Bealls Jacaranda Crossings Venice FL",
+    "006": "006 - Bealls Winter Haven FL",
+    "003": "003 - Bealls Palmer Crossing Shpg Ctr. Sarasota FL",
+    "005": "005 - Bealls Titus Landing Titusville FL",
+    "012": "012 - Bealls Naples Towne Centre SC Naples FL",
+    "013": "013 - Bealls Eustis Village Shpg Ctr. Eustis FL",
+    "010": "010 - Bealls Largo Mall Largo FL",
+    "016": "016 - Bealls Lake Shore Mall Sebring FL",
+    "017": "017 - Bealls Citrus Center Shpg Center Inverness FL",
+    "015": "015 - Bealls Indian River Vlg Shp Ctr New Smyrna Beach FL",
+    "014": "014 - Bealls Pt Charlotte Town CtrMall Port Charlotte FL",
+    "018": "018 - Bealls St. Lucie West Town Ctr. St Lucie West FL",
+    "023": "023 - Bealls Town Center Shopping Ctr. Port St. Lucie FL",
+    "019": "019 - Bealls Coralwood Mall Cape Coral FL",
+    "021": "021 - Bealls The Shoppes of Jupiter Jupiter FL",
+    "020": "020 - Bealls Town N' Country Shpg Ctr Sarasota FL",
+    "024": "024 - Bealls Fountain Court Center Bradenton FL",
+    "030": "030 - Bealls Merchants Square Shpg Ctr Zephyrhills FL",
+    "029": "029 - Bealls Park Place Plaza Port Orange FL",
+    "027": "027 - Bealls Village of Fowler Grove Winter Garden FL",
+    "031": "031 - Bealls 6-Mile Cypress Plaza Ft. Myers FL",
+    "033": "033 - Bealls Cypress Village Shpg Ctr Ruskin FL",
+    "035": "035 - Bealls Lakeland Market Place Lakeland FL",
+    "039": "039 - Bealls Crown Centre Plaza Orange City FL",
+    "038": "038 - Bealls Crystal River Plaza Crystal River FL",
+    "040": "040 - Bealls Bloomingdale Square Brandon FL",
+    "037": "037 - Bealls New Port Richey FL",
+    "041": "041 - Bealls Gateway Shoppes@Northbay Naples FL",
+    "048": "048 - Bealls Indian River Square Vero Beach FL",
+    "053": "053 - Bealls Piedmont Plaza Apopka FL",
+    "054": "054 - Bealls Clearwater FL",
+    "056": "056 - Bealls Seminole Mall Seminole FL",
+    "057": "057 - Bealls Woodlands Square Oldsmar FL",
+    "060": "060 - Bealls Ormond Towne Center Ormond Beach FL",
+    "058": "058 - Bealls Palm Coast Corners SC Palm Coast FL",
+    "059": "059 - Bealls Merchants Crossing Cape Coral FL",
+    "061": "061 - Bealls Cypress Trace Shpg Ctr Ft. Myers FL",
+    "062": "062 - Bealls Pine Ridge Crossings Naples FL",
+    "066": "066 - Bealls Cove Center Stuart FL",
+    "068": "068 - Bealls Post Commons Melbourne FL",
+    "067": "067 - Bealls Creekwood Crossings S.C. Bradenton FL",
+    "073": "073 - Bealls Cobblestone Village Saint Augustine FL",
+    "077": "077 - Bealls North Lake Plaza Leesburg FL",
+    "079": "079 - Bealls Village Oaks Shopping Ctr Pensacola FL",
+    "078": "078 - Bealls Tiger Point Shopping Ctr Gulf Breeze FL",
+    "076": "076 - Bealls Home Depot Plaza Tallahassee FL",
+    "081": "081 - Bealls County Crossings Lady Lake FL",
+    "085": "085 - Bealls Emerald Coast Shopping Centre Destin FL",
+    "083": "083 - Bealls Boynton West Shopping Ctr Boynton Beach FL",
+    "084": "084 - Bealls North Lake Plaza Lakeland FL",
+    "093": "093 - Bealls Island Walk Shpg Ctr Fernandina Beach FL",
+    "734": "734 - Bealls Buffalo Ridge Shpg Center The Villages FL",
+    "099": "099 - Bealls Summerfield Crossings Riverview FL",
+    "747": "747 - Bealls Liberty Center Orange Park FL",
+    "371": "371 - Bealls Spring Hill FL",
+    "146": "146 - Bealls Brandon FL",
+    "917": "917 - Bealls Southpark Shopping Center Tyler TX",
+    "376": "376 - Bealls Fort Myers FL",
+    "903": "903 - Bealls Palmetto FL",
+    "419": "419 - Bealls Satellite Beach FL",
+    "106": "106 - Bealls Bradenton FL",
+    "165": "165 - Bealls Titusville FL",
+    "626": "626 - Bealls Tallahassee FL",
+    "482": "482 - Bealls Union SC",
+    "520": "520 - Bealls Titusville Titusville FL",
+    "952": "952 - Bealls Madisonville Town Center Madisonville KY",
+    "956": "956 - Bealls Pulaski Plaza Pulaski VA",
+    "926": "926 - Bealls Clarksdale Clarksdale MS",
+    "954": "954 - Bealls Miami OK",
+    "955": "955 - Bealls Jefferson City TN",
+    "957": "957 - Bealls Bradford PA",
+    "959": "959 - Bealls South Boston VA",
+    "964": "964 - Bealls Gaffney SC",
+    "966": "966 - Bealls Dumas TX",
+    "968": "968 - Bealls Angola IN",
+    "972": "972 - Bealls Poplar Bluff MO",
+    "973": "973 - Bealls Dalhart TX",
+    "253": "253 - Bealls Huntington Huntington IN",
+    "922": "922 - Bealls Columbia TN",
+    "981": "981 - Bealls Main Street Shopping Center Vidor TX",
+    "991": "991 - Bealls Brownfield TX",
+    "993": "993 - Bealls Crossroads Plaza Mount Pleasant PA",
+    "918": "918 - Bealls Leechburg PA",
+    "924": "924 - Bealls Tahlequah OK",
+    "823": "823 - Bealls Broken Arrow OK",
+    "969": "969 - Bealls Jefferson NC",
+    "260": "260 - Bealls Fort Myers FL",
+    "872": "872 - Bealls Rockledge FL",
+    "401": "401 - Bealls Appomattox VA",
+    "760": "760 - Bealls Gonzales TX"
+  },
+  "storeSlots": {
+    "009": {
+      "before9": null,
+      "after9": "101",
+      "after10": "174",
+      "after11": "369"
+    },
+    "012": {
+      "before9": null,
+      "after9": "108",
+      "after10": "233",
+      "after11": "406"
+    },
+    "014": {
+      "before9": null,
+      "after9": "113",
+      "after10": "236",
+      "after11": "408"
+    },
+    "021": {
+      "before9": null,
+      "after9": "134",
+      "after10": "330",
+      "after11": "472"
+    },
+    "023": {
+      "before9": null,
+      "after9": "142",
+      "after10": "369",
+      "after11": "494"
+    },
+    "024": {
+      "before9": null,
+      "after9": "144",
+      "after10": "406",
+      "after11": "708"
+    },
+    "027": {
+      "before9": null,
+      "after9": "150",
+      "after10": "408",
+      "after11": null
+    },
+    "031": {
+      "before9": null,
+      "after9": "151",
+      "after10": "472",
+      "after11": null
+    },
+    "038": {
+      "before9": null,
+      "after9": "154",
+      "after10": "579",
+      "after11": null
+    },
+    "039": {
+      "before9": null,
+      "after9": "159",
+      "after10": "689",
+      "after11": null
+    },
+    "040": {
+      "before9": null,
+      "after9": "163",
+      "after10": "691",
+      "after11": null
+    },
+    "048": {
+      "before9": null,
+      "after9": "167",
+      "after10": "708",
+      "after11": null
+    },
+    "053": {
+      "before9": null,
+      "after9": "174",
+      "after10": null,
+      "after11": null
+    },
+    "056": {
+      "before9": null,
+      "after9": "177",
+      "after10": null,
+      "after11": null
+    },
+    "059": {
+      "before9": null,
+      "after9": "178",
+      "after10": null,
+      "after11": null
+    },
+    "060": {
+      "before9": null,
+      "after9": "181",
+      "after10": null,
+      "after11": null
+    },
+    "061": {
+      "before9": null,
+      "after9": "183",
+      "after10": null,
+      "after11": null
+    },
+    "066": {
+      "before9": null,
+      "after9": "198",
+      "after10": null,
+      "after11": null
+    },
+    "068": {
+      "before9": null,
+      "after9": "209",
+      "after10": null,
+      "after11": null
+    },
+    "073": {
+      "before9": null,
+      "after9": "215",
+      "after10": null,
+      "after11": null
+    },
+    "083": {
+      "before9": null,
+      "after9": "220",
+      "after10": null,
+      "after11": null
+    },
+    "085": {
+      "before9": null,
+      "after9": "226",
+      "after10": null,
+      "after11": null
+    },
+    "099": {
+      "before9": null,
+      "after9": "231",
+      "after10": null,
+      "after11": null
+    },
+    "101": {
+      "before9": null,
+      "after9": "233",
+      "after10": null,
+      "after11": null
+    },
+    "104": {
+      "before9": null,
+      "after9": "234",
+      "after10": null,
+      "after11": null
+    },
+    "105": {
+      "before9": null,
+      "after9": "235",
+      "after10": null,
+      "after11": null
+    },
+    "106": {
+      "before9": null,
+      "after9": "236",
+      "after10": null,
+      "after11": null
+    },
+    "107": {
+      "before9": null,
+      "after9": "239",
+      "after10": null,
+      "after11": null
+    },
+    "108": {
+      "before9": null,
+      "after9": "240",
+      "after10": null,
+      "after11": null
+    },
+    "113": {
+      "before9": null,
+      "after9": "243",
+      "after10": null,
+      "after11": null
+    },
+    "120": {
+      "before9": null,
+      "after9": "244",
+      "after10": null,
+      "after11": null
+    },
+    "122": {
+      "before9": null,
+      "after9": "255",
+      "after10": null,
+      "after11": null
+    },
+    "123": {
+      "before9": null,
+      "after9": "256",
+      "after10": null,
+      "after11": null
+    },
+    "126": {
+      "before9": null,
+      "after9": "258",
+      "after10": null,
+      "after11": null
+    },
+    "127": {
+      "before9": null,
+      "after9": "265",
+      "after10": null,
+      "after11": null
+    },
+    "129": {
+      "before9": null,
+      "after9": "275",
+      "after10": null,
+      "after11": null
+    },
+    "130": {
+      "before9": null,
+      "after9": "287",
+      "after10": null,
+      "after11": null
+    },
+    "134": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "135": {
+      "before9": null,
+      "after9": "297",
+      "after10": null,
+      "after11": null
+    },
+    "137": {
+      "before9": null,
+      "after9": "292",
+      "after10": null,
+      "after11": null
+    },
+    "139": {
+      "before9": null,
+      "after9": "300",
+      "after10": null,
+      "after11": null
+    },
+    "141": {
+      "before9": null,
+      "after9": "307",
+      "after10": null,
+      "after11": null
+    },
+    "142": {
+      "before9": null,
+      "after9": "309",
+      "after10": null,
+      "after11": null
+    },
+    "143": {
+      "before9": null,
+      "after9": "320",
+      "after10": null,
+      "after11": null
+    },
+    "144": {
+      "before9": null,
+      "after9": "325",
+      "after10": null,
+      "after11": null
+    },
+    "146": {
+      "before9": null,
+      "after9": "327",
+      "after10": null,
+      "after11": null
+    },
+    "147": {
+      "before9": null,
+      "after9": "329",
+      "after10": null,
+      "after11": null
+    },
+    "149": {
+      "before9": null,
+      "after9": "330",
+      "after10": null,
+      "after11": null
+    },
+    "150": {
+      "before9": null,
+      "after9": "331",
+      "after10": null,
+      "after11": null
+    },
+    "151": {
+      "before9": null,
+      "after9": "336",
+      "after10": null,
+      "after11": null
+    },
+    "152": {
+      "before9": null,
+      "after9": "337",
+      "after10": null,
+      "after11": null
+    },
+    "153": {
+      "before9": null,
+      "after9": "342",
+      "after10": null,
+      "after11": null
+    },
+    "154": {
+      "before9": null,
+      "after9": "346",
+      "after10": null,
+      "after11": null
+    },
+    "156": {
+      "before9": null,
+      "after9": "349",
+      "after10": null,
+      "after11": null
+    },
+    "159": {
+      "before9": null,
+      "after9": "352",
+      "after10": null,
+      "after11": null
+    },
+    "163": {
+      "before9": null,
+      "after9": "356",
+      "after10": null,
+      "after11": null
+    },
+    "164": {
+      "before9": null,
+      "after9": "363",
+      "after10": null,
+      "after11": null
+    },
+    "167": {
+      "before9": null,
+      "after9": "367",
+      "after10": null,
+      "after11": null
+    },
+    "168": {
+      "before9": null,
+      "after9": "369",
+      "after10": null,
+      "after11": null
+    },
+    "169": {
+      "before9": null,
+      "after9": "370",
+      "after10": null,
+      "after11": null
+    },
+    "174": {
+      "before9": null,
+      "after9": "373",
+      "after10": null,
+      "after11": null
+    },
+    "175": {
+      "before9": null,
+      "after9": "383",
+      "after10": null,
+      "after11": null
+    },
+    "176": {
+      "before9": null,
+      "after9": "405",
+      "after10": null,
+      "after11": null
+    },
+    "177": {
+      "before9": null,
+      "after9": "406",
+      "after10": null,
+      "after11": null
+    },
+    "178": {
+      "before9": null,
+      "after9": "408",
+      "after10": null,
+      "after11": null
+    },
+    "179": {
+      "before9": null,
+      "after9": "411",
+      "after10": null,
+      "after11": null
+    },
+    "181": {
+      "before9": null,
+      "after9": "412",
+      "after10": null,
+      "after11": null
+    },
+    "183": {
+      "before9": null,
+      "after9": "413",
+      "after10": null,
+      "after11": null
+    },
+    "184": {
+      "before9": null,
+      "after9": "415",
+      "after10": null,
+      "after11": null
+    },
+    "185": {
+      "before9": null,
+      "after9": "420",
+      "after10": null,
+      "after11": null
+    },
+    "188": {
+      "before9": null,
+      "after9": "422",
+      "after10": null,
+      "after11": null
+    },
+    "189": {
+      "before9": null,
+      "after9": "425",
+      "after10": null,
+      "after11": null
+    },
+    "190": {
+      "before9": null,
+      "after9": "428",
+      "after10": null,
+      "after11": null
+    },
+    "197": {
+      "before9": null,
+      "after9": "431",
+      "after10": null,
+      "after11": null
+    },
+    "198": {
+      "before9": null,
+      "after9": "450",
+      "after10": null,
+      "after11": null
+    },
+    "200": {
+      "before9": null,
+      "after9": "451",
+      "after10": null,
+      "after11": null
+    },
+    "204": {
+      "before9": null,
+      "after9": "455",
+      "after10": null,
+      "after11": null
+    },
+    "205": {
+      "before9": null,
+      "after9": "458",
+      "after10": null,
+      "after11": null
+    },
+    "206": {
+      "before9": null,
+      "after9": "461",
+      "after10": null,
+      "after11": null
+    },
+    "209": {
+      "before9": null,
+      "after9": "463",
+      "after10": null,
+      "after11": null
+    },
+    "211": {
+      "before9": null,
+      "after9": "465",
+      "after10": null,
+      "after11": null
+    },
+    "212": {
+      "before9": null,
+      "after9": "468",
+      "after10": null,
+      "after11": null
+    },
+    "213": {
+      "before9": null,
+      "after9": "470",
+      "after10": null,
+      "after11": null
+    },
+    "215": {
+      "before9": null,
+      "after9": "472",
+      "after10": null,
+      "after11": null
+    },
+    "216": {
+      "before9": null,
+      "after9": "479",
+      "after10": null,
+      "after11": null
+    },
+    "217": {
+      "before9": null,
+      "after9": "486",
+      "after10": null,
+      "after11": null
+    },
+    "219": {
+      "before9": null,
+      "after9": "487",
+      "after10": null,
+      "after11": null
+    },
+    "220": {
+      "before9": null,
+      "after9": "489",
+      "after10": null,
+      "after11": null
+    },
+    "221": {
+      "before9": null,
+      "after9": "490",
+      "after10": null,
+      "after11": null
+    },
+    "222": {
+      "before9": null,
+      "after9": "492",
+      "after10": null,
+      "after11": null
+    },
+    "224": {
+      "before9": null,
+      "after9": "494",
+      "after10": null,
+      "after11": null
+    },
+    "225": {
+      "before9": null,
+      "after9": "499",
+      "after10": null,
+      "after11": null
+    },
+    "226": {
+      "before9": null,
+      "after9": "505",
+      "after10": null,
+      "after11": null
+    },
+    "230": {
+      "before9": null,
+      "after9": "506",
+      "after10": null,
+      "after11": null
+    },
+    "231": {
+      "before9": null,
+      "after9": "508",
+      "after10": null,
+      "after11": null
+    },
+    "232": {
+      "before9": null,
+      "after9": "513",
+      "after10": null,
+      "after11": null
+    },
+    "233": {
+      "before9": null,
+      "after9": "514",
+      "after10": null,
+      "after11": null
+    },
+    "234": {
+      "before9": null,
+      "after9": "518",
+      "after10": null,
+      "after11": null
+    },
+    "235": {
+      "before9": null,
+      "after9": "522",
+      "after10": null,
+      "after11": null
+    },
+    "236": {
+      "before9": null,
+      "after9": "538",
+      "after10": null,
+      "after11": null
+    },
+    "237": {
+      "before9": null,
+      "after9": "539",
+      "after10": null,
+      "after11": null
+    },
+    "239": {
+      "before9": null,
+      "after9": "550",
+      "after10": null,
+      "after11": null
+    },
+    "240": {
+      "before9": null,
+      "after9": "554",
+      "after10": null,
+      "after11": null
+    },
+    "242": {
+      "before9": null,
+      "after9": "555",
+      "after10": null,
+      "after11": null
+    },
+    "243": {
+      "before9": null,
+      "after9": "560",
+      "after10": null,
+      "after11": null
+    },
+    "244": {
+      "before9": null,
+      "after9": "561",
+      "after10": null,
+      "after11": null
+    },
+    "255": {
+      "before9": null,
+      "after9": "563",
+      "after10": null,
+      "after11": null
+    },
+    "256": {
+      "before9": null,
+      "after9": "570",
+      "after10": null,
+      "after11": null
+    },
+    "257": {
+      "before9": null,
+      "after9": "571",
+      "after10": null,
+      "after11": null
+    },
+    "258": {
+      "before9": null,
+      "after9": "573",
+      "after10": null,
+      "after11": null
+    },
+    "264": {
+      "before9": null,
+      "after9": "577",
+      "after10": null,
+      "after11": null
+    },
+    "265": {
+      "before9": null,
+      "after9": "579",
+      "after10": null,
+      "after11": null
+    },
+    "268": {
+      "before9": null,
+      "after9": "589",
+      "after10": null,
+      "after11": null
+    },
+    "275": {
+      "before9": null,
+      "after9": "594",
+      "after10": null,
+      "after11": null
+    },
+    "286": {
+      "before9": null,
+      "after9": "598",
+      "after10": null,
+      "after11": null
+    },
+    "287": {
+      "before9": null,
+      "after9": "600",
+      "after10": null,
+      "after11": null
+    },
+    "291": {
+      "before9": null,
+      "after9": "603",
+      "after10": null,
+      "after11": null
+    },
+    "292": {
+      "before9": null,
+      "after9": "604",
+      "after10": null,
+      "after11": null
+    },
+    "294": {
+      "before9": null,
+      "after9": "607",
+      "after10": null,
+      "after11": null
+    },
+    "297": {
+      "before9": null,
+      "after9": "620",
+      "after10": null,
+      "after11": null
+    },
+    "298": {
+      "before9": null,
+      "after9": "628",
+      "after10": null,
+      "after11": null
+    },
+    "300": {
+      "before9": null,
+      "after9": "631",
+      "after10": null,
+      "after11": null
+    },
+    "301": {
+      "before9": null,
+      "after9": "634",
+      "after10": null,
+      "after11": null
+    },
+    "302": {
+      "before9": null,
+      "after9": "636",
+      "after10": null,
+      "after11": null
+    },
+    "305": {
+      "before9": null,
+      "after9": "639",
+      "after10": null,
+      "after11": null
+    },
+    "307": {
+      "before9": null,
+      "after9": "646",
+      "after10": null,
+      "after11": null
+    },
+    "309": {
+      "before9": null,
+      "after9": "652",
+      "after10": null,
+      "after11": null
+    },
+    "311": {
+      "before9": null,
+      "after9": "653",
+      "after10": null,
+      "after11": null
+    },
+    "320": {
+      "before9": null,
+      "after9": "657",
+      "after10": null,
+      "after11": null
+    },
+    "321": {
+      "before9": null,
+      "after9": "661",
+      "after10": null,
+      "after11": null
+    },
+    "322": {
+      "before9": null,
+      "after9": "662",
+      "after10": null,
+      "after11": null
+    },
+    "323": {
+      "before9": null,
+      "after9": "675",
+      "after10": null,
+      "after11": null
+    },
+    "324": {
+      "before9": null,
+      "after9": "680",
+      "after10": null,
+      "after11": null
+    },
+    "325": {
+      "before9": null,
+      "after9": "689",
+      "after10": null,
+      "after11": null
+    },
+    "327": {
+      "before9": null,
+      "after9": "690",
+      "after10": null,
+      "after11": null
+    },
+    "328": {
+      "before9": null,
+      "after9": "691",
+      "after10": null,
+      "after11": null
+    },
+    "329": {
+      "before9": null,
+      "after9": "693",
+      "after10": null,
+      "after11": null
+    },
+    "330": {
+      "before9": null,
+      "after9": "694",
+      "after10": null,
+      "after11": null
+    },
+    "331": {
+      "before9": null,
+      "after9": "698",
+      "after10": null,
+      "after11": null
+    },
+    "333": {
+      "before9": null,
+      "after9": "705",
+      "after10": null,
+      "after11": null
+    },
+    "334": {
+      "before9": null,
+      "after9": "708",
+      "after10": null,
+      "after11": null
+    },
+    "335": {
+      "before9": null,
+      "after9": "715",
+      "after10": null,
+      "after11": null
+    },
+    "336": {
+      "before9": null,
+      "after9": "718",
+      "after10": null,
+      "after11": null
+    },
+    "337": {
+      "before9": null,
+      "after9": "721",
+      "after10": null,
+      "after11": null
+    },
+    "342": {
+      "before9": null,
+      "after9": "722",
+      "after10": null,
+      "after11": null
+    },
+    "345": {
+      "before9": null,
+      "after9": "724",
+      "after10": null,
+      "after11": null
+    },
+    "346": {
+      "before9": null,
+      "after9": "726",
+      "after10": null,
+      "after11": null
+    },
+    "349": {
+      "before9": null,
+      "after9": "746",
+      "after10": null,
+      "after11": null
+    },
+    "350": {
+      "before9": null,
+      "after9": "756",
+      "after10": null,
+      "after11": null
+    },
+    "352": {
+      "before9": null,
+      "after9": "763",
+      "after10": null,
+      "after11": null
+    },
+    "356": {
+      "before9": null,
+      "after9": "767",
+      "after10": null,
+      "after11": null
+    },
+    "357": {
+      "before9": null,
+      "after9": "768",
+      "after10": null,
+      "after11": null
+    },
+    "363": {
+      "before9": null,
+      "after9": "780",
+      "after10": null,
+      "after11": null
+    },
+    "367": {
+      "before9": null,
+      "after9": "802",
+      "after10": null,
+      "after11": null
+    },
+    "369": {
+      "before9": null,
+      "after9": "804",
+      "after10": null,
+      "after11": null
+    },
+    "370": {
+      "before9": null,
+      "after9": "806",
+      "after10": null,
+      "after11": null
+    },
+    "371": {
+      "before9": null,
+      "after9": "808",
+      "after10": null,
+      "after11": null
+    },
+    "372": {
+      "before9": null,
+      "after9": "809",
+      "after10": null,
+      "after11": null
+    },
+    "373": {
+      "before9": null,
+      "after9": "821",
+      "after10": null,
+      "after11": null
+    },
+    "374": {
+      "before9": null,
+      "after9": "822",
+      "after10": null,
+      "after11": null
+    },
+    "376": {
+      "before9": null,
+      "after9": "824",
+      "after10": null,
+      "after11": null
+    },
+    "379": {
+      "before9": null,
+      "after9": "826",
+      "after10": null,
+      "after11": null
+    },
+    "381": {
+      "before9": null,
+      "after9": "827",
+      "after10": null,
+      "after11": null
+    },
+    "383": {
+      "before9": null,
+      "after9": "828",
+      "after10": null,
+      "after11": null
+    },
+    "385": {
+      "before9": null,
+      "after9": "855",
+      "after10": null,
+      "after11": null
+    },
+    "387": {
+      "before9": null,
+      "after9": "859",
+      "after10": null,
+      "after11": null
+    },
+    "388": {
+      "before9": null,
+      "after9": "873",
+      "after10": null,
+      "after11": null
+    },
+    "389": {
+      "before9": null,
+      "after9": "880",
+      "after10": null,
+      "after11": null
+    },
+    "390": {
+      "before9": null,
+      "after9": "893",
+      "after10": null,
+      "after11": null
+    },
+    "393": {
+      "before9": null,
+      "after9": "895",
+      "after10": null,
+      "after11": null
+    },
+    "397": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "398": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "403": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "405": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "406": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "407": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "408": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "409": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "411": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "412": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "413": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "415": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "417": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "419": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "420": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "422": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "424": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "425": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "428": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "430": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "431": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "434": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "439": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "442": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "443": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "445": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "450": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "451": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "455": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "458": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "461": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "462": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "463": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "465": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "468": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "469": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "470": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "472": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "474": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "479": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "481": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "485": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "486": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "487": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "489": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "490": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "491": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "492": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "494": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "498": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "499": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "501": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "504": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "505": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "506": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "507": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "508": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "509": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "512": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "513": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "514": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "515": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "518": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "520": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "522": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "523": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "536": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "538": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "539": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "541": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "542": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "544": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "545": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "546": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "548": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "549": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "550": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "553": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "554": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "555": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "558": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "559": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "560": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "561": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "563": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "564": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "566": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "567": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "570": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "571": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "573": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "577": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "579": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "581": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "585": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "589": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "593": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "594": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "595": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "598": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "600": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "601": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "602": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "603": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "604": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "607": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "609": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "615": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "616": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "617": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "619": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "620": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "622": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "623": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "627": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "628": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "631": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "634": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "636": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "639": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "641": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "644": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "646": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "650": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "652": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "653": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "655": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "656": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "657": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "658": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "661": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "662": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "665": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "671": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "675": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "676": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "680": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "682": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "685": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "689": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "690": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "691": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "693": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "694": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "695": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "696": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "697": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "698": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "699": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "705": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "708": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "710": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "715": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "716": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "717": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "718": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "721": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "722": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "723": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "724": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "726": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "727": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "728": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "729": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "745": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "746": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "748": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "751": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "755": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "756": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "758": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "762": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "763": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "767": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "768": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "770": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "780": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "781": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "791": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "792": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "797": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "801": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "802": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "804": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "806": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "808": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "809": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "821": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "822": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "824": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "826": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "827": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "828": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "840": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "855": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "858": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "859": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "873": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "880": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "893": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "895": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "897": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "898": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "904": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    },
+    "909": {
+      "before9": null,
+      "after9": null,
+      "after10": null,
+      "after11": null
+    }
+  },
+  "storeCoords": {
+    "122": [
+      36.347637,
+      -84.159733
+    ],
+    "127": [
+      29.219855,
+      -81.095388
+    ],
+    "126": [
+      26.605571,
+      -81.650886
+    ],
+    "123": [
+      32.619349,
+      -83.674983
+    ],
+    "119": [
+      27.805437,
+      -82.698838
+    ],
+    "128": [
+      27.49436,
+      -82.600304
+    ],
+    "129": [
+      27.714489,
+      -82.374259
+    ],
+    "132": [
+      28.828009,
+      -81.686977
+    ],
+    "130": [
+      26.025819,
+      -80.22211
+    ],
+    "133": [
+      29.012442,
+      -80.948247
+    ],
+    "137": [
+      39.745446,
+      -77.552199
+    ],
+    "139": [
+      26.684964,
+      -81.90385
+    ],
+    "134": [
+      29.803972,
+      -90.814968
+    ],
+    "135": [
+      40.482176,
+      -78.015347
+    ],
+    "243": [
+      30.357491,
+      -87.156486
+    ],
+    "244": [
+      33.232686,
+      -92.663141
+    ],
+    "247": [
+      26.61899,
+      -80.145761
+    ],
+    "255": [
+      31.581328,
+      -102.892386
+    ],
+    "249": [
+      30.09798,
+      -83.585442
+    ],
+    "256": [
+      31.434092,
+      -97.729786
+    ],
+    "259": [
+      34.215211,
+      -86.159076
+    ],
+    "258": [
+      33.269938,
+      -93.225214
+    ],
+    "364": [
+      35.323069,
+      -78.64865
+    ],
+    "257": [
+      27.937926,
+      -82.308648
+    ],
+    "368": [
+      32.436289,
+      -81.76269
+    ],
+    "370": [
+      33.113811,
+      -95.592997
+    ],
+    "369": [
+      33.442501,
+      -112.559058
+    ],
+    "372": [
+      26.512814,
+      -81.945351
+    ],
+    "373": [
+      32.694497,
+      -97.027803
+    ],
+    "374": [
+      38.88996,
+      -79.844328
+    ],
+    "375": [
+      34.184956,
+      -101.744109
+    ],
+    "377": [
+      35.7624,
+      -83.980957
+    ],
+    "400": [
+      30.679123,
+      -83.218864
+    ],
+    "379": [
+      35.057602,
+      -78.96921
+    ],
+    "402": [
+      30.496295,
+      -92.441218
+    ],
+    "403": [
+      34.300952,
+      -78.724814
+    ],
+    "405": [
+      30.679616,
+      -88.124396
+    ],
+    "406": [
+      33.580265,
+      -112.201004
+    ],
+    "408": [
+      33.572699,
+      -111.717216
+    ],
+    "411": [
+      31.227104,
+      -85.430772
+    ],
+    "407": [
+      27.051912,
+      -82.389341
+    ],
+    "409": [
+      27.241461,
+      -80.269505
+    ],
+    "412": [
+      34.585859,
+      -94.226034
+    ],
+    "415": [
+      31.118465,
+      -97.866746
+    ],
+    "486": [
+      39.724585,
+      -91.395115
+    ],
+    "414": [
+      34.788236,
+      -86.975079
+    ],
+    "485": [
+      34.165845,
+      -84.786952
+    ],
+    "413": [
+      32.400689,
+      -98.793813
+    ],
+    "489": [
+      32.074359,
+      -96.504278
+    ],
+    "490": [
+      27.494755,
+      -97.857961
+    ],
+    "491": [
+      26.755747,
+      -80.945686
+    ],
+    "493": [
+      36.181223,
+      -86.638514
+    ],
+    "492": [
+      29.571845,
+      -95.025642
+    ],
+    "494": [
+      34.569272,
+      -114.367662
+    ],
+    "495": [
+      35.693844,
+      -79.789633
+    ],
+    "496": [
+      26.273121,
+      -80.098754
+    ],
+    "499": [
+      32.541383,
+      -92.634626
+    ],
+    "497": [
+      37.619174,
+      -84.771701
+    ],
+    "498": [
+      33.631645,
+      -84.016625
+    ],
+    "501": [
+      40.287811,
+      -84.189364
+    ],
+    "502": [
+      35.178941,
+      -79.429164
+    ],
+    "504": [
+      36.436492,
+      -77.638309
+    ],
+    "506": [
+      31.731001,
+      -98.985184
+    ],
+    "508": [
+      35.221972,
+      -88.244829
+    ],
+    "507": [
+      28.669944,
+      -81.466544
+    ],
+    "505": [
+      29.184206,
+      -95.432292
+    ],
+    "509": [
+      36.491246,
+      -79.74358
+    ],
+    "510": [
+      37.112312,
+      -84.096326
+    ],
+    "512": [
+      34.741172,
+      -77.974311
+    ],
+    "511": [
+      34.911617,
+      -88.505228
+    ],
+    "513": [
+      33.058904,
+      -89.568995
+    ],
+    "514": [
+      31.894996,
+      -102.338871
+    ],
+    "515": [
+      34.901127,
+      -82.338185
+    ],
+    "517": [
+      36.843821,
+      -86.917881
+    ],
+    "521": [
+      29.646675,
+      -81.671616
+    ],
+    "522": [
+      32.920643,
+      -85.960031
+    ],
+    "523": [
+      38.866798,
+      -78.518226
+    ],
+    "518": [
+      30.710169,
+      -94.946616
+    ],
+    "536": [
+      28.98002,
+      -82.008099
+    ],
+    "524": [
+      37.361221,
+      -81.045447
+    ],
+    "601": [
+      35.33376,
+      -81.898311
+    ],
+    "600": [
+      32.526612,
+      -94.782663
+    ],
+    "602": [
+      32.337461,
+      -97.411944
+    ],
+    "603": [
+      35.604062,
+      -95.963349
+    ],
+    "607": [
+      33.992708,
+      -96.388189
+    ],
+    "605": [
+      38.06006,
+      -83.953836
+    ],
+    "604": [
+      36.748779,
+      -95.93763
+    ],
+    "609": [
+      26.549022,
+      -81.873867
+    ],
+    "608": [
+      36.382391,
+      -86.464262
+    ],
+    "612": [
+      35.106221,
+      -84.007765
+    ],
+    "610": [
+      29.790494,
+      -82.041991
+    ],
+    "617": [
+      33.705947,
+      -85.161499
+    ],
+    "615": [
+      39.913049,
+      -80.746602
+    ],
+    "616": [
+      34.540283,
+      -83.543642
+    ],
+    "614": [
+      36.065445,
+      -87.378013
+    ],
+    "618": [
+      30.426734,
+      -86.644026
+    ],
+    "619": [
+      35.521313,
+      -78.314963
+    ],
+    "620": [
+      37.114866,
+      -87.901949
+    ],
+    "621": [
+      33.954284,
+      -80.374329
+    ],
+    "623": [
+      32.928823,
+      -83.726603
+    ],
+    "622": [
+      28.013665,
+      -81.958532
+    ],
+    "624": [
+      37.065768,
+      -84.61879
+    ],
+    "625": [
+      32.81106,
+      -96.622137
+    ],
+    "630": [
+      37.007193,
+      -85.924488
+    ],
+    "627": [
+      28.520702,
+      -81.586755
+    ],
+    "628": [
+      32.524893,
+      -94.354104
+    ],
+    "631": [
+      31.744155,
+      -93.081023
+    ],
+    "636": [
+      37.275547,
+      -87.139257
+    ],
+    "637": [
+      34.312796,
+      -89.928973
+    ],
+    "632": [
+      30.318307,
+      -81.552272
+    ],
+    "634": [
+      34.189455,
+      -97.148624
+    ],
+    "633": [
+      35.200467,
+      -84.842864
+    ],
+    "638": [
+      27.8587,
+      -97.63051
+    ],
+    "642": [
+      28.550633,
+      -81.747849
+    ],
+    "640": [
+      29.556405,
+      -81.215909
+    ],
+    "641": [
+      29.662869,
+      -82.422881
+    ],
+    "639": [
+      31.071099,
+      -97.371983
+    ],
+    "643": [
+      34.990052,
+      -78.349465
+    ],
+    "644": [
+      26.20927,
+      -81.76642
+    ],
+    "645": [
+      26.00652,
+      -80.277996
+    ],
+    "647": [
+      32.410843,
+      -88.698777
+    ],
+    "646": [
+      37.825055,
+      -87.556073
+    ],
+    "649": [
+      29.127856,
+      -81.002819
+    ],
+    "651": [
+      27.95937,
+      -81.621404
+    ],
+    "652": [
+      30.318054,
+      -89.346927
+    ],
+    "650": [
+      36.01003,
+      -84.253668
+    ],
+    "654": [
+      41.363754,
+      -86.326872
+    ],
+    "653": [
+      34.896604,
+      -95.756773
+    ],
+    "656": [
+      36.238501,
+      -90.035132
+    ],
+    "655": [
+      36.718779,
+      -88.629337
+    ],
+    "704": [
+      34.827471,
+      -82.544479
+    ],
+    "705": [
+      35.660141,
+      -101.410939
+    ],
+    "657": [
+      35.503451,
+      -92.029082
+    ],
+    "708": [
+      32.883011,
+      -111.681297
+    ],
+    "709": [
+      34.562744,
+      -112.482864
+    ],
+    "706": [
+      31.214934,
+      -81.493199
+    ],
+    "710": [
+      41.112075,
+      -83.204166
+    ],
+    "712": [
+      34.31351,
+      -88.701069
+    ],
+    "713": [
+      29.516573,
+      -98.394374
+    ],
+    "716": [
+      39.047004,
+      -82.63131
+    ],
+    "715": [
+      32.896412,
+      -96.463394
+    ],
+    "717": [
+      33.462044,
+      -82.506829
+    ],
+    "721": [
+      29.273198,
+      -94.833188
+    ],
+    "718": [
+      36.698923,
+      -101.485475
+    ],
+    "723": [
+      38.825375,
+      -82.166578
+    ],
+    "722": [
+      31.316634,
+      -86.496101
+    ],
+    "726": [
+      38.354023,
+      -87.605446
+    ],
+    "728": [
+      39.549165,
+      -83.422261
+    ],
+    "727": [
+      38.960203,
+      -85.865656
+    ],
+    "729": [
+      38.86475,
+      -86.517765
+    ],
+    "724": [
+      35.130767,
+      -86.564205
+    ],
+    "748": [
+      34.755476,
+      -79.483967
+    ],
+    "745": [
+      36.599275,
+      -79.418811
+    ],
+    "751": [
+      35.490747,
+      -81.247319
+    ],
+    "746": [
+      34.523561,
+      -97.968342
+    ],
+    "754": [
+      30.640742,
+      -81.453238
+    ],
+    "753": [
+      33.594676,
+      -86.284255
+    ],
+    "755": [
+      26.820486,
+      -80.08298
+    ],
+    "758": [
+      33.978691,
+      -80.957869
+    ],
+    "762": [
+      39.808301,
+      -85.767586
+    ],
+    "761": [
+      28.65865,
+      -81.33992
+    ],
+    "756": [
+      35.358953,
+      -89.890291
+    ],
+    "763": [
+      36.578603,
+      -94.76913
+    ],
+    "767": [
+      34.744661,
+      -86.683729
+    ],
+    "764": [
+      32.461374,
+      -86.413244
+    ],
+    "768": [
+      36.506464,
+      -87.272553
+    ],
+    "765": [
+      28.54912,
+      -81.349011
+    ],
+    "766": [
+      32.701841,
+      -114.606021
+    ],
+    "770": [
+      35.674804,
+      -82.012628
+    ],
+    "821": [
+      32.744086,
+      -94.942138
+    ],
+    "826": [
+      37.666314,
+      -95.453906
+    ],
+    "828": [
+      37.034657,
+      -95.641155
+    ],
+    "824": [
+      31.850083,
+      -86.6375
+    ],
+    "827": [
+      35.175128,
+      -101.905041
+    ],
+    "822": [
+      32.474477,
+      -100.397081
+    ],
+    "840": [
+      40.421029,
+      -86.856237
+    ],
+    "852": [
+      31.326326,
+      -95.436424
+    ],
+    "855": [
+      37.928121,
+      -91.78119
+    ],
+    "858": [
+      39.992208,
+      -82.036209
+    ],
+    "880": [
+      30.301675,
+      -87.681982
+    ],
+    "873": [
+      29.982668,
+      -91.820099
+    ],
+    "897": [
+      34.765276,
+      -84.933055
+    ],
+    "898": [
+      40.874745,
+      -79.952069
+    ],
+    "895": [
+      35.47084,
+      -95.531628
+    ],
+    "893": [
+      41.237242,
+      -85.8174
+    ],
+    "899": [
+      28.05631,
+      -97.040505
+    ],
+    "105": [
+      26.611181,
+      -81.938539
+    ],
+    "101": [
+      38.527994,
+      -89.15192
+    ],
+    "104": [
+      28.830827,
+      -82.327978
+    ],
+    "103": [
+      27.46318,
+      -82.610945
+    ],
+    "102": [
+      35.445654,
+      -79.131137
+    ],
+    "107": [
+      39.628396,
+      -79.999164
+    ],
+    "110": [
+      28.456714,
+      -82.62665
+    ],
+    "108": [
+      31.580315,
+      -90.462695
+    ],
+    "111": [
+      28.086868,
+      -80.620073
+    ],
+    "109": [
+      28.541543,
+      -82.404927
+    ],
+    "116": [
+      28.051836,
+      -81.777591
+    ],
+    "113": [
+      37.056195,
+      -100.920625
+    ],
+    "117": [
+      27.952791,
+      -82.785923
+    ],
+    "118": [
+      28.148457,
+      -82.741879
+    ],
+    "121": [
+      26.128714,
+      -81.772507
+    ],
+    "124": [
+      27.983617,
+      -82.299101
+    ],
+    "120": [
+      26.48389,
+      -81.789872
+    ],
+    "200": [
+      28.002794,
+      -82.122257
+    ],
+    "125": [
+      28.822364,
+      -81.887577
+    ],
+    "203": [
+      30.855226,
+      -83.948667
+    ],
+    "202": [
+      27.211289,
+      -81.843397
+    ],
+    "204": [
+      28.246583,
+      -81.308561
+    ],
+    "206": [
+      27.902603,
+      -81.840964
+    ],
+    "205": [
+      33.839193,
+      -78.664663
+    ],
+    "208": [
+      26.214911,
+      -80.107745
+    ],
+    "209": [
+      36.367841,
+      -94.115891
+    ],
+    "207": [
+      30.61968,
+      -87.050794
+    ],
+    "210": [
+      26.665201,
+      -80.111224
+    ],
+    "213": [
+      29.059977,
+      -82.456066
+    ],
+    "212": [
+      35.911195,
+      -81.176343
+    ],
+    "214": [
+      29.867477,
+      -81.318538
+    ],
+    "211": [
+      32.007348,
+      -81.112746
+    ],
+    "215": [
+      36.183406,
+      -94.51586
+    ],
+    "217": [
+      27.318185,
+      -80.388394
+    ],
+    "216": [
+      27.842986,
+      -80.486269
+    ],
+    "218": [
+      28.002727,
+      -81.71767
+    ],
+    "220": [
+      30.078563,
+      -95.626327
+    ],
+    "219": [
+      39.441009,
+      -78.973948
+    ],
+    "221": [
+      25.11269,
+      -80.420383
+    ],
+    "222": [
+      26.149501,
+      -80.268654
+    ],
+    "224": [
+      26.060292,
+      -81.696857
+    ],
+    "225": [
+      37.121251,
+      -79.272551
+    ],
+    "226": [
+      31.416855,
+      -103.500221
+    ],
+    "228": [
+      32.206139,
+      -82.381546
+    ],
+    "227": [
+      25.955109,
+      -81.725964
+    ],
+    "229": [
+      36.95478,
+      -82.604611
+    ],
+    "231": [
+      30.259025,
+      -98.852558
+    ],
+    "230": [
+      24.729692,
+      -81.036914
+    ],
+    "233": [
+      32.897943,
+      -105.960578
+    ],
+    "234": [
+      30.074729,
+      -94.784775
+    ],
+    "235": [
+      34.83377,
+      -102.40703
+    ],
+    "236": [
+      31.909212,
+      -110.979102
+    ],
+    "232": [
+      24.673144,
+      -81.357687
+    ],
+    "238": [
+      30.47046,
+      -83.426132
+    ],
+    "237": [
+      26.460818,
+      -80.121299
+    ],
+    "241": [
+      28.082075,
+      -81.965116
+    ],
+    "240": [
+      33.582901,
+      -92.849591
+    ],
+    "239": [
+      32.709866,
+      -100.918059
+    ],
+    "242": [
+      38.363378,
+      -93.748854
+    ],
+    "245": [
+      31.460564,
+      -83.528509
+    ],
+    "318": [
+      30.323091,
+      -81.401764
+    ],
+    "246": [
+      36.475164,
+      -80.617168
+    ],
+    "082": [
+      30.284823,
+      -81.460721
+    ],
+    "320": [
+      35.56728,
+      -100.968931
+    ],
+    "319": [
+      27.641034,
+      -80.445082
+    ],
+    "321": [
+      28.224838,
+      -81.641259
+    ],
+    "325": [
+      36.391814,
+      -97.928743
+    ],
+    "327": [
+      27.757759,
+      -98.052773
+    ],
+    "324": [
+      24.562592,
+      -81.775541
+    ],
+    "328": [
+      35.939523,
+      -80.03594
+    ],
+    "329": [
+      29.779509,
+      -95.125947
+    ],
+    "330": [
+      32.712786,
+      -103.138735
+    ],
+    "333": [
+      39.219214,
+      -83.606805
+    ],
+    "335": [
+      27.858711,
+      -82.324893
+    ],
+    "331": [
+      36.342939,
+      -88.874155
+    ],
+    "334": [
+      35.561442,
+      -77.064104
+    ],
+    "337": [
+      30.761641,
+      -85.201831
+    ],
+    "338": [
+      34.439083,
+      -85.758253
+    ],
+    "336": [
+      32.460156,
+      -96.991652
+    ],
+    "339": [
+      33.981218,
+      -83.71377
+    ],
+    "340": [
+      28.027899,
+      -82.558907
+    ],
+    "342": [
+      30.70682,
+      -86.124351
+    ],
+    "341": [
+      33.98754,
+      -81.055042
+    ],
+    "344": [
+      35.266057,
+      -87.320792
+    ],
+    "343": [
+      27.892878,
+      -81.588201
+    ],
+    "345": [
+      33.820473,
+      -84.117622
+    ],
+    "347": [
+      31.124795,
+      -93.269758
+    ],
+    "346": [
+      32.621801,
+      -93.256555
+    ],
+    "349": [
+      37.763724,
+      -87.068206
+    ],
+    "348": [
+      34.754137,
+      -77.465504
+    ],
+    "351": [
+      28.866403,
+      -81.95425
+    ],
+    "350": [
+      34.160799,
+      -99.312772
+    ],
+    "355": [
+      37.341435,
+      -85.36578
+    ],
+    "354": [
+      31.418509,
+      -100.473115
+    ],
+    "352": [
+      31.309925,
+      -94.729935
+    ],
+    "358": [
+      35.172744,
+      -82.190651
+    ],
+    "356": [
+      32.576194,
+      -96.307531
+    ],
+    "357": [
+      41.804377,
+      -81.050177
+    ],
+    "359": [
+      36.06674,
+      -89.393885
+    ],
+    "360": [
+      36.961524,
+      -84.073403
+    ],
+    "361": [
+      26.929256,
+      -82.048862
+    ],
+    "362": [
+      31.838176,
+      -81.597254
+    ],
+    "363": [
+      33.637631,
+      -91.804235
+    ],
+    "367": [
+      33.448847,
+      -88.844529
+    ],
+    "366": [
+      36.636828,
+      -82.108365
+    ],
+    "438": [
+      27.585368,
+      -81.516054
+    ],
+    "442": [
+      34.658366,
+      -84.487886
+    ],
+    "445": [
+      26.258186,
+      -80.199787
+    ],
+    "447": [
+      32.838112,
+      -109.739263
+    ],
+    "448": [
+      37.73387,
+      -84.281082
+    ],
+    "451": [
+      32.406986,
+      -96.84407
+    ],
+    "450": [
+      30.593894,
+      -97.411859
+    ],
+    "453": [
+      27.051912,
+      -82.389341
+    ],
+    "459": [
+      33.176697,
+      -86.287506
+    ],
+    "458": [
+      36.35809,
+      -92.335327
+    ],
+    "455": [
+      34.565727,
+      -87.012484
+    ],
+    "461": [
+      36.390956,
+      -100.803796
+    ],
+    "464": [
+      32.377771,
+      -89.477541
+    ],
+    "462": [
+      35.132276,
+      -80.708014
+    ],
+    "463": [
+      37.818589,
+      -96.882057
+    ],
+    "465": [
+      29.406385,
+      -95.231858
+    ],
+    "468": [
+      32.389543,
+      -94.866235
+    ],
+    "469": [
+      35.4605,
+      -85.04692
+    ],
+    "467": [
+      28.332463,
+      -80.726899
+    ],
+    "470": [
+      29.636174,
+      -95.588478
+    ],
+    "472": [
+      34.237505,
+      -111.321811
+    ],
+    "471": [
+      32.732623,
+      -89.538979
+    ],
+    "473": [
+      37.23845,
+      -81.256608
+    ],
+    "474": [
+      33.940074,
+      -83.458436
+    ],
+    "439": [
+      36.611787,
+      -83.704719
+    ],
+    "475": [
+      30.488266,
+      -87.225597
+    ],
+    "478": [
+      28.034341,
+      -81.734343
+    ],
+    "479": [
+      32.543648,
+      -95.861316
+    ],
+    "481": [
+      28.245941,
+      -82.351462
+    ],
+    "483": [
+      37.995031,
+      -84.217587
+    ],
+    "480": [
+      36.956775,
+      -81.097626
+    ],
+    "484": [
+      30.043679,
+      -99.146826
+    ],
+    "487": [
+      28.984182,
+      -95.943118
+    ],
+    "559": [
+      27.260897,
+      -82.517991
+    ],
+    "488": [
+      33.654464,
+      -112.352084
+    ],
+    "563": [
+      30.677122,
+      -88.223176
+    ],
+    "562": [
+      25.475657,
+      -80.474454
+    ],
+    "566": [
+      36.550768,
+      -82.495908
+    ],
+    "567": [
+      36.348831,
+      -82.236343
+    ],
+    "570": [
+      30.140444,
+      -96.382497
+    ],
+    "572": [
+      34.251274,
+      -84.478211
+    ],
+    "568": [
+      31.195894,
+      -82.318782
+    ],
+    "571": [
+      34.653817,
+      -99.332886
+    ],
+    "578": [
+      32.465821,
+      -83.740359
+    ],
+    "573": [
+      30.517673,
+      -86.46724
+    ],
+    "577": [
+      32.517694,
+      -92.159433
+    ],
+    "575": [
+      28.868023,
+      -96.994404
+    ],
+    "574": [
+      28.944185,
+      -98.504448
+    ],
+    "582": [
+      31.261243,
+      -90.478179
+    ],
+    "581": [
+      40.400186,
+      -82.444047
+    ],
+    "579": [
+      33.44952,
+      -104.52073
+    ],
+    "583": [
+      34.668604,
+      -79.001017
+    ],
+    "580": [
+      33.604165,
+      -83.860417
+    ],
+    "585": [
+      36.620734,
+      -88.312883
+    ],
+    "584": [
+      32.26372,
+      -109.843349
+    ],
+    "587": [
+      38.193355,
+      -83.483941
+    ],
+    "586": [
+      33.033604,
+      -80.157131
+    ],
+    "592": [
+      30.10367,
+      -95.23475
+    ],
+    "589": [
+      29.687602,
+      -95.490357
+    ],
+    "590": [
+      29.680424,
+      -95.124664
+    ],
+    "593": [
+      29.325516,
+      -96.092123
+    ],
+    "595": [
+      33.135592,
+      -94.969411
+    ],
+    "594": [
+      35.076105,
+      -94.630592
+    ],
+    "597": [
+      31.734475,
+      -95.6074
+    ],
+    "599": [
+      35.447852,
+      -84.624775
+    ],
+    "598": [
+      36.289684,
+      -88.311925
+    ],
+    "684": [
+      33.84965,
+      -87.289651
+    ],
+    "687": [
+      35.69441,
+      -81.227529
+    ],
+    "689": [
+      34.170799,
+      -103.336752
+    ],
+    "690": [
+      36.712619,
+      -91.872936
+    ],
+    "693": [
+      35.031298,
+      -97.936686
+    ],
+    "692": [
+      27.004756,
+      -82.05293
+    ],
+    "691": [
+      33.320104,
+      -105.627874
+    ],
+    "694": [
+      32.160069,
+      -94.372869
+    ],
+    "695": [
+      40.810199,
+      -82.949231
+    ],
+    "696": [
+      40.022119,
+      -86.900536
+    ],
+    "697": [
+      32.276739,
+      -81.227907
+    ],
+    "698": [
+      31.799458,
+      -94.1929
+    ],
+    "699": [
+      30.267295,
+      -82.124651
+    ],
+    "140": [
+      34.744843,
+      -85.273783
+    ],
+    "142": [
+      32.332215,
+      -96.131741
+    ],
+    "144": [
+      29.570199,
+      -97.937996
+    ],
+    "143": [
+      27.829584,
+      -82.649658
+    ],
+    "141": [
+      32.479216,
+      -84.942855
+    ],
+    "147": [
+      33.515638,
+      -80.862286
+    ],
+    "149": [
+      27.162877,
+      -80.228381
+    ],
+    "148": [
+      28.016227,
+      -82.776424
+    ],
+    "151": [
+      35.980935,
+      -85.036887
+    ],
+    "150": [
+      32.946255,
+      -103.360263
+    ],
+    "152": [
+      32.331552,
+      -102.551944
+    ],
+    "153": [
+      30.750997,
+      -81.577225
+    ],
+    "154": [
+      30.824088,
+      -88.07519
+    ],
+    "155": [
+      29.698601,
+      -91.194638
+    ],
+    "156": [
+      33.105263,
+      -83.253528
+    ],
+    "157": [
+      31.868471,
+      -89.739364
+    ],
+    "159": [
+      39.721969,
+      -90.242889
+    ],
+    "162": [
+      27.757475,
+      -82.735136
+    ],
+    "160": [
+      30.395664,
+      -87.276268
+    ],
+    "161": [
+      29.262987,
+      -81.028796
+    ],
+    "163": [
+      39.021321,
+      -96.821201
+    ],
+    "164": [
+      27.533696,
+      -82.500401
+    ],
+    "167": [
+      32.244872,
+      -101.446018
+    ],
+    "169": [
+      40.902727,
+      -78.233255
+    ],
+    "170": [
+      33.276688,
+      -84.293729
+    ],
+    "168": [
+      27.473606,
+      -81.444465
+    ],
+    "173": [
+      36.190657,
+      -86.291312
+    ],
+    "174": [
+      32.842666,
+      -104.418613
+    ],
+    "171": [
+      33.60167,
+      -112.291426
+    ],
+    "175": [
+      29.501752,
+      -82.872088
+    ],
+    "176": [
+      39.896186,
+      -83.436742
+    ],
+    "178": [
+      32.207704,
+      -95.835549
+    ],
+    "179": [
+      29.075894,
+      -82.262828
+    ],
+    "177": [
+      37.075318,
+      -88.695997
+    ],
+    "181": [
+      37.645635,
+      -98.719001
+    ],
+    "186": [
+      27.522591,
+      -80.396961
+    ],
+    "184": [
+      41.057542,
+      -80.356034
+    ],
+    "185": [
+      27.212368,
+      -80.828339
+    ],
+    "183": [
+      29.222196,
+      -99.765833
+    ],
+    "182": [
+      33.413239,
+      -111.552932
+    ],
+    "192": [
+      28.031376,
+      -82.457648
+    ],
+    "188": [
+      40.582882,
+      -83.081518
+    ],
+    "191": [
+      28.868378,
+      -82.581721
+    ],
+    "189": [
+      27.882559,
+      -82.834063
+    ],
+    "190": [
+      31.489008,
+      -82.84917
+    ],
+    "195": [
+      28.136997,
+      -80.596176
+    ],
+    "196": [
+      35.164751,
+      -83.39279
+    ],
+    "197": [
+      28.329895,
+      -82.668579
+    ],
+    "194": [
+      28.356506,
+      -80.609925
+    ],
+    "198": [
+      34.352155,
+      -86.314618
+    ],
+    "199": [
+      28.190741,
+      -82.457512
+    ],
+    "201": [
+      29.053674,
+      -81.306145
+    ],
+    "262": [
+      32.205809,
+      -98.240116
+    ],
+    "264": [
+      26.720869,
+      -80.114331
+    ],
+    "263": [
+      35.269159,
+      -81.483506
+    ],
+    "265": [
+      30.895894,
+      -102.896622
+    ],
+    "269": [
+      34.516003,
+      -87.718609
+    ],
+    "268": [
+      34.92198,
+      -79.746479
+    ],
+    "273": [
+      34.569779,
+      -83.310248
+    ],
+    "271": [
+      35.501466,
+      -82.985225
+    ],
+    "275": [
+      30.340326,
+      -95.066986
+    ],
+    "274": [
+      36.173628,
+      -82.797465
+    ],
+    "278": [
+      26.663948,
+      -80.266194
+    ],
+    "276": [
+      33.412087,
+      -110.838054
+    ],
+    "280": [
+      35.78101,
+      -81.392092
+    ],
+    "281": [
+      36.698078,
+      -86.569664
+    ],
+    "283": [
+      36.088839,
+      -83.936465
+    ],
+    "282": [
+      28.105171,
+      -81.637971
+    ],
+    "284": [
+      27.994709,
+      -82.488009
+    ],
+    "279": [
+      31.60526,
+      -81.908574
+    ],
+    "287": [
+      35.68384,
+      -88.858176
+    ],
+    "288": [
+      28.384632,
+      -81.402226
+    ],
+    "286": [
+      35.261959,
+      -81.122324
+    ],
+    "292": [
+      30.734667,
+      -86.563829
+    ],
+    "293": [
+      26.648752,
+      -80.05812
+    ],
+    "291": [
+      38.650429,
+      -87.153977
+    ],
+    "289": [
+      38.303372,
+      -80.837149
+    ],
+    "294": [
+      27.424251,
+      -80.327727
+    ],
+    "295": [
+      32.348799,
+      -90.314413
+    ],
+    "299": [
+      30.393601,
+      -87.684963
+    ],
+    "297": [
+      32.719299,
+      -102.644584
+    ],
+    "296": [
+      29.323168,
+      -81.057052
+    ],
+    "298": [
+      38.984854,
+      -84.398948
+    ],
+    "302": [
+      34.283416,
+      -81.589681
+    ],
+    "300": [
+      35.378851,
+      -86.225219
+    ],
+    "303": [
+      30.875208,
+      -83.29391
+    ],
+    "305": [
+      36.704774,
+      -77.542869
+    ],
+    "301": [
+      28.971083,
+      -80.897102
+    ],
+    "308": [
+      30.139158,
+      -81.774741
+    ],
+    "307": [
+      31.779511,
+      -85.948716
+    ],
+    "309": [
+      35.447253,
+      -86.778263
+    ],
+    "311": [
+      38.779737,
+      -85.380869
+    ],
+    "313": [
+      34.864752,
+      -111.793792
+    ],
+    "312": [
+      35.810312,
+      -80.871592
+    ],
+    "316": [
+      36.492925,
+      -86.87864
+    ],
+    "322": [
+      28.913572,
+      -81.295729
+    ],
+    "323": [
+      28.64534,
+      -81.265108
+    ],
+    "382": [
+      35.881645,
+      -84.657149
+    ],
+    "383": [
+      32.719446,
+      -96.326211
+    ],
+    "385": [
+      27.83719,
+      -82.785692
+    ],
+    "386": [
+      27.531166,
+      -81.808601
+    ],
+    "387": [
+      27.302054,
+      -81.359953
+    ],
+    "388": [
+      32.438582,
+      -80.703754
+    ],
+    "390": [
+      34.782854,
+      -82.486789
+    ],
+    "391": [
+      28.344348,
+      -82.185129
+    ],
+    "389": [
+      33.497332,
+      -81.962284
+    ],
+    "393": [
+      37.760694,
+      -77.468924
+    ],
+    "392": [
+      35.33969,
+      -82.44576
+    ],
+    "394": [
+      27.634352,
+      -80.521401
+    ],
+    "398": [
+      28.466682,
+      -81.306466
+    ],
+    "399": [
+      28.902578,
+      -81.914275
+    ],
+    "397": [
+      38.196499,
+      -85.605096
+    ],
+    "396": [
+      30.76357,
+      -85.544233
+    ],
+    "416": [
+      31.318807,
+      -85.828887
+    ],
+    "417": [
+      26.331549,
+      -81.810126
+    ],
+    "418": [
+      36.333255,
+      -78.444188
+    ],
+    "422": [
+      30.604868,
+      -98.370847
+    ],
+    "420": [
+      29.760673,
+      -96.153154
+    ],
+    "425": [
+      30.223382,
+      -85.866935
+    ],
+    "421": [
+      28.264176,
+      -81.433986
+    ],
+    "424": [
+      29.841054,
+      -82.601444
+    ],
+    "426": [
+      32.756369,
+      -101.949906
+    ],
+    "427": [
+      28.318213,
+      -81.466948
+    ],
+    "428": [
+      32.332068,
+      -96.616804
+    ],
+    "430": [
+      28.218482,
+      -82.695718
+    ],
+    "429": [
+      27.272271,
+      -80.315508
+    ],
+    "431": [
+      30.092965,
+      -93.764314
+    ],
+    "432": [
+      26.637828,
+      -80.086928
+    ],
+    "434": [
+      30.436452,
+      -84.264999
+    ],
+    "433": [
+      33.858053,
+      -79.088623
+    ],
+    "436": [
+      32.000717,
+      -81.283971
+    ],
+    "435": [
+      28.556369,
+      -81.208936
+    ],
+    "437": [
+      30.304956,
+      -81.750586
+    ],
+    "537": [
+      27.036053,
+      -82.209849
+    ],
+    "444": [
+      27.061303,
+      -80.135444
+    ],
+    "443": [
+      28.174546,
+      -80.67376
+    ],
+    "538": [
+      30.438546,
+      -89.089716
+    ],
+    "539": [
+      30.645954,
+      -91.147972
+    ],
+    "541": [
+      33.570292,
+      -83.475474
+    ],
+    "542": [
+      28.245557,
+      -82.188325
+    ],
+    "544": [
+      39.452673,
+      -83.800175
+    ],
+    "545": [
+      34.184009,
+      -84.143761
+    ],
+    "546": [
+      35.802701,
+      -84.263353
+    ],
+    "543": [
+      30.178015,
+      -82.638131
+    ],
+    "551": [
+      30.381872,
+      -88.524691
+    ],
+    "547": [
+      33.359609,
+      -87.000956
+    ],
+    "548": [
+      26.98395,
+      -82.097987
+    ],
+    "550": [
+      30.273328,
+      -91.235194
+    ],
+    "552": [
+      29.664683,
+      -95.187964
+    ],
+    "554": [
+      30.863013,
+      -93.288703
+    ],
+    "549": [
+      33.613697,
+      -78.981763
+    ],
+    "556": [
+      25.452643,
+      -80.47289
+    ],
+    "553": [
+      30.281916,
+      -82.989844
+    ],
+    "555": [
+      31.36187,
+      -92.411351
+    ],
+    "558": [
+      36.955229,
+      -76.603406
+    ],
+    "560": [
+      36.812622,
+      -87.473748
+    ],
+    "561": [
+      30.19072,
+      -85.651138
+    ],
+    "564": [
+      30.260942,
+      -81.62429
+    ],
+    "557": [
+      28.017644,
+      -80.624887
+    ],
+    "565": [
+      34.154523,
+      -114.281092
+    ],
+    "658": [
+      37.276255,
+      -76.497966
+    ],
+    "661": [
+      35.771433,
+      -95.341886
+    ],
+    "659": [
+      34.459958,
+      -84.918455
+    ],
+    "662": [
+      36.314245,
+      -95.621728
+    ],
+    "663": [
+      37.85868,
+      -82.044204
+    ],
+    "669": [
+      34.757023,
+      -83.047027
+    ],
+    "667": [
+      27.296356,
+      -82.453231
+    ],
+    "665": [
+      33.981634,
+      -78.378151
+    ],
+    "670": [
+      30.192895,
+      -84.372358
+    ],
+    "671": [
+      27.445618,
+      -82.463683
+    ],
+    "672": [
+      26.528671,
+      -80.120397
+    ],
+    "675": [
+      30.389116,
+      -86.452335
+    ],
+    "676": [
+      39.664458,
+      -80.859719
+    ],
+    "677": [
+      38.358968,
+      -81.746873
+    ],
+    "678": [
+      29.211137,
+      -82.070231
+    ],
+    "679": [
+      36.292693,
+      -76.240942
+    ],
+    "680": [
+      38.217379,
+      -90.387777
+    ],
+    "682": [
+      35.80543,
+      -83.568384
+    ],
+    "681": [
+      29.933646,
+      -82.11835
+    ],
+    "685": [
+      34.101929,
+      -82.848833
+    ],
+    "780": [
+      31.686291,
+      -96.46941
+    ],
+    "781": [
+      40.331953,
+      -83.758133
+    ],
+    "791": [
+      40.122588,
+      -84.61905
+    ],
+    "792": [
+      41.171818,
+      -85.481303
+    ],
+    "797": [
+      39.927086,
+      -85.383552
+    ],
+    "381": [
+      28.535777,
+      -82.512453
+    ],
+    "002": [
+      34.745998,
+      -87.671178
+    ],
+    "801": [
+      39.996629,
+      -81.575346
+    ],
+    "802": [
+      33.897111,
+      -94.811172
+    ],
+    "384": [
+      27.721265,
+      -82.68083
+    ],
+    "803": [
+      39.481623,
+      -88.329059
+    ],
+    "804": [
+      35.74172,
+      -89.556293
+    ],
+    "806": [
+      37.431644,
+      -86.885966
+    ],
+    "809": [
+      30.178299,
+      -96.914176
+    ],
+    "009": [
+      26.935713,
+      -82.339124
+    ],
+    "859": [
+      30.254745,
+      -94.199784
+    ],
+    "900": [
+      40.470277,
+      -78.403863
+    ],
+    "808": [
+      33.743317,
+      -90.716367
+    ],
+    "901": [
+      35.945002,
+      -85.486618
+    ],
+    "904": [
+      33.856189,
+      -98.536441
+    ],
+    "909": [
+      37.731477,
+      -85.888436
+    ],
+    "923": [
+      36.737332,
+      -97.069256
+    ],
+    "007": [
+      28.139636,
+      -80.596111
+    ],
+    "001": [
+      27.052213,
+      -82.392435
+    ],
+    "006": [
+      27.98989,
+      -81.686454
+    ],
+    "003": [
+      27.266743,
+      -82.461906
+    ],
+    "005": [
+      28.587173,
+      -80.802358
+    ],
+    "012": [
+      26.122896,
+      -81.759731
+    ],
+    "013": [
+      28.824994,
+      -81.70296
+    ],
+    "010": [
+      27.892684,
+      -82.782028
+    ],
+    "016": [
+      27.489363,
+      -81.487538
+    ],
+    "017": [
+      28.855717,
+      -82.386903
+    ],
+    "015": [
+      29.026625,
+      -80.893566
+    ],
+    "014": [
+      27.00838,
+      -82.14595
+    ],
+    "018": [
+      27.315156,
+      -80.404098
+    ],
+    "023": [
+      27.278007,
+      -80.294258
+    ],
+    "019": [
+      26.608821,
+      -81.937841
+    ],
+    "021": [
+      26.934515,
+      -80.079091
+    ],
+    "020": [
+      27.340157,
+      -82.499088
+    ],
+    "024": [
+      27.494497,
+      -82.625215
+    ],
+    "030": [
+      28.265544,
+      -82.190906
+    ],
+    "029": [
+      29.130877,
+      -81.00515
+    ],
+    "027": [
+      28.522898,
+      -81.581064
+    ],
+    "031": [
+      26.607383,
+      -81.813435
+    ],
+    "033": [
+      27.713871,
+      -82.374253
+    ],
+    "035": [
+      27.99774,
+      -81.926693
+    ],
+    "039": [
+      28.913824,
+      -81.296097
+    ],
+    "038": [
+      28.866834,
+      -82.581636
+    ],
+    "040": [
+      27.890912,
+      -82.271621
+    ],
+    "037": [
+      28.218353,
+      -82.697447
+    ],
+    "041": [
+      26.296276,
+      -81.8043
+    ],
+    "048": [
+      27.640887,
+      -80.449514
+    ],
+    "053": [
+      28.669987,
+      -81.46694
+    ],
+    "054": [
+      27.96209,
+      -82.749042
+    ],
+    "056": [
+      27.844751,
+      -82.792203
+    ],
+    "057": [
+      28.050158,
+      -82.70082
+    ],
+    "060": [
+      29.257534,
+      -81.109369
+    ],
+    "058": [
+      29.551588,
+      -81.230025
+    ],
+    "059": [
+      26.684269,
+      -81.905561
+    ],
+    "061": [
+      26.549022,
+      -81.873867
+    ],
+    "062": [
+      26.208513,
+      -81.769068
+    ],
+    "066": [
+      27.134166,
+      -80.203808
+    ],
+    "068": [
+      28.175185,
+      -80.673709
+    ],
+    "067": [
+      27.445778,
+      -82.464952
+    ],
+    "073": [
+      29.865013,
+      -81.331518
+    ],
+    "077": [
+      28.834754,
+      -81.888365
+    ],
+    "079": [
+      30.490071,
+      -87.225908
+    ],
+    "078": [
+      30.385804,
+      -87.083887
+    ],
+    "076": [
+      30.496274,
+      -84.247652
+    ],
+    "081": [
+      28.958386,
+      -81.959294
+    ],
+    "085": [
+      30.389396,
+      -86.452096
+    ],
+    "083": [
+      26.528685,
+      -80.124604
+    ],
+    "084": [
+      28.09587,
+      -81.970357
+    ],
+    "093": [
+      30.640846,
+      -81.45279
+    ],
+    "734": [
+      28.93038,
+      -82.019092
+    ],
+    "099": [
+      27.795649,
+      -82.332574
+    ],
+    "747": [
+      30.15686,
+      -81.748791
+    ],
+    "371": [
+      28.453743,
+      -82.63294
+    ],
+    "146": [
+      27.890915,
+      -82.270381
+    ],
+    "917": [
+      32.312029,
+      -95.276362
+    ],
+    "376": [
+      26.58607,
+      -81.869643
+    ],
+    "903": [
+      27.599275,
+      -82.498904
+    ],
+    "419": [
+      28.185239,
+      -80.59444
+    ],
+    "106": [
+      27.497328,
+      -82.633024
+    ],
+    "165": [
+      28.575315,
+      -80.801615
+    ],
+    "626": [
+      30.461171,
+      -84.357861
+    ],
+    "482": [
+      34.723938,
+      -81.641216
+    ],
+    "520": [
+      28.616683,
+      -80.84329
+    ],
+    "952": [
+      37.348032,
+      -87.49237
+    ],
+    "956": [
+      37.04696,
+      -80.755803
+    ],
+    "926": [
+      34.188166,
+      -90.577951
+    ],
+    "954": [
+      36.897543,
+      -94.879082
+    ],
+    "955": [
+      36.11368,
+      -83.49394
+    ],
+    "957": [
+      41.978081,
+      -78.61976
+    ],
+    "959": [
+      36.713951,
+      -78.911578
+    ],
+    "964": [
+      35.084984,
+      -81.662169
+    ],
+    "966": [
+      35.866578,
+      -101.974884
+    ],
+    "968": [
+      41.659552,
+      -84.996948
+    ],
+    "972": [
+      36.770316,
+      -90.417109
+    ],
+    "973": [
+      36.049332,
+      -102.513258
+    ],
+    "253": [
+      40.893941,
+      -85.508676
+    ],
+    "922": [
+      35.597462,
+      -87.055291
+    ],
+    "981": [
+      30.144047,
+      -94.014523
+    ],
+    "991": [
+      33.182009,
+      -102.25523
+    ],
+    "993": [
+      40.125122,
+      -79.55077
+    ],
+    "918": [
+      40.60606,
+      -79.60666
+    ],
+    "924": [
+      35.902501,
+      -94.973243
+    ],
+    "823": [
+      36.064372,
+      -95.788541
+    ],
+    "969": [
+      36.421527,
+      -81.457831
+    ],
+    "260": [
+      26.607288,
+      -81.813726
+    ],
+    "872": [
+      28.329946,
+      -80.719887
+    ],
+    "401": [
+      37.365889,
+      -78.845297
+    ],
+    "760": [
+      29.520441,
+      -97.442952
+    ]
+  },
+  "dataminrAlerts": [
+    {
+      "store": "182",
+      "activity": "Protest",
+      "start": "2026-03-28T09:00:00",
+      "end": "2026-03-28T12:00:00",
+      "comments": "0.14 mi",
+      "operator": "Sydney Thomas"
+    },
+    {
+      "store": "121",
+      "activity": "Protest",
+      "start": "2026-03-28T10:00:00",
+      "end": "2026-03-28T12:00:00",
+      "comments": "0.47 mi",
+      "operator": "Stephen Bowman"
+    },
+    {
+      "store": "213",
+      "activity": "Protest",
+      "start": "2026-03-28T10:00:00",
+      "end": "2026-03-28T12:00:00",
+      "comments": "0.38 mi",
+      "operator": "Jason Gagliano"
+    },
+    {
+      "store": "407",
+      "activity": "Protest",
+      "start": "2026-03-28T10:00:00",
+      "end": "2026-03-28T12:00:00",
+      "comments": "0.11 mi",
+      "operator": null
+    },
+    {
+      "store": "221",
+      "activity": "Protest",
+      "start": "2026-03-28T10:00:00",
+      "end": "2026-03-28T12:00:00",
+      "comments": "0.66 mi",
+      "operator": null
+    },
+    {
+      "store": "321",
+      "activity": "Protest",
+      "start": "2026-03-28T10:00:00",
+      "end": "2026-03-28T13:00:00",
+      "comments": "0.07 mi",
+      "operator": null
+    },
+    {
+      "store": "292",
+      "activity": "Protest",
+      "start": "2026-03-28T10:00:00",
+      "end": "2026-03-28T12:00:00",
+      "comments": "0.12 mi",
+      "operator": null
+    },
+    {
+      "store": "289",
+      "activity": "Protest",
+      "start": "2026-03-28T10:00:00",
+      "end": "2026-03-28T12:00:00",
+      "comments": "0.33 mi",
+      "operator": null
+    },
+    {
+      "store": "523",
+      "activity": "Protest",
+      "start": "2026-03-28T10:00:00",
+      "end": "2026-03-28T12:00:00",
+      "comments": "0.15 mi",
+      "operator": null
+    },
+    {
+      "store": "200",
+      "activity": "Protest",
+      "start": "2026-03-28T11:00:00",
+      "end": "2026-03-28T13:00:00",
+      "comments": "0.99 mi",
+      "operator": "Adam Wilcosh"
+    },
+    {
+      "store": "324",
+      "activity": "Protest",
+      "start": "2026-03-28T11:00:00",
+      "end": "2026-03-28T13:00:00",
+      "comments": "0.91 mi",
+      "operator": "Sydney Thomas"
+    },
+    {
+      "store": "537",
+      "activity": "Protest",
+      "start": "2026-03-28T11:30:00",
+      "end": "2026-03-28T13:00:00",
+      "comments": "0.15 mi",
+      "operator": "Adam Wilcosh"
+    },
+    {
+      "store": "300",
+      "activity": "Protest",
+      "start": "2026-03-28T12:00:00",
+      "end": "2026-03-28T14:00:00",
+      "comments": "0.59 mi",
+      "operator": "Sydney Thomas"
+    },
+    {
+      "store": "190",
+      "activity": "Protest",
+      "start": "2026-03-28T12:00:00",
+      "end": "2026-03-28T14:00:00",
+      "comments": "0.08 mi",
+      "operator": "Sydney Thomas"
+    },
+    {
+      "store": "514",
+      "activity": "Protest",
+      "start": "2026-03-28T12:00:00",
+      "end": "2026-03-28T16:00:00",
+      "comments": "0.23 mi",
+      "operator": "Sydney Thomas"
+    },
+    {
+      "store": "194",
+      "activity": "Protest",
+      "start": "2026-03-28T12:00:00",
+      "end": "2026-03-28T15:00:00",
+      "comments": "0.89 mi",
+      "operator": "Sydney Thomas"
+    }
+  ],
+  "defaultOperatorExt": "3516"
+}

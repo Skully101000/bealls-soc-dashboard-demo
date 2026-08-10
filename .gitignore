@@ -1,0 +1,9 @@
+node_modules
+dist
+.DS_Store
+*.local
+src/app/data/.hifld-law-enforcement-cache.json
+
+.env
+.env.*
+*.log

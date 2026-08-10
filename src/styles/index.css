@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import './theme.css';
+
+/* Store detail slide-out must sit above Leaflet (panes up to ~1000) */
+.store-locator-overlay {
+  z-index: 10000 !important;
+}

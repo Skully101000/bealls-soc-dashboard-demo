@@ -1,0 +1,14 @@
+# Cloudflare Pages — optional helper for `npx wrangler pages deploy`
+# Phase 1 needs no secrets or environment variables.
+#
+# Dashboard build (also documented in STAFF_ROLLOUT.md):
+#   Build command: npm run build
+#   Output directory: dist
+#
+# Deploy after building:
+#   npm run build
+#   npx wrangler pages deploy dist --project-name=soc-dashboard
+
+name = "soc-dashboard"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = "dist"

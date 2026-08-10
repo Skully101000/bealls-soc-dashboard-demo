@@ -1,0 +1,5313 @@
+{
+  "source": "scripts/fetch-law-enforcement.py",
+  "fetchedAt": "2026-08-08",
+  "dataset": "HIFLD Local Law Enforcement Locations RAPT",
+  "storeCount": 663,
+  "withPhone": 669,
+  "stores": {
+    "122": {
+      "agencyName": "Lafollette Police Department",
+      "contactInfo": "(423) 562-8331",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Campbell County",
+      "distanceMiles": 3.1
+    },
+    "127": {
+      "agencyName": "Daytona Beach Police Department - Headquarters",
+      "contactInfo": "(386) 671-5100",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Volusia County",
+      "distanceMiles": 3.7
+    },
+    "126": {
+      "agencyName": "Fort Myers City Police Department",
+      "contactInfo": "(239) 321-7700",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lee County",
+      "distanceMiles": 13.6
+    },
+    "123": {
+      "agencyName": "Warner Robins Police Department",
+      "contactInfo": "(478) 929-1170",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Houston County",
+      "distanceMiles": 3.9
+    },
+    "119": {
+      "agencyName": "Kenneth City Police Department",
+      "contactInfo": "(727) 544-2564",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pinellas County",
+      "distanceMiles": 1.0
+    },
+    "128": {
+      "agencyName": "Bradenton Police Department",
+      "contactInfo": "(941) 932-9300",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Manatee County",
+      "distanceMiles": 1.7
+    },
+    "129": {
+      "agencyName": "Manatee County Detention Facility",
+      "contactInfo": "(941) 747-3011",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hillsborough County",
+      "distanceMiles": 11.1
+    },
+    "132": {
+      "agencyName": "Eustis Police Department",
+      "contactInfo": "(352) 357-4121",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lake County",
+      "distanceMiles": 1.3
+    },
+    "130": {
+      "agencyName": "Hollywood Police Department",
+      "contactInfo": "(954) 786-4200",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Broward County",
+      "distanceMiles": 3.1
+    },
+    "133": {
+      "agencyName": "New Smyrna Beach Police Department",
+      "contactInfo": "(386) 424-2220",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Volusia County",
+      "distanceMiles": 2.5
+    },
+    "137": {
+      "agencyName": "Washington Township Police Department",
+      "contactInfo": "(717) 762-1447",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Franklin County",
+      "distanceMiles": 0.3
+    },
+    "139": {
+      "agencyName": "Lee County Jail",
+      "contactInfo": "(239) 477-1500",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lee County",
+      "distanceMiles": 3.6
+    },
+    "134": {
+      "agencyName": "Thibodaux Police Department",
+      "contactInfo": "(985) 446-5021",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lafourche Parish",
+      "distanceMiles": 1.4
+    },
+    "135": {
+      "agencyName": "Huntingdon Borough Police Department",
+      "contactInfo": "(814) 643-3960",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Huntingdon County",
+      "distanceMiles": 0.3
+    },
+    "243": {
+      "agencyName": "Gulf Breeze Police Department",
+      "contactInfo": "(850) 934-5121",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Santa Rosa County",
+      "distanceMiles": 1.5
+    },
+    "244": {
+      "agencyName": "El Dorado Police Department",
+      "contactInfo": "(870) 863-4141",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Union County",
+      "distanceMiles": 1.3
+    },
+    "247": {
+      "agencyName": "Greenacres Department Of Public Safety",
+      "contactInfo": "(561) 642-2153",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Palm Beach County",
+      "distanceMiles": 1.0
+    },
+    "255": {
+      "agencyName": "Monahans Police Department",
+      "contactInfo": "(432) 943-3254",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Ward County",
+      "distanceMiles": 0.9
+    },
+    "249": {
+      "agencyName": "Perry Police Department",
+      "contactInfo": "(850) 584-5121",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Taylor County",
+      "distanceMiles": 1.3
+    },
+    "256": {
+      "agencyName": "Gatesville Police Department",
+      "contactInfo": "(254) 865-2226",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Coryell County",
+      "distanceMiles": 1.1
+    },
+    "259": {
+      "agencyName": "Boaz Police Department / Boaz Jail",
+      "contactInfo": "(256) 593-6812",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Marshall County",
+      "distanceMiles": 1.4
+    },
+    "258": {
+      "agencyName": "Magnolia Housing Authority",
+      "contactInfo": "(870) 234-5540",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Columbia County",
+      "distanceMiles": 0.5
+    },
+    "364": {
+      "agencyName": "Erwin Police Department",
+      "contactInfo": "(910) 897-5122",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Harnett County",
+      "distanceMiles": 1.6
+    },
+    "257": {
+      "agencyName": "Tampa Police Department District 3",
+      "contactInfo": "(813) 242-3800",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hillsborough County",
+      "distanceMiles": 8.2
+    },
+    "368": {
+      "agencyName": "Statesboro City Police Department",
+      "contactInfo": "(912) 764-9911",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Bulloch County",
+      "distanceMiles": 1.6
+    },
+    "370": {
+      "agencyName": "Sulphur Springs Police Department",
+      "contactInfo": "(903) 885-7602",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hopkins County",
+      "distanceMiles": 1.7
+    },
+    "369": {
+      "agencyName": "Buckeye Police Department",
+      "contactInfo": "(623) 386-4421",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Maricopa County",
+      "distanceMiles": 4.9
+    },
+    "372": {
+      "agencyName": "Fort Myers City Police Department",
+      "contactInfo": "(239) 321-7700",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lee County",
+      "distanceMiles": 10.0
+    },
+    "373": {
+      "agencyName": "Grand Prairie Police Department",
+      "contactInfo": "(972) 237-8710",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Dallas County",
+      "distanceMiles": 0.7
+    },
+    "374": {
+      "agencyName": "Elkins Police Department",
+      "contactInfo": "(304) 636-0678",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Randolph County",
+      "distanceMiles": 2.5
+    },
+    "375": {
+      "agencyName": "Plainview Police Department",
+      "contactInfo": "(806) 296-1182",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hale County",
+      "distanceMiles": 2.3
+    },
+    "377": {
+      "agencyName": "Alcoa Police Department",
+      "contactInfo": "(865) 981-4111",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Blount County",
+      "distanceMiles": 3.2
+    },
+    "400": {
+      "agencyName": "Lake Park Police Department",
+      "contactInfo": "(229) 559-7470",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lowndes County",
+      "distanceMiles": 2.2
+    },
+    "379": {
+      "agencyName": "City Of Fayetteville Police Department",
+      "contactInfo": "(910) 483-1529",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Cumberland County",
+      "distanceMiles": 4.8
+    },
+    "402": {
+      "agencyName": "Eunice Police Department",
+      "contactInfo": "(337) 457-2626",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "St. Landry Parish",
+      "distanceMiles": 1.6
+    },
+    "403": {
+      "agencyName": "Whiteville Police Department",
+      "contactInfo": "(910) 642-5111",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Columbus County",
+      "distanceMiles": 2.2
+    },
+    "405": {
+      "agencyName": "Mobile Police Department - Harold L Johnson Police Headquarters",
+      "contactInfo": "(251) 208-1700",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Mobile County",
+      "distanceMiles": 1.6
+    },
+    "406": {
+      "agencyName": "Glendale Police Department / Glendale Jail",
+      "contactInfo": "(623) 930-3000",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Maricopa County",
+      "distanceMiles": 3.1
+    },
+    "408": {
+      "agencyName": "Fort Mcdowell Police Department",
+      "contactInfo": "(480) 837-1091",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Maricopa County",
+      "distanceMiles": 2.4
+    },
+    "411": {
+      "agencyName": "Dothan Police Department",
+      "contactInfo": "(334) 615-3601",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Houston County",
+      "distanceMiles": 2.4
+    },
+    "407": {
+      "agencyName": "Venice Police Department",
+      "contactInfo": "(941) 486-2444",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Sarasota County",
+      "distanceMiles": 3.8
+    },
+    "409": {
+      "agencyName": "Stuart Police Department",
+      "contactInfo": "(772) 287-1122",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Martin County",
+      "distanceMiles": 3.8
+    },
+    "412": {
+      "agencyName": "Mena Police Department",
+      "contactInfo": "(479) 394-1212",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Polk County",
+      "distanceMiles": 0.8
+    },
+    "415": {
+      "agencyName": "Copperas Cove Police Department",
+      "contactInfo": "(254) 547-4272",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Coryell County",
+      "distanceMiles": 2.0
+    },
+    "486": {
+      "agencyName": "Hannibal Police Department",
+      "contactInfo": "(573) 221-0987",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Marion County",
+      "distanceMiles": 2.1
+    },
+    "414": {
+      "agencyName": "Athens Police Department",
+      "contactInfo": "(256) 233-8700",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Limestone County",
+      "distanceMiles": 1.4
+    },
+    "485": {
+      "agencyName": "Cartersville Police Department",
+      "contactInfo": "(770) 382-2526",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Bartow County",
+      "distanceMiles": 0.7
+    },
+    "413": {
+      "agencyName": "Eastland Police Department",
+      "contactInfo": "(254) 629-1700",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Eastland County",
+      "distanceMiles": 1.4
+    },
+    "489": {
+      "agencyName": "Corsicana Police Department",
+      "contactInfo": "(903) 654-4900",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Navarro County",
+      "distanceMiles": 2.5
+    },
+    "490": {
+      "agencyName": "Kingsville Police Department",
+      "contactInfo": "(361) 592-4311",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Kleberg County",
+      "distanceMiles": 1.7
+    },
+    "491": {
+      "agencyName": "Clewiston Police Department",
+      "contactInfo": "(863) 983-1474",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hendry County",
+      "distanceMiles": 0.7
+    },
+    "493": {
+      "agencyName": "Metropolitan Nashville Police Department - East Precinct",
+      "contactInfo": "(615) 862-7600",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Davidson County",
+      "distanceMiles": 6.3
+    },
+    "492": {
+      "agencyName": "Seabrook Police Department",
+      "contactInfo": "(281) 291-5610",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Harris County",
+      "distanceMiles": 0.5
+    },
+    "494": {
+      "agencyName": "Lake Havasu City Police Department",
+      "contactInfo": "(928) 855-4111",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Mohave County",
+      "distanceMiles": 6.9
+    },
+    "495": {
+      "agencyName": "Asheboro Police Department",
+      "contactInfo": "(336) 626-1300",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Randolph County",
+      "distanceMiles": 1.4
+    },
+    "496": {
+      "agencyName": "Lighthouse Point Police Department - Headquarters",
+      "contactInfo": "(954) 942-8080",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Broward County",
+      "distanceMiles": 0.4
+    },
+    "499": {
+      "agencyName": "Ruston Police Department",
+      "contactInfo": "(318) 255-4141",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lincoln Parish",
+      "distanceMiles": 0.7
+    },
+    "497": {
+      "agencyName": "Danville Police Department",
+      "contactInfo": "(859) 238-1224",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Boyle County",
+      "distanceMiles": 1.9
+    },
+    "498": {
+      "agencyName": "Conyers Police Department",
+      "contactInfo": "(770) 483-6600",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Rockdale County",
+      "distanceMiles": 1.9
+    },
+    "501": {
+      "agencyName": "Sidney Police Department",
+      "contactInfo": "(937) 498-2351",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Shelby County",
+      "distanceMiles": 1.6
+    },
+    "502": {
+      "agencyName": "City Of Southern Pines Police Department",
+      "contactInfo": "(910) 692-2732",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Moore County",
+      "distanceMiles": 1.9
+    },
+    "504": {
+      "agencyName": "Roanoke Rapids Police Department",
+      "contactInfo": "(252) 533-2810",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Halifax County",
+      "distanceMiles": 1.6
+    },
+    "506": {
+      "agencyName": "Brownwood Police Department",
+      "contactInfo": "(325) 646-2525",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Brown County",
+      "distanceMiles": 1.2
+    },
+    "508": {
+      "agencyName": "Savannah Police Department",
+      "contactInfo": "(731) 925-4989",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hardin County",
+      "distanceMiles": 0.6
+    },
+    "507": {
+      "agencyName": "Apopka Police Department",
+      "contactInfo": "(407) 703-1771",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Orange County",
+      "distanceMiles": 2.6
+    },
+    "505": {
+      "agencyName": "Angleton Police Department",
+      "contactInfo": "(979) 849-2383",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Brazoria County",
+      "distanceMiles": 0.2
+    },
+    "509": {
+      "agencyName": "Eden Police Department",
+      "contactInfo": "(336) 623-9687",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Rockingham County",
+      "distanceMiles": 0.8
+    },
+    "510": {
+      "agencyName": "London Police Department",
+      "contactInfo": "(606) 878-7004",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Laurel County",
+      "distanceMiles": 1.3
+    },
+    "512": {
+      "agencyName": "Wallace Police Department",
+      "contactInfo": "(910) 285-2126",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Duplin County",
+      "distanceMiles": 1.1
+    },
+    "511": {
+      "agencyName": "Corinth Police Department",
+      "contactInfo": "(662) 286-3377",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Alcorn County",
+      "distanceMiles": 1.9
+    },
+    "513": {
+      "agencyName": "Kosciusko Police Department",
+      "contactInfo": "(662) 289-3131",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Attala County",
+      "distanceMiles": 1.3
+    },
+    "514": {
+      "agencyName": "Odessa Police Department",
+      "contactInfo": "(432) 335-3335",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Ector County",
+      "distanceMiles": 3.8
+    },
+    "515": {
+      "agencyName": "Greenville Police Department",
+      "contactInfo": "(864) 271-5333",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Greenville County",
+      "distanceMiles": 4.3
+    },
+    "517": {
+      "agencyName": "Russellville City Police Department",
+      "contactInfo": "(270) 726-7669",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Logan County",
+      "distanceMiles": 1.7
+    },
+    "521": {
+      "agencyName": "Palatka Police Department",
+      "contactInfo": "(386) 329-0110",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Putnam County",
+      "distanceMiles": 1.9
+    },
+    "522": {
+      "agencyName": "Alexander City Police Department",
+      "contactInfo": "(256) 329-6743",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Tallapoosa County",
+      "distanceMiles": 1.6
+    },
+    "523": {
+      "agencyName": "Woodstock Police Department",
+      "contactInfo": "(540) 459-2141",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Shenandoah County",
+      "distanceMiles": 1.3
+    },
+    "518": {
+      "agencyName": "Livingston Police Department",
+      "contactInfo": "(936) 327-3117",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Polk County",
+      "distanceMiles": 0.7
+    },
+    "536": {
+      "agencyName": "Lady Lake Police Department",
+      "contactInfo": "(352) 751-1560",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Marion County",
+      "distanceMiles": 5.8
+    },
+    "524": {
+      "agencyName": "Princeton City Police Department",
+      "contactInfo": "(304) 425-8171",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Mercer County",
+      "distanceMiles": 3.3
+    },
+    "601": {
+      "agencyName": "City Of Forest City Police Department",
+      "contactInfo": "(828) 245-5555",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Rutherford County",
+      "distanceMiles": 1.7
+    },
+    "600": {
+      "agencyName": "Longview Police Department",
+      "contactInfo": "(903) 237-1199",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Gregg County",
+      "distanceMiles": 3.0
+    },
+    "602": {
+      "agencyName": "Cleburne Police Department",
+      "contactInfo": "(817) 645-0973",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Johnson County",
+      "distanceMiles": 1.5
+    },
+    "603": {
+      "agencyName": "Okmulgee Police Department",
+      "contactInfo": "(918) 758-1141",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Okmulgee County",
+      "distanceMiles": 1.5
+    },
+    "607": {
+      "agencyName": "Durant Police Department",
+      "contactInfo": "(580) 924-3737",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Bryan County",
+      "distanceMiles": 0.4
+    },
+    "605": {
+      "agencyName": "Mount Sterling Police Department",
+      "contactInfo": "(859) 498-8899",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Montgomery County",
+      "distanceMiles": 0.7
+    },
+    "604": {
+      "agencyName": "Bartlesville Police Department",
+      "contactInfo": "(918) 338-4001",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Washington County",
+      "distanceMiles": 2.2
+    },
+    "609": {
+      "agencyName": "Fort Myers City Police Department",
+      "contactInfo": "(239) 321-7700",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lee County",
+      "distanceMiles": 6.3
+    },
+    "608": {
+      "agencyName": "Gallatin Police Department",
+      "contactInfo": "(615) 452-1313",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Sumner County",
+      "distanceMiles": 1.0
+    },
+    "612": {
+      "agencyName": "Town Of Murphy Police Department",
+      "contactInfo": "(828) 837-2214",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Cherokee County",
+      "distanceMiles": 2.0
+    },
+    "610": {
+      "agencyName": "Starke Police Department",
+      "contactInfo": "(904) 964-5400",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Clay County",
+      "distanceMiles": 11.2
+    },
+    "617": {
+      "agencyName": "Bremen Police Department",
+      "contactInfo": "(770) 537-4441",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Haralson County",
+      "distanceMiles": 1.7
+    },
+    "615": {
+      "agencyName": "Moundsville Police Department",
+      "contactInfo": "(304) 845-1611",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Marshall County",
+      "distanceMiles": 0.5
+    },
+    "616": {
+      "agencyName": "Cornelia Police Department",
+      "contactInfo": "(706) 778-4314",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Habersham County",
+      "distanceMiles": 2.3
+    },
+    "614": {
+      "agencyName": "Dickson Police Department",
+      "contactInfo": "(615) 446-5403",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Dickson County",
+      "distanceMiles": 1.0
+    },
+    "618": {
+      "agencyName": "Fort Walton Beach Police Department",
+      "contactInfo": "(850) 833-9533",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Okaloosa County",
+      "distanceMiles": 2.2
+    },
+    "619": {
+      "agencyName": "Smithfield Police Department",
+      "contactInfo": "(919) 934-2121",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Johnston County",
+      "distanceMiles": 1.8
+    },
+    "620": {
+      "agencyName": "Princeton Police Department",
+      "contactInfo": "(270) 365-4657",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Caldwell County",
+      "distanceMiles": 1.2
+    },
+    "621": {
+      "agencyName": "Sumter Police Department",
+      "contactInfo": "(803) 436-2700",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Sumter County",
+      "distanceMiles": 3.0
+    },
+    "623": {
+      "agencyName": "Macon Police Department - Precinct 3",
+      "contactInfo": "(478) 751-9276",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Bibb County",
+      "distanceMiles": 7.0
+    },
+    "622": {
+      "agencyName": "Lakeland Police Department",
+      "contactInfo": "(863) 834-6900",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Polk County",
+      "distanceMiles": 2.3
+    },
+    "624": {
+      "agencyName": "Somerset Police Department",
+      "contactInfo": "(606) 678-5176",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pulaski County",
+      "distanceMiles": 2.1
+    },
+    "625": {
+      "agencyName": "Dallas County Government Center Precinct 2 - Mesquite Office",
+      "contactInfo": "(972) 288-7665",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Dallas County",
+      "distanceMiles": 2.8
+    },
+    "630": {
+      "agencyName": "Glasgow Police Department",
+      "contactInfo": "(270) 651-5151",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Barren County",
+      "distanceMiles": 1.1
+    },
+    "627": {
+      "agencyName": "Oakland Police Department",
+      "contactInfo": "(407) 656-9797",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Orange County",
+      "distanceMiles": 3.1
+    },
+    "628": {
+      "agencyName": "Hallsville Police Department",
+      "contactInfo": "(903) 668-2568",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Harrison County",
+      "distanceMiles": 12.9
+    },
+    "631": {
+      "agencyName": "Natchitoches Police Department",
+      "contactInfo": "(318) 352-8101",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Natchitoches Parish",
+      "distanceMiles": 1.2
+    },
+    "636": {
+      "agencyName": "Central City Police Department",
+      "contactInfo": "(270) 754-2464",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Muhlenberg County",
+      "distanceMiles": 1.5
+    },
+    "637": {
+      "agencyName": "Batesville Police Department",
+      "contactInfo": "(662) 563-5653",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Panola County",
+      "distanceMiles": 1.3
+    },
+    "632": {
+      "agencyName": "Jacksonville Sheriffs Office",
+      "contactInfo": "(904) 630-2120",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Duval County",
+      "distanceMiles": 6.0
+    },
+    "634": {
+      "agencyName": "Ardmore Police Department",
+      "contactInfo": "(580) 223-1212",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Carter County",
+      "distanceMiles": 1.7
+    },
+    "633": {
+      "agencyName": "Cleveland Police Department",
+      "contactInfo": "(423) 476-1121",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Bradley County",
+      "distanceMiles": 3.3
+    },
+    "638": {
+      "agencyName": "Port Of Corpus Christi Police Department",
+      "contactInfo": "(361) 882-1182",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Nueces County",
+      "distanceMiles": 14.4
+    },
+    "642": {
+      "agencyName": "Clermont Police Department",
+      "contactInfo": "(352) 394-5588",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lake County",
+      "distanceMiles": 1.4
+    },
+    "640": {
+      "agencyName": "Bunnell Police Department",
+      "contactInfo": "(386) 437-7508",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Flagler County",
+      "distanceMiles": 6.7
+    },
+    "641": {
+      "agencyName": "Gainesville Police Department",
+      "contactInfo": "(770) 534-5252",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Alachua County",
+      "distanceMiles": 5.6
+    },
+    "639": {
+      "agencyName": "Temple Police Department",
+      "contactInfo": "(254) 298-5536",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Bell County",
+      "distanceMiles": 2.5
+    },
+    "643": {
+      "agencyName": "City Of Clinton Police Department",
+      "contactInfo": "(910) 592-3105",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Sampson County",
+      "distanceMiles": 1.6
+    },
+    "644": {
+      "agencyName": "Naples Police Department",
+      "contactInfo": "(239) 213-4844",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Collier County",
+      "distanceMiles": 4.2
+    },
+    "645": {
+      "agencyName": "Miramar Police Department",
+      "contactInfo": "(954) 765-4321",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Broward County",
+      "distanceMiles": 1.9
+    },
+    "647": {
+      "agencyName": "Meridian Police Department",
+      "contactInfo": "(601) 485-1843",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lauderdale County",
+      "distanceMiles": 3.3
+    },
+    "646": {
+      "agencyName": "Henderson Police Department",
+      "contactInfo": "(270) 831-1295",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Henderson County",
+      "distanceMiles": 2.5
+    },
+    "649": {
+      "agencyName": "Port Orange Police Department",
+      "contactInfo": "(386) 506-5800",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Volusia County",
+      "distanceMiles": 1.0
+    },
+    "651": {
+      "agencyName": "Lake Wales Police Department",
+      "contactInfo": "(863) 678-4223",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Polk County",
+      "distanceMiles": 4.5
+    },
+    "652": {
+      "agencyName": "Bay Saint Louis Police Department",
+      "contactInfo": "(228) 467-9222",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hancock County",
+      "distanceMiles": 0.1
+    },
+    "650": {
+      "agencyName": "Oak Ridge Police Department",
+      "contactInfo": "(865) 425-4399",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Anderson County",
+      "distanceMiles": 0.3
+    },
+    "654": {
+      "agencyName": "Plymouth Police Department",
+      "contactInfo": "(574) 936-2126",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Marshall County",
+      "distanceMiles": 1.8
+    },
+    "653": {
+      "agencyName": "Mcalester Police Department",
+      "contactInfo": "(918) 423-1212",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pittsburg County",
+      "distanceMiles": 2.7
+    },
+    "656": {
+      "agencyName": "Kennett Police Department",
+      "contactInfo": "(573) 888-4622",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Dunklin County",
+      "distanceMiles": 1.1
+    },
+    "655": {
+      "agencyName": "Mayfield Police Department",
+      "contactInfo": "(270) 247-1981",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Graves County",
+      "distanceMiles": 1.6
+    },
+    "704": {
+      "agencyName": "Easley Police Department Headquarters",
+      "contactInfo": "(864) 859-4025",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pickens County",
+      "distanceMiles": 3.5
+    },
+    "705": {
+      "agencyName": "Borger Police Department",
+      "contactInfo": "(806) 273-0930",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hutchinson County",
+      "distanceMiles": 1.5
+    },
+    "657": {
+      "agencyName": "Heber Springs Police Department",
+      "contactInfo": "(501) 362-8291",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Cleburne County",
+      "distanceMiles": 1.0
+    },
+    "708": {
+      "agencyName": "Casa Grande Police Department",
+      "contactInfo": "(520) 421-8700",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pinal County",
+      "distanceMiles": 4.1
+    },
+    "709": {
+      "agencyName": "Prescott Police Department",
+      "contactInfo": "(928) 771-5800",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Yavapai County",
+      "distanceMiles": 1.9
+    },
+    "706": {
+      "agencyName": "Glynn County Police Department",
+      "contactInfo": "(912) 554-7800",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Glynn County",
+      "distanceMiles": 3.2
+    },
+    "710": {
+      "agencyName": "Tiffin Police Department",
+      "contactInfo": "(419) 447-2323",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Seneca County",
+      "distanceMiles": 1.4
+    },
+    "712": {
+      "agencyName": "Tupelo Police Department - Central Station",
+      "contactInfo": "(662) 841-6491",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lee County",
+      "distanceMiles": 3.7
+    },
+    "713": {
+      "agencyName": "Windcrest Police Department",
+      "contactInfo": "(210) 655-2666",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Bexar County",
+      "distanceMiles": 0.8
+    },
+    "716": {
+      "agencyName": "Jackson Police Department",
+      "contactInfo": "(740) 286-4131",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Jackson County",
+      "distanceMiles": 0.5
+    },
+    "715": {
+      "agencyName": "Rockwall Police Department",
+      "contactInfo": "(972) 772-6091",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Rockwall County",
+      "distanceMiles": 2.4
+    },
+    "717": {
+      "agencyName": "Thomson Police Department Substation",
+      "contactInfo": "(706) 595-2166",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "McDuffie County",
+      "distanceMiles": 0.5
+    },
+    "721": {
+      "agencyName": "Galveston Police Department",
+      "contactInfo": "(409) 765-3642",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Galveston County",
+      "distanceMiles": 1.4
+    },
+    "718": {
+      "agencyName": "Guymon Police Department",
+      "contactInfo": "(580) 338-6525",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Texas County",
+      "distanceMiles": 1.1
+    },
+    "723": {
+      "agencyName": "Gallipolis Police Department",
+      "contactInfo": "(740) 446-1313",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Gallia County",
+      "distanceMiles": 2.2
+    },
+    "722": {
+      "agencyName": "Andalusia Police Department",
+      "contactInfo": "(334) 222-1155",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Covington County",
+      "distanceMiles": 1.0
+    },
+    "726": {
+      "agencyName": "Princeton Police Department",
+      "contactInfo": "(812) 385-3437",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Gibson County",
+      "distanceMiles": 1.9
+    },
+    "728": {
+      "agencyName": "Washington Court House Police Department",
+      "contactInfo": "(740) 636-2375",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Fayette County",
+      "distanceMiles": 1.2
+    },
+    "727": {
+      "agencyName": "Seymour Police Department",
+      "contactInfo": "(812) 522-1234",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Jackson County",
+      "distanceMiles": 1.2
+    },
+    "729": {
+      "agencyName": "Bedford Police Department",
+      "contactInfo": "(812) 275-3311",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lawrence County",
+      "distanceMiles": 1.7
+    },
+    "724": {
+      "agencyName": "Fayetteville Police Department",
+      "contactInfo": "(931) 438-7771",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lincoln County",
+      "distanceMiles": 1.5
+    },
+    "748": {
+      "agencyName": "Laurinburg Police Department",
+      "contactInfo": "(910) 276-3211",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Scotland County",
+      "distanceMiles": 1.7
+    },
+    "745": {
+      "agencyName": "Danville Police Department",
+      "contactInfo": "(434) 799-6515",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Danville city",
+      "distanceMiles": 1.7
+    },
+    "751": {
+      "agencyName": "Lincolnton Police Department",
+      "contactInfo": "(704) 736-8900",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lincoln County",
+      "distanceMiles": 1.1
+    },
+    "746": {
+      "agencyName": "Duncan Police Department",
+      "contactInfo": "(580) 255-2112",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Stephens County",
+      "distanceMiles": 1.8
+    },
+    "754": {
+      "agencyName": "Fernandina Beach Police Department",
+      "contactInfo": "(904) 277-7342",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Nassau County",
+      "distanceMiles": 1.0
+    },
+    "753": {
+      "agencyName": "Pell City Police Department",
+      "contactInfo": "(205) 884-3334",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "St. Clair County",
+      "distanceMiles": 0.5
+    },
+    "755": {
+      "agencyName": "Palm Beach Gardens Police Department",
+      "contactInfo": "(561) 799-4400",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Palm Beach County",
+      "distanceMiles": 1.6
+    },
+    "758": {
+      "agencyName": "Columbia Police Department - South Region",
+      "contactInfo": "(803) 733-8382",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Richland County",
+      "distanceMiles": 3.2
+    },
+    "762": {
+      "agencyName": "Greenfield Police Department",
+      "contactInfo": "(317) 477-4405",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hancock County",
+      "distanceMiles": 1.7
+    },
+    "761": {
+      "agencyName": "Casselberry Police Department",
+      "contactInfo": "(407) 262-7616",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Seminole County",
+      "distanceMiles": 1.0
+    },
+    "756": {
+      "agencyName": "Millington Police Department",
+      "contactInfo": "(901) 872-3333",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Shelby County",
+      "distanceMiles": 1.7
+    },
+    "763": {
+      "agencyName": "Grove Police Department",
+      "contactInfo": "(918) 786-6121",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Delaware County",
+      "distanceMiles": 1.0
+    },
+    "767": {
+      "agencyName": "Huntsville Police Department / Madison County Jail",
+      "contactInfo": "(256) 427-7117",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Madison County",
+      "distanceMiles": 4.9
+    },
+    "764": {
+      "agencyName": "Prattville Police Department",
+      "contactInfo": "(334) 361-3671",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Autauga County",
+      "distanceMiles": 3.5
+    },
+    "768": {
+      "agencyName": "Clarksville Police Department - South Precinct",
+      "contactInfo": "(931) 553-8119",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Montgomery County",
+      "distanceMiles": 2.7
+    },
+    "765": {
+      "agencyName": "Orlando Police Department",
+      "contactInfo": "(407) 246-2405",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Orange County",
+      "distanceMiles": 2.2
+    },
+    "766": {
+      "agencyName": "Yuma Police Department",
+      "contactInfo": "(928) 373-4650",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Yuma County",
+      "distanceMiles": 0.9
+    },
+    "770": {
+      "agencyName": "City Of Marion Police Department",
+      "contactInfo": "(828) 652-3231",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "McDowell County",
+      "distanceMiles": 0.5
+    },
+    "821": {
+      "agencyName": "Gilmer Police Department",
+      "contactInfo": "(903) 843-5545",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Upshur County",
+      "distanceMiles": 1.1
+    },
+    "826": {
+      "agencyName": "Chanute Police Department",
+      "contactInfo": "(620) 431-5768",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Neosho County",
+      "distanceMiles": 1.0
+    },
+    "828": {
+      "agencyName": "Coffeyville Police Department",
+      "contactInfo": "(620) 252-6160",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Montgomery County",
+      "distanceMiles": 1.4
+    },
+    "824": {
+      "agencyName": "Greenville Police Department",
+      "contactInfo": "(334) 382-7461",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Butler County",
+      "distanceMiles": 1.6
+    },
+    "827": {
+      "agencyName": "Timbercreek Canyon Police Department",
+      "contactInfo": "(806) 622-3144",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Randall County",
+      "distanceMiles": 4.5
+    },
+    "822": {
+      "agencyName": "Sweetwater Police Department",
+      "contactInfo": "(325) 236-6686",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Nolan County",
+      "distanceMiles": 0.7
+    },
+    "840": {
+      "agencyName": "Lafayette Police Department",
+      "contactInfo": "(765) 807-1200",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Tippecanoe County",
+      "distanceMiles": 1.8
+    },
+    "852": {
+      "agencyName": "Crockett Police Department",
+      "contactInfo": "(936) 544-2021",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Houston County",
+      "distanceMiles": 1.3
+    },
+    "855": {
+      "agencyName": "Phelps County Court Bailiff",
+      "contactInfo": "(573) 458-6210",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Phelps County",
+      "distanceMiles": 1.3
+    },
+    "858": {
+      "agencyName": "Genesis Public Safety Department",
+      "contactInfo": "(740) 454-5922",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Muskingum County",
+      "distanceMiles": 2.8
+    },
+    "880": {
+      "agencyName": "Gulf Shores Police Department",
+      "contactInfo": "(251) 968-2431",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Baldwin County",
+      "distanceMiles": 2.1
+    },
+    "873": {
+      "agencyName": "Saint Martinville Police Department",
+      "contactInfo": "(337) 394-2226",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Iberia Parish",
+      "distanceMiles": 9.7
+    },
+    "897": {
+      "agencyName": "Dalton Park Police Department",
+      "contactInfo": "(706) 278-5404",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Whitfield County",
+      "distanceMiles": 2.1
+    },
+    "898": {
+      "agencyName": "Butler Township Police Department",
+      "contactInfo": "(724) 285-9600",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Butler County",
+      "distanceMiles": 1.2
+    },
+    "895": {
+      "agencyName": "Checotah Police Department",
+      "contactInfo": "(918) 473-4555",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "McIntosh County",
+      "distanceMiles": 0.5
+    },
+    "893": {
+      "agencyName": "Warsaw Police Department",
+      "contactInfo": "(574) 372-9511",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Kosciusko County",
+      "distanceMiles": 0.6
+    },
+    "899": {
+      "agencyName": "Rockport Police Department",
+      "contactInfo": "(361) 790-1100",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Aransas County",
+      "distanceMiles": 2.3
+    },
+    "105": {
+      "agencyName": "Cape Coral Police Department",
+      "contactInfo": "(239) 574-3223",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lee County",
+      "distanceMiles": 1.8
+    },
+    "101": {
+      "agencyName": "Centralia Police Department",
+      "contactInfo": "(618) 533-7602",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Clinton County",
+      "distanceMiles": 1.0
+    },
+    "104": {
+      "agencyName": "Citrus County Civil Air Patrol",
+      "contactInfo": "(352) 860-1875",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Citrus County",
+      "distanceMiles": 1.7
+    },
+    "103": {
+      "agencyName": "Bradenton Police Department",
+      "contactInfo": "(941) 932-9300",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Manatee County",
+      "distanceMiles": 3.4
+    },
+    "102": {
+      "agencyName": "Sanford Police Department",
+      "contactInfo": "(919) 775-8268",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lee County",
+      "distanceMiles": 3.9
+    },
+    "107": {
+      "agencyName": "Morgantown Police Department",
+      "contactInfo": "(304) 284-7522",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Monongalia County",
+      "distanceMiles": 2.4
+    },
+    "110": {
+      "agencyName": "Port Richey Police Department",
+      "contactInfo": "(727) 816-1919",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hernando County",
+      "distanceMiles": 13.1
+    },
+    "108": {
+      "agencyName": "Brookhaven Police Department",
+      "contactInfo": "(601) 833-2424",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lincoln County",
+      "distanceMiles": 0.5
+    },
+    "111": {
+      "agencyName": "Melbourne Police Department - Babcock Street Station",
+      "contactInfo": "(321) 409-2200",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Brevard County",
+      "distanceMiles": 0.6
+    },
+    "109": {
+      "agencyName": "Brooksville Police Department",
+      "contactInfo": "(352) 754-6800",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hernando County",
+      "distanceMiles": 0.9
+    },
+    "116": {
+      "agencyName": "Auburndale Police Department",
+      "contactInfo": "(863) 965-5555",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Polk County",
+      "distanceMiles": 1.1
+    },
+    "113": {
+      "agencyName": "Liberal Municipal Court",
+      "contactInfo": "(620) 626-0143",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Seward County",
+      "distanceMiles": 1.0
+    },
+    "117": {
+      "agencyName": "Clearwater Police Department - District Ii - Headquarters",
+      "contactInfo": "(727) 562-4420",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pinellas County",
+      "distanceMiles": 1.0
+    },
+    "118": {
+      "agencyName": "New Port Richey Police Department",
+      "contactInfo": "(727) 841-4550",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pinellas County",
+      "distanceMiles": 7.5
+    },
+    "121": {
+      "agencyName": "Naples Police Department",
+      "contactInfo": "(239) 213-4844",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Collier County",
+      "distanceMiles": 1.9
+    },
+    "124": {
+      "agencyName": "Temple Terrace Police Department",
+      "contactInfo": "(813) 989-7110",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hillsborough County",
+      "distanceMiles": 7.4
+    },
+    "120": {
+      "agencyName": "Fort Myers City Police Department",
+      "contactInfo": "(239) 321-7700",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lee County",
+      "distanceMiles": 11.8
+    },
+    "200": {
+      "agencyName": "Plant City Police Department",
+      "contactInfo": "(813) 757-9200",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hillsborough County",
+      "distanceMiles": 1.6
+    },
+    "125": {
+      "agencyName": "Leesburg Police Department",
+      "contactInfo": "(352) 787-2121",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lake County",
+      "distanceMiles": 1.2
+    },
+    "203": {
+      "agencyName": "Thomasville Police Department",
+      "contactInfo": "(229) 227-3249",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Thomas County",
+      "distanceMiles": 1.5
+    },
+    "202": {
+      "agencyName": "Zolfo Springs Police Department",
+      "contactInfo": "(863) 735-1213",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "DeSoto County",
+      "distanceMiles": 19.8
+    },
+    "204": {
+      "agencyName": "Saint Cloud Police Department",
+      "contactInfo": "(407) 891-6700",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Osceola County",
+      "distanceMiles": 0.6
+    },
+    "206": {
+      "agencyName": "Bartow Police Department",
+      "contactInfo": "(863) 534-5034",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Polk County",
+      "distanceMiles": 0.3
+    },
+    "205": {
+      "agencyName": "North Myrtle Beach Public Safety Department",
+      "contactInfo": "(843) 280-5518",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Horry County",
+      "distanceMiles": 1.4
+    },
+    "208": {
+      "agencyName": "Sea Ranch Lakes Police Department",
+      "contactInfo": "(954) 943-8860",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Broward County",
+      "distanceMiles": 1.2
+    },
+    "209": {
+      "agencyName": "Little Flock Police Department",
+      "contactInfo": "(479) 936-7911",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Benton County",
+      "distanceMiles": 1.4
+    },
+    "207": {
+      "agencyName": "Milton Police Department",
+      "contactInfo": "(850) 983-5420",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Santa Rosa County",
+      "distanceMiles": 1.1
+    },
+    "210": {
+      "agencyName": "Lake Clarke Shores Police Department",
+      "contactInfo": "(561) 964-1515",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Palm Beach County",
+      "distanceMiles": 2.4
+    },
+    "213": {
+      "agencyName": "Dunnellon Police Department",
+      "contactInfo": "(352) 465-8510",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Marion County",
+      "distanceMiles": 0.8
+    },
+    "212": {
+      "agencyName": "City Of Taylorsville Police Department",
+      "contactInfo": "(828) 632-2218",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Alexander County",
+      "distanceMiles": 0.8
+    },
+    "214": {
+      "agencyName": "Saint Augustine Police Department",
+      "contactInfo": "(904) 825-1070",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "St. Johns County",
+      "distanceMiles": 1.6
+    },
+    "211": {
+      "agencyName": "Savannah Chatham Metropolitan Police Department - Oglethorpe Mall",
+      "contactInfo": "(912) 351-3400",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Chatham County",
+      "distanceMiles": 0.4
+    },
+    "215": {
+      "agencyName": "Siloam Springs Police Department",
+      "contactInfo": "(479) 524-4118",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Benton County",
+      "distanceMiles": 1.4
+    },
+    "217": {
+      "agencyName": "Port Saint Lucie Police Department - Headquarters",
+      "contactInfo": "(772) 871-5000",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "St. Lucie County",
+      "distanceMiles": 4.1
+    },
+    "216": {
+      "agencyName": "Sebastian Police Department",
+      "contactInfo": "(772) 589-5233",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Indian River County",
+      "distanceMiles": 1.9
+    },
+    "218": {
+      "agencyName": "Winter Haven Police Department",
+      "contactInfo": "(863) 291-5858",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Polk County",
+      "distanceMiles": 2.3
+    },
+    "220": {
+      "agencyName": "Tomball Police Department",
+      "contactInfo": "(281) 290-1302",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Harris County",
+      "distanceMiles": 1.3
+    },
+    "219": {
+      "agencyName": "Keyser City Police Department",
+      "contactInfo": "(304) 788-1311",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Mineral County",
+      "distanceMiles": 0.1
+    },
+    "221": {
+      "agencyName": "Florida City Police Department",
+      "contactInfo": "(305) 247-8223",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Monroe County",
+      "distanceMiles": 23.5
+    },
+    "222": {
+      "agencyName": "Plantation Police Department",
+      "contactInfo": "(954) 797-2100",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Broward County",
+      "distanceMiles": 2.2
+    },
+    "224": {
+      "agencyName": "Naples Police Department",
+      "contactInfo": "(239) 213-4844",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Collier County",
+      "distanceMiles": 8.6
+    },
+    "225": {
+      "agencyName": "Altavista Police Department",
+      "contactInfo": "(434) 369-7425",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Campbell County",
+      "distanceMiles": 1.2
+    },
+    "226": {
+      "agencyName": "Pecos Police Department",
+      "contactInfo": "(432) 445-4911",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Reeves County",
+      "distanceMiles": 1.4
+    },
+    "228": {
+      "agencyName": "Vidalia Police Department",
+      "contactInfo": "(912) 537-4123",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Toombs County",
+      "distanceMiles": 1.8
+    },
+    "227": {
+      "agencyName": "Marco Island Police Department",
+      "contactInfo": "(239) 389-5050",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Collier County",
+      "distanceMiles": 1.4
+    },
+    "229": {
+      "agencyName": "Norton Police Department",
+      "contactInfo": "(276) 679-1211",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Norton city",
+      "distanceMiles": 1.9
+    },
+    "231": {
+      "agencyName": "Fredericksburg Police Department",
+      "contactInfo": "(830) 997-7585",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Gillespie County",
+      "distanceMiles": 0.6
+    },
+    "230": {
+      "agencyName": "Key Colony Beach Police Department",
+      "contactInfo": "(305) 743-5380",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Monroe County",
+      "distanceMiles": 1.3
+    },
+    "233": {
+      "agencyName": "Alamogordo Police Department",
+      "contactInfo": "(575) 439-4300",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Otero County",
+      "distanceMiles": 0.3
+    },
+    "234": {
+      "agencyName": "Liberty Police Department",
+      "contactInfo": "(936) 336-5666",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Liberty County",
+      "distanceMiles": 0.3
+    },
+    "235": {
+      "agencyName": "Hereford Police Department",
+      "contactInfo": "(806) 363-7120",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Deaf Smith County",
+      "distanceMiles": 1.3
+    },
+    "236": {
+      "agencyName": "Sahuarita Police Department",
+      "contactInfo": "(520) 344-7000",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pima County",
+      "distanceMiles": 3.3
+    },
+    "232": {
+      "agencyName": "Key Colony Beach Police Department",
+      "contactInfo": "(305) 743-5380",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Monroe County",
+      "distanceMiles": 21.6
+    },
+    "238": {
+      "agencyName": "Madison Police Department",
+      "contactInfo": "(850) 973-5077",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Madison County",
+      "distanceMiles": 0.8
+    },
+    "237": {
+      "agencyName": "Delray Beach Police Department",
+      "contactInfo": "(561) 243-7800",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Palm Beach County",
+      "distanceMiles": 2.8
+    },
+    "241": {
+      "agencyName": "Lakeland Police Department",
+      "contactInfo": "(863) 834-6900",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Polk County",
+      "distanceMiles": 2.6
+    },
+    "240": {
+      "agencyName": "Camden Police Department",
+      "contactInfo": "(870) 836-5755",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Ouachita County",
+      "distanceMiles": 1.0
+    },
+    "239": {
+      "agencyName": "Snyder Police Department",
+      "contactInfo": "(325) 573-2611",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Scurry County",
+      "distanceMiles": 0.5
+    },
+    "242": {
+      "agencyName": "Clinton Police Department",
+      "contactInfo": "(660) 885-2679",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Henry County",
+      "distanceMiles": 1.5
+    },
+    "245": {
+      "agencyName": "Tifton Police Department",
+      "contactInfo": "(229) 382-3132",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Tift County",
+      "distanceMiles": 1.3
+    },
+    "318": {
+      "agencyName": "Neptune Beach Police Department",
+      "contactInfo": "(904) 270-2411",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Duval County",
+      "distanceMiles": 0.3
+    },
+    "246": {
+      "agencyName": "Mount Airy Police Department",
+      "contactInfo": "(336) 786-3535",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Surry County",
+      "distanceMiles": 1.7
+    },
+    "320": {
+      "agencyName": "Pampa Police Department",
+      "contactInfo": "(806) 669-5700",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Gray County",
+      "distanceMiles": 2.2
+    },
+    "319": {
+      "agencyName": "Vero Beach Police Department",
+      "contactInfo": "(772) 978-4600",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Indian River County",
+      "distanceMiles": 3.1
+    },
+    "321": {
+      "agencyName": "Davenport Police Department",
+      "contactInfo": "(863) 419-3306",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Polk County",
+      "distanceMiles": 5.1
+    },
+    "325": {
+      "agencyName": "Enid Police Department",
+      "contactInfo": "(580) 242-7000",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Garfield County",
+      "distanceMiles": 2.6
+    },
+    "327": {
+      "agencyName": "Alice Police Department",
+      "contactInfo": "(361) 664-0186",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Jim Wells County",
+      "distanceMiles": 1.3
+    },
+    "324": {
+      "agencyName": "Key West Police Department",
+      "contactInfo": "(305) 809-1111",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Monroe County",
+      "distanceMiles": 0.8
+    },
+    "328": {
+      "agencyName": "High Point Police Department",
+      "contactInfo": "(336) 887-7970",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Guilford County",
+      "distanceMiles": 2.8
+    },
+    "329": {
+      "agencyName": "Deer Park Police Department",
+      "contactInfo": "(281) 930-2100",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Harris County",
+      "distanceMiles": 6.4
+    },
+    "330": {
+      "agencyName": "Hobbs Police Department",
+      "contactInfo": "(575) 397-9265",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lea County",
+      "distanceMiles": 0.7
+    },
+    "333": {
+      "agencyName": "Hillsboro Police Department",
+      "contactInfo": "(937) 393-3411",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Highland County",
+      "distanceMiles": 1.3
+    },
+    "335": {
+      "agencyName": "Tampa Police Department - Headquarters",
+      "contactInfo": "(813) 276-3200",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hillsborough County",
+      "distanceMiles": 10.2
+    },
+    "331": {
+      "agencyName": "Martin Police Department",
+      "contactInfo": "(731) 587-5355",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Weakley County",
+      "distanceMiles": 1.3
+    },
+    "334": {
+      "agencyName": "Washington Police Department",
+      "contactInfo": "(252) 946-1444",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Beaufort County",
+      "distanceMiles": 1.2
+    },
+    "337": {
+      "agencyName": "Marianna City Police Department",
+      "contactInfo": "(850) 526-3125",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Jackson County",
+      "distanceMiles": 1.8
+    },
+    "338": {
+      "agencyName": "Fort Payne Police Department",
+      "contactInfo": "(256) 845-1414",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "DeKalb County",
+      "distanceMiles": 2.0
+    },
+    "336": {
+      "agencyName": "Midlothian Police Department",
+      "contactInfo": "(972) 775-3333",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Ellis County",
+      "distanceMiles": 2.3
+    },
+    "339": {
+      "agencyName": "Winder Police Department",
+      "contactInfo": "(678) 425-6856",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Barrow County",
+      "distanceMiles": 0.9
+    },
+    "340": {
+      "agencyName": "Tampa International Airport Police",
+      "contactInfo": "(813) 870-8760",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hillsborough County",
+      "distanceMiles": 4.7
+    },
+    "342": {
+      "agencyName": "De Funiak Springs Police Department",
+      "contactInfo": "(850) 892-8513",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Walton County",
+      "distanceMiles": 1.2
+    },
+    "341": {
+      "agencyName": "Cayce Department Of Public Safety",
+      "contactInfo": "(803) 794-0456",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lexington County",
+      "distanceMiles": 1.4
+    },
+    "344": {
+      "agencyName": "Lawrenceburg Police Department",
+      "contactInfo": "(931) 762-2276",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lawrence County",
+      "distanceMiles": 1.9
+    },
+    "343": {
+      "agencyName": "Lake Wales Police Department",
+      "contactInfo": "(863) 678-4223",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Polk County",
+      "distanceMiles": 0.5
+    },
+    "345": {
+      "agencyName": "Stone Mountain Police Department",
+      "contactInfo": "(770) 879-4980",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Gwinnett County",
+      "distanceMiles": 3.2
+    },
+    "347": {
+      "agencyName": "Leesville Police Department",
+      "contactInfo": "(337) 238-0331",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Vernon Parish",
+      "distanceMiles": 1.3
+    },
+    "346": {
+      "agencyName": "Minden Police Department",
+      "contactInfo": "(318) 371-4226",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Webster Parish",
+      "distanceMiles": 1.8
+    },
+    "349": {
+      "agencyName": "Owensboro City Police",
+      "contactInfo": "(270) 687-8830",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Daviess County",
+      "distanceMiles": 2.2
+    },
+    "348": {
+      "agencyName": "City Of Jacksonville Police Department",
+      "contactInfo": "(910) 455-1472",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Onslow County",
+      "distanceMiles": 2.0
+    },
+    "351": {
+      "agencyName": "Fruitland Park Police Department",
+      "contactInfo": "(352) 360-6655",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Sumter County",
+      "distanceMiles": 2.6
+    },
+    "350": {
+      "agencyName": "Vernon Police Department",
+      "contactInfo": "(940) 553-3311",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Wilbarger County",
+      "distanceMiles": 1.8
+    },
+    "355": {
+      "agencyName": "Campbellsville Police Department",
+      "contactInfo": "(270) 465-4122",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Taylor County",
+      "distanceMiles": 1.1
+    },
+    "354": {
+      "agencyName": "San Angelo Police Department",
+      "contactInfo": "(325) 657-4336",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Tom Green County",
+      "distanceMiles": 4.0
+    },
+    "352": {
+      "agencyName": "Lufkin Police Department",
+      "contactInfo": "(936) 633-0356",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Angelina County",
+      "distanceMiles": 1.9
+    },
+    "358": {
+      "agencyName": "Landrum Police Department",
+      "contactInfo": "(864) 457-7281",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Spartanburg County",
+      "distanceMiles": 0.2
+    },
+    "356": {
+      "agencyName": "Kaufman Police Department",
+      "contactInfo": "(972) 932-3094",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Kaufman County",
+      "distanceMiles": 0.8
+    },
+    "357": {
+      "agencyName": "Madison Township Police Department",
+      "contactInfo": "(440) 428-2116",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lake County",
+      "distanceMiles": 0.9
+    },
+    "359": {
+      "agencyName": "Dyersburg Police Department",
+      "contactInfo": "(731) 285-1212",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Dyer County",
+      "distanceMiles": 2.4
+    },
+    "360": {
+      "agencyName": "Corbin Police Department",
+      "contactInfo": "(606) 528-1122",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Knox County",
+      "distanceMiles": 1.8
+    },
+    "361": {
+      "agencyName": "Punta Gorda Police Department",
+      "contactInfo": "(941) 639-4111",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Charlotte County",
+      "distanceMiles": 0.3
+    },
+    "362": {
+      "agencyName": "Hinesville Police Department",
+      "contactInfo": "(912) 368-8211",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Liberty County",
+      "distanceMiles": 0.6
+    },
+    "363": {
+      "agencyName": "Monticello Police Department",
+      "contactInfo": "(870) 367-3411",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Drew County",
+      "distanceMiles": 0.9
+    },
+    "367": {
+      "agencyName": "Starkville Police Department",
+      "contactInfo": "(662) 323-4131",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Oktibbeha County",
+      "distanceMiles": 1.9
+    },
+    "366": {
+      "agencyName": "Bristol Police Department",
+      "contactInfo": "(276) 645-7400",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Washington County",
+      "distanceMiles": 4.8
+    },
+    "438": {
+      "agencyName": "City Of Avon Park Police Department",
+      "contactInfo": "(863) 453-6622",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Highlands County",
+      "distanceMiles": 1.2
+    },
+    "442": {
+      "agencyName": "East Ellijay Police Department",
+      "contactInfo": "(706) 276-3111",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Gilmer County",
+      "distanceMiles": 2.1
+    },
+    "445": {
+      "agencyName": "Margate Police Department",
+      "contactInfo": "(954) 972-7111",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Broward County",
+      "distanceMiles": 1.2
+    },
+    "447": {
+      "agencyName": "Thatcher Police Department",
+      "contactInfo": "(928) 428-2296",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Graham County",
+      "distanceMiles": 1.5
+    },
+    "448": {
+      "agencyName": "Richmond City Police Department",
+      "contactInfo": "(859) 623-1163",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Madison County",
+      "distanceMiles": 2.9
+    },
+    "451": {
+      "agencyName": "Waxahachie Police Department",
+      "contactInfo": "(972) 937-9940",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Ellis County",
+      "distanceMiles": 1.4
+    },
+    "450": {
+      "agencyName": "Taylor Police Department",
+      "contactInfo": "(512) 352-5552",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Williamson County",
+      "distanceMiles": 2.1
+    },
+    "453": {
+      "agencyName": "Venice Police Department",
+      "contactInfo": "(941) 486-2444",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Sarasota County",
+      "distanceMiles": 3.8
+    },
+    "459": {
+      "agencyName": "Sylacauga Police Department",
+      "contactInfo": "(256) 401-2442",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Talladega County",
+      "distanceMiles": 2.1
+    },
+    "458": {
+      "agencyName": "Mountain Home Police Department",
+      "contactInfo": "(870) 425-6336",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Baxter County",
+      "distanceMiles": 3.3
+    },
+    "455": {
+      "agencyName": "Decatur Police Department / Decatur City Jail",
+      "contactInfo": "(256) 341-4600",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Morgan County",
+      "distanceMiles": 3.2
+    },
+    "461": {
+      "agencyName": "Perryton Police Department",
+      "contactInfo": "(806) 435-4002",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Ochiltree County",
+      "distanceMiles": 0.6
+    },
+    "464": {
+      "agencyName": "Forest Police Department",
+      "contactInfo": "(601) 469-4141",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Scott County",
+      "distanceMiles": 1.6
+    },
+    "462": {
+      "agencyName": "City Of Matthews Police Department",
+      "contactInfo": "(704) 847-4069",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Mecklenburg County",
+      "distanceMiles": 0.9
+    },
+    "463": {
+      "agencyName": "El Dorado Police Department",
+      "contactInfo": "(316) 321-9120",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Butler County",
+      "distanceMiles": 1.9
+    },
+    "465": {
+      "agencyName": "Alvin Police Department",
+      "contactInfo": "(281) 388-4370",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Brazoria County",
+      "distanceMiles": 0.8
+    },
+    "468": {
+      "agencyName": "Kilgore Police Department",
+      "contactInfo": "(903) 983-1559",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Gregg County",
+      "distanceMiles": 0.2
+    },
+    "469": {
+      "agencyName": "Dayton Police Department",
+      "contactInfo": "(423) 775-8403",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Rhea County",
+      "distanceMiles": 2.8
+    },
+    "467": {
+      "agencyName": "Rockledge Police Department",
+      "contactInfo": "(321) 690-3988",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Brevard County",
+      "distanceMiles": 0.3
+    },
+    "470": {
+      "agencyName": "Stafford Police Department",
+      "contactInfo": "(281) 261-3950",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Fort Bend County",
+      "distanceMiles": 2.5
+    },
+    "472": {
+      "agencyName": "Payson Police Department",
+      "contactInfo": "(928) 474-3288",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Gila County",
+      "distanceMiles": 0.5
+    },
+    "471": {
+      "agencyName": "Carthage Police Department",
+      "contactInfo": "(601) 267-8011",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Leake County",
+      "distanceMiles": 0.3
+    },
+    "473": {
+      "agencyName": "Bluefield Virginia Police Department",
+      "contactInfo": "(276) 326-2622",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Tazewell County",
+      "distanceMiles": 0.5
+    },
+    "474": {
+      "agencyName": "Athens-Clarke County Police Department - West Precinct",
+      "contactInfo": "(706) 613-3850",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Clarke County",
+      "distanceMiles": 0.6
+    },
+    "439": {
+      "agencyName": "Middlesboro Police Department",
+      "contactInfo": "(606) 248-3636",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Bell County",
+      "distanceMiles": 0.6
+    },
+    "475": {
+      "agencyName": "Pensacola Regional Airport Police",
+      "contactInfo": "(850) 436-5000",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Escambia County",
+      "distanceMiles": 2.0
+    },
+    "478": {
+      "agencyName": "Winter Haven Police Department",
+      "contactInfo": "(863) 291-5858",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Polk County",
+      "distanceMiles": 0.4
+    },
+    "479": {
+      "agencyName": "Canton Police Department",
+      "contactInfo": "(903) 567-4991",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Van Zandt County",
+      "distanceMiles": 0.7
+    },
+    "481": {
+      "agencyName": "Zephyrhills Police Department",
+      "contactInfo": "(813) 780-0050",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pasco County",
+      "distanceMiles": 10.1
+    },
+    "483": {
+      "agencyName": "Winchester Police Department",
+      "contactInfo": "(859) 745-7400",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Clark County",
+      "distanceMiles": 2.1
+    },
+    "480": {
+      "agencyName": "Wytheville Police Department",
+      "contactInfo": "(276) 223-3300",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Wythe County",
+      "distanceMiles": 1.0
+    },
+    "484": {
+      "agencyName": "Kerrville Police Department",
+      "contactInfo": "(830) 257-8181",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Kerr County",
+      "distanceMiles": 0.6
+    },
+    "487": {
+      "agencyName": "Bay City Police Department",
+      "contactInfo": "(979) 245-8500",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Matagorda County",
+      "distanceMiles": 1.5
+    },
+    "559": {
+      "agencyName": "Venice Police Department",
+      "contactInfo": "(941) 486-2444",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Sarasota County",
+      "distanceMiles": 12.7
+    },
+    "488": {
+      "agencyName": "Maricopa County District 3 Substation",
+      "contactInfo": "(602) 876-1602",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Maricopa County",
+      "distanceMiles": 1.3
+    },
+    "563": {
+      "agencyName": "Mobile Police Department - Precinct 4",
+      "contactInfo": "(251) 438-7021",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Mobile County",
+      "distanceMiles": 5.4
+    },
+    "562": {
+      "agencyName": "Homestead Police Department",
+      "contactInfo": "(305) 247-1535",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Miami-Dade County",
+      "distanceMiles": 0.5
+    },
+    "566": {
+      "agencyName": "Warriors Path State Park - Ranger Station",
+      "contactInfo": "(423) 239-8531",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Sullivan County",
+      "distanceMiles": 3.6
+    },
+    "567": {
+      "agencyName": "Sycamore Shoals State Historic Area Ranger Station",
+      "contactInfo": "(423) 543-5808",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Carter County",
+      "distanceMiles": 1.0
+    },
+    "570": {
+      "agencyName": "Brenham Police Department",
+      "contactInfo": "(979) 337-7337",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Washington County",
+      "distanceMiles": 2.0
+    },
+    "572": {
+      "agencyName": "Canton Police Department",
+      "contactInfo": "(770) 479-5316",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Cherokee County",
+      "distanceMiles": 1.3
+    },
+    "568": {
+      "agencyName": "Waycross Police Department",
+      "contactInfo": "(912) 287-2921",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Ware County",
+      "distanceMiles": 2.8
+    },
+    "571": {
+      "agencyName": "Altus Police Department",
+      "contactInfo": "(580) 482-4121",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Jackson County",
+      "distanceMiles": 1.4
+    },
+    "578": {
+      "agencyName": "Perry Police Department",
+      "contactInfo": "(478) 988-2800",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Houston County",
+      "distanceMiles": 0.4
+    },
+    "573": {
+      "agencyName": "Niceville Police Department",
+      "contactInfo": "(850) 729-4030",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Okaloosa County",
+      "distanceMiles": 0.7
+    },
+    "577": {
+      "agencyName": "West Monroe Police Department / West Monroe Correctional Center",
+      "contactInfo": "(318) 396-2722",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Ouachita Parish",
+      "distanceMiles": 0.7
+    },
+    "575": {
+      "agencyName": "Victoria Police Department",
+      "contactInfo": "(361) 572-2727",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Victoria County",
+      "distanceMiles": 5.0
+    },
+    "574": {
+      "agencyName": "Pleasanton Police Department",
+      "contactInfo": "(830) 569-5544",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Atascosa County",
+      "distanceMiles": 1.2
+    },
+    "582": {
+      "agencyName": "Mccomb Police Department",
+      "contactInfo": "(601) 684-6991",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pike County",
+      "distanceMiles": 2.2
+    },
+    "581": {
+      "agencyName": "Mount Vernon Developmental Center",
+      "contactInfo": "(740) 393-6225",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Knox County",
+      "distanceMiles": 1.0
+    },
+    "579": {
+      "agencyName": "Roswell Police Department",
+      "contactInfo": "(575) 624-6770",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Chaves County",
+      "distanceMiles": 3.8
+    },
+    "583": {
+      "agencyName": "City Of Lumberton Police Department",
+      "contactInfo": "(910) 671-3909",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Robeson County",
+      "distanceMiles": 2.9
+    },
+    "580": {
+      "agencyName": "Covington Police Department",
+      "contactInfo": "(770) 786-7605",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Newton County",
+      "distanceMiles": 0.6
+    },
+    "585": {
+      "agencyName": "City Of Murray Police Department",
+      "contactInfo": "(270) 753-1621",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Calloway County",
+      "distanceMiles": 1.0
+    },
+    "584": {
+      "agencyName": "Willcox Department Of Public Safety",
+      "contactInfo": "(520) 384-4673",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Cochise County",
+      "distanceMiles": 0.7
+    },
+    "587": {
+      "agencyName": "Morehead Police Department",
+      "contactInfo": "(606) 784-7511",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Rowan County",
+      "distanceMiles": 2.7
+    },
+    "586": {
+      "agencyName": "Summerville Police Department Headquarters",
+      "contactInfo": "(843) 851-4100",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Berkeley County",
+      "distanceMiles": 1.3
+    },
+    "592": {
+      "agencyName": "Houston Police Department - Kingwood",
+      "contactInfo": "(281) 913-4500",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Montgomery County",
+      "distanceMiles": 4.4
+    },
+    "589": {
+      "agencyName": "Houston Police Department - Fondren Division",
+      "contactInfo": "(713) 773-7900",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Harris County",
+      "distanceMiles": 2.3
+    },
+    "590": {
+      "agencyName": "Deer Park Police Department",
+      "contactInfo": "(281) 930-2100",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Harris County",
+      "distanceMiles": 0.4
+    },
+    "593": {
+      "agencyName": "Wharton Police Department",
+      "contactInfo": "(979) 532-3131",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Wharton County",
+      "distanceMiles": 0.4
+    },
+    "595": {
+      "agencyName": "Mount Pleasant Police Department",
+      "contactInfo": "(903) 575-4004",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Titus County",
+      "distanceMiles": 1.7
+    },
+    "594": {
+      "agencyName": "Poteau Police Department",
+      "contactInfo": "(918) 647-8620",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Le Flore County",
+      "distanceMiles": 1.6
+    },
+    "597": {
+      "agencyName": "Palestine Police Department",
+      "contactInfo": "(903) 731-8436",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Anderson County",
+      "distanceMiles": 2.6
+    },
+    "599": {
+      "agencyName": "Athens City Police Department",
+      "contactInfo": "(423) 744-2729",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "McMinn County",
+      "distanceMiles": 1.6
+    },
+    "598": {
+      "agencyName": "Paris Police Department",
+      "contactInfo": "(731) 642-2424",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Henry County",
+      "distanceMiles": 1.3
+    },
+    "684": {
+      "agencyName": "Jasper Police Department",
+      "contactInfo": "(205) 221-2121",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Walker County",
+      "distanceMiles": 1.3
+    },
+    "687": {
+      "agencyName": "Newton City Police Department",
+      "contactInfo": "(828) 465-7430",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Catawba County",
+      "distanceMiles": 2.0
+    },
+    "689": {
+      "agencyName": "Portales Police Department",
+      "contactInfo": "(505) 356-4404",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Roosevelt County",
+      "distanceMiles": 1.9
+    },
+    "690": {
+      "agencyName": "West Plains Police Department",
+      "contactInfo": "(417) 256-2244",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Howell County",
+      "distanceMiles": 2.9
+    },
+    "693": {
+      "agencyName": "Chickasha Police Department",
+      "contactInfo": "(405) 222-6050",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "GRADY",
+      "distanceMiles": 1.4
+    },
+    "692": {
+      "agencyName": "Punta Gorda Police Department",
+      "contactInfo": "(941) 639-4111",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Charlotte County",
+      "distanceMiles": 5.5
+    },
+    "691": {
+      "agencyName": "Ruidoso Police Department",
+      "contactInfo": "(575) 257-7365",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lincoln County",
+      "distanceMiles": 3.5
+    },
+    "694": {
+      "agencyName": "Carthage Police Department",
+      "contactInfo": "(903) 693-3866",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Panola County",
+      "distanceMiles": 1.8
+    },
+    "695": {
+      "agencyName": "Bucyrus Police Department",
+      "contactInfo": "(419) 562-1006",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Crawford County",
+      "distanceMiles": 1.4
+    },
+    "696": {
+      "agencyName": "Crawfordsville Police Department",
+      "contactInfo": "(765) 362-3762",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Montgomery County",
+      "distanceMiles": 1.6
+    },
+    "697": {
+      "agencyName": "Rincon Police Department",
+      "contactInfo": "(912) 826-5200",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Effingham County",
+      "distanceMiles": 0.3
+    },
+    "698": {
+      "agencyName": "Center Police Department",
+      "contactInfo": "(936) 598-2450",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Shelby County",
+      "distanceMiles": 1.6
+    },
+    "699": {
+      "agencyName": "Lawtey Police Department",
+      "contactInfo": "(904) 782-3751",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Baker County",
+      "distanceMiles": 15.7
+    },
+    "140": {
+      "agencyName": "Lafayette Police Department",
+      "contactInfo": "(706) 639-1540",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Walker County",
+      "distanceMiles": 2.6
+    },
+    "142": {
+      "agencyName": "Gun Barrel City Police Department",
+      "contactInfo": "(903) 887-7151",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Henderson County",
+      "distanceMiles": 0.9
+    },
+    "144": {
+      "agencyName": "Seguin Police Department",
+      "contactInfo": "(830) 379-2123",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Guadalupe County",
+      "distanceMiles": 1.9
+    },
+    "143": {
+      "agencyName": "Kenneth City Police Department",
+      "contactInfo": "(727) 544-2564",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pinellas County",
+      "distanceMiles": 4.0
+    },
+    "141": {
+      "agencyName": "Columbus Police Department",
+      "contactInfo": "(706) 653-3205",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Muscogee County",
+      "distanceMiles": 2.7
+    },
+    "147": {
+      "agencyName": "Orangeburg Department Of Public Safety",
+      "contactInfo": "(803) 531-4654",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Orangeburg County",
+      "distanceMiles": 1.6
+    },
+    "149": {
+      "agencyName": "Stuart Police Department",
+      "contactInfo": "(772) 287-1122",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Martin County",
+      "distanceMiles": 2.2
+    },
+    "148": {
+      "agencyName": "Clearwater Police Department - District Ii - Headquarters",
+      "contactInfo": "(727) 562-4420",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pinellas County",
+      "distanceMiles": 3.9
+    },
+    "151": {
+      "agencyName": "Crossville Fire Department",
+      "contactInfo": "(931) 484-6144",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Cumberland County",
+      "distanceMiles": 2.4
+    },
+    "150": {
+      "agencyName": "Lovington Police Department",
+      "contactInfo": "(575) 396-2811",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lea County",
+      "distanceMiles": 0.8
+    },
+    "152": {
+      "agencyName": "Andrews Police Department",
+      "contactInfo": "(432) 523-5675",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Andrews County",
+      "distanceMiles": 0.9
+    },
+    "153": {
+      "agencyName": "Saint Marys Police Department",
+      "contactInfo": "(912) 882-4488",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Camden County",
+      "distanceMiles": 1.4
+    },
+    "154": {
+      "agencyName": "Saraland Police Department",
+      "contactInfo": "(251) 675-5331",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Mobile County",
+      "distanceMiles": 1.3
+    },
+    "155": {
+      "agencyName": "Morgan City Police Department",
+      "contactInfo": "(985) 380-4605",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "St. Mary Parish",
+      "distanceMiles": 0.5
+    },
+    "156": {
+      "agencyName": "Milledgeville Police Department",
+      "contactInfo": "(478) 414-4000",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Baldwin County",
+      "distanceMiles": 2.1
+    },
+    "157": {
+      "agencyName": "Magee Police Department",
+      "contactInfo": "(601) 849-2366",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Simpson County",
+      "distanceMiles": 0.6
+    },
+    "159": {
+      "agencyName": "South Jacksonville Police Department",
+      "contactInfo": "(217) 245-4803",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Morgan County",
+      "distanceMiles": 1.1
+    },
+    "162": {
+      "agencyName": "Saint Pete Beach Police",
+      "contactInfo": "(727) 363-9200",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pinellas County",
+      "distanceMiles": 1.2
+    },
+    "160": {
+      "agencyName": "Pensacola Police Department",
+      "contactInfo": "(850) 435-1900",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Escambia County",
+      "distanceMiles": 4.1
+    },
+    "161": {
+      "agencyName": "Daytona Beach Police Department - Substation",
+      "contactInfo": "(386) 671-5100",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Volusia County",
+      "distanceMiles": 2.9
+    },
+    "163": {
+      "agencyName": "Junction City Police Department",
+      "contactInfo": "(785) 762-5912",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Geary County",
+      "distanceMiles": 0.8
+    },
+    "164": {
+      "agencyName": "Palmetto Police Department",
+      "contactInfo": "(941) 723-4587",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Manatee County",
+      "distanceMiles": 4.8
+    },
+    "167": {
+      "agencyName": "Big Spring Police Department",
+      "contactInfo": "(432) 264-2550",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Howard County",
+      "distanceMiles": 1.6
+    },
+    "169": {
+      "agencyName": "Decatur Township Police Department",
+      "contactInfo": "(814) 339-6775",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Clearfield County",
+      "distanceMiles": 3.1
+    },
+    "170": {
+      "agencyName": "Griffin Police Department",
+      "contactInfo": "(770) 229-6450",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Spalding County",
+      "distanceMiles": 2.4
+    },
+    "168": {
+      "agencyName": "Sebring Police Department",
+      "contactInfo": "(863) 471-5108",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Highlands County",
+      "distanceMiles": 1.7
+    },
+    "173": {
+      "agencyName": "Lebanon Police Department",
+      "contactInfo": "(615) 444-2323",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Wilson County",
+      "distanceMiles": 0.7
+    },
+    "174": {
+      "agencyName": "Artesia Police Department / City Of Artesia Detention Facility",
+      "contactInfo": "(575) 746-5000",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Eddy County",
+      "distanceMiles": 1.2
+    },
+    "171": {
+      "agencyName": "Youngtown Police Department",
+      "contactInfo": "(623) 974-3665",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Maricopa County",
+      "distanceMiles": 0.8
+    },
+    "175": {
+      "agencyName": "Chiefland Police Department",
+      "contactInfo": "(352) 493-6777",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Levy County",
+      "distanceMiles": 1.8
+    },
+    "176": {
+      "agencyName": "West Jefferson Police Department",
+      "contactInfo": "(614) 879-7672",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Madison County",
+      "distanceMiles": 9.5
+    },
+    "178": {
+      "agencyName": "Athens Municipal Water Authority",
+      "contactInfo": "(903) 677-6667",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Henderson County",
+      "distanceMiles": 0.8
+    },
+    "179": {
+      "agencyName": "Ocala Police Department - District 1",
+      "contactInfo": "(352) 368-5400",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Marion County",
+      "distanceMiles": 9.6
+    },
+    "177": {
+      "agencyName": "Lone Oak Police Department",
+      "contactInfo": "(270) 444-8550",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "McCracken County",
+      "distanceMiles": 3.2
+    },
+    "181": {
+      "agencyName": "Pratt Police Department",
+      "contactInfo": "(620) 672-5551",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pratt County",
+      "distanceMiles": 1.0
+    },
+    "186": {
+      "agencyName": "Fort Pierce Police Department - Substation",
+      "contactInfo": "(772) 461-3820",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "St. Lucie County",
+      "distanceMiles": 6.1
+    },
+    "184": {
+      "agencyName": "Neshannock Township Police Department",
+      "contactInfo": "(724) 656-9300",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lawrence County",
+      "distanceMiles": 1.2
+    },
+    "185": {
+      "agencyName": "Okeechobee Police Department",
+      "contactInfo": "(863) 763-5521",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Okeechobee County",
+      "distanceMiles": 2.1
+    },
+    "183": {
+      "agencyName": "Uvalde Police Department",
+      "contactInfo": "(830) 278-9147",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Uvalde County",
+      "distanceMiles": 2.6
+    },
+    "182": {
+      "agencyName": "Apache Junction Police Department",
+      "contactInfo": "(480) 982-8260",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pinal County",
+      "distanceMiles": 0.8
+    },
+    "192": {
+      "agencyName": "Tampa Police Department District 2",
+      "contactInfo": "(813) 931-6500",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hillsborough County",
+      "distanceMiles": 1.9
+    },
+    "188": {
+      "agencyName": "Marion City Police Department",
+      "contactInfo": "(740) 387-0541",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Marion County",
+      "distanceMiles": 2.7
+    },
+    "191": {
+      "agencyName": "Inglis Police Department",
+      "contactInfo": "(352) 447-0970",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Citrus County",
+      "distanceMiles": 12.6
+    },
+    "189": {
+      "agencyName": "Largo Police Department",
+      "contactInfo": "(727) 587-6730",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pinellas County",
+      "distanceMiles": 4.4
+    },
+    "190": {
+      "agencyName": "Douglas Police Department",
+      "contactInfo": "(912) 384-2222",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Coffee County",
+      "distanceMiles": 1.5
+    },
+    "195": {
+      "agencyName": "Satellite Beach Police Department",
+      "contactInfo": "(321) 773-4400",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Brevard County",
+      "distanceMiles": 2.5
+    },
+    "196": {
+      "agencyName": "Franklin Police Department",
+      "contactInfo": "(828) 524-2864",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Macon County",
+      "distanceMiles": 1.0
+    },
+    "197": {
+      "agencyName": "Port Richey Police Department",
+      "contactInfo": "(727) 816-1919",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pasco County",
+      "distanceMiles": 4.2
+    },
+    "194": {
+      "agencyName": "Cocoa Beach Police Department",
+      "contactInfo": "(321) 868-3251",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Brevard County",
+      "distanceMiles": 2.7
+    },
+    "198": {
+      "agencyName": "Guntersville Police Department",
+      "contactInfo": "(256) 571-7571",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Marshall County",
+      "distanceMiles": 1.4
+    },
+    "199": {
+      "agencyName": "Temple Terrace Police Department",
+      "contactInfo": "(813) 989-7110",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pasco County",
+      "distanceMiles": 10.4
+    },
+    "201": {
+      "agencyName": "De Land Police Department",
+      "contactInfo": "(386) 740-5875",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Volusia County",
+      "distanceMiles": 1.9
+    },
+    "262": {
+      "agencyName": "Stephenville Police Department",
+      "contactInfo": "(254) 918-1200",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Erath County",
+      "distanceMiles": 2.4
+    },
+    "264": {
+      "agencyName": "West Palm Beach Police Department",
+      "contactInfo": "(561) 822-1600",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Palm Beach County",
+      "distanceMiles": 3.5
+    },
+    "263": {
+      "agencyName": "Shelby Police Department",
+      "contactInfo": "(704) 484-6855",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Cleveland County",
+      "distanceMiles": 3.5
+    },
+    "265": {
+      "agencyName": "Fort Stockton Police Department",
+      "contactInfo": "(432) 336-4600",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pecos County",
+      "distanceMiles": 1.2
+    },
+    "269": {
+      "agencyName": "Russellville Police Department / Russelville City Jail",
+      "contactInfo": "(256) 332-2230",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Franklin County",
+      "distanceMiles": 0.8
+    },
+    "268": {
+      "agencyName": "Rockingham Police Department",
+      "contactInfo": "(910) 895-2468",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Richmond County",
+      "distanceMiles": 1.8
+    },
+    "273": {
+      "agencyName": "Toccoa Police Department",
+      "contactInfo": "(706) 886-8451",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Stephens County",
+      "distanceMiles": 1.4
+    },
+    "271": {
+      "agencyName": "Waynesville Police Department",
+      "contactInfo": "(828) 456-5363",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Haywood County",
+      "distanceMiles": 0.8
+    },
+    "275": {
+      "agencyName": "Cleveland Police Department",
+      "contactInfo": "(281) 592-2621",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Liberty County",
+      "distanceMiles": 0.8
+    },
+    "274": {
+      "agencyName": "Greeneville Police Department",
+      "contactInfo": "(423) 639-7111",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Greene County",
+      "distanceMiles": 1.8
+    },
+    "278": {
+      "agencyName": "Greenacres Department Of Public Safety",
+      "contactInfo": "(561) 642-2153",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Palm Beach County",
+      "distanceMiles": 7.7
+    },
+    "276": {
+      "agencyName": "Miami Police Department",
+      "contactInfo": "(928) 473-2466",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Gila County",
+      "distanceMiles": 2.3
+    },
+    "280": {
+      "agencyName": "City Of Granite Falls Police Department",
+      "contactInfo": "(828) 396-3358",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Caldwell County",
+      "distanceMiles": 2.5
+    },
+    "281": {
+      "agencyName": "Franklin Police Department",
+      "contactInfo": "(270) 586-7167",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Simpson County",
+      "distanceMiles": 1.7
+    },
+    "283": {
+      "agencyName": "Knoxville Police Department - East District",
+      "contactInfo": "(865) 215-1212",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Knox County",
+      "distanceMiles": 5.1
+    },
+    "282": {
+      "agencyName": "Haines City Police Department",
+      "contactInfo": "(863) 421-3636",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Polk County",
+      "distanceMiles": 0.7
+    },
+    "284": {
+      "agencyName": "Tampa Police Department - District 1",
+      "contactInfo": "(813) 354-6600",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hillsborough County",
+      "distanceMiles": 1.9
+    },
+    "279": {
+      "agencyName": "Jesup Police Department",
+      "contactInfo": "(912) 427-1300",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Wayne County",
+      "distanceMiles": 1.8
+    },
+    "287": {
+      "agencyName": "J Alexander Leech Criminal Justice Complex",
+      "contactInfo": "(731) 988-3056",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Madison County",
+      "distanceMiles": 5.6
+    },
+    "288": {
+      "agencyName": "Orlando Police Department - International",
+      "contactInfo": "(407) 246-3727",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Orange County",
+      "distanceMiles": 6.1
+    },
+    "286": {
+      "agencyName": "Ranlo Police Department",
+      "contactInfo": "(704) 824-5172",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Gaston County",
+      "distanceMiles": 1.8
+    },
+    "292": {
+      "agencyName": "Crestview Police Department",
+      "contactInfo": "(850) 682-3603",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Okaloosa County",
+      "distanceMiles": 1.6
+    },
+    "293": {
+      "agencyName": "Lake Clarke Shores Police Department",
+      "contactInfo": "(561) 964-1515",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Palm Beach County",
+      "distanceMiles": 1.2
+    },
+    "291": {
+      "agencyName": "Washington Police Department",
+      "contactInfo": "(812) 254-4410",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Daviess County",
+      "distanceMiles": 1.1
+    },
+    "289": {
+      "agencyName": "Summersville Police Department",
+      "contactInfo": "(304) 872-1920",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Nicholas County",
+      "distanceMiles": 1.7
+    },
+    "294": {
+      "agencyName": "Fort Pierce Police Department",
+      "contactInfo": "(772) 461-3820",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "St. Lucie County",
+      "distanceMiles": 0.9
+    },
+    "295": {
+      "agencyName": "Clinton Police Department",
+      "contactInfo": "(601) 924-5252",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hinds County",
+      "distanceMiles": 1.1
+    },
+    "299": {
+      "agencyName": "Foley Police Department",
+      "contactInfo": "(251) 952-4010",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Baldwin County",
+      "distanceMiles": 1.4
+    },
+    "297": {
+      "agencyName": "Seminole Police Department",
+      "contactInfo": "(432) 758-9871",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Gaines County",
+      "distanceMiles": 0.1
+    },
+    "296": {
+      "agencyName": "Ormond Beach Police Department",
+      "contactInfo": "(386) 677-0731",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Volusia County",
+      "distanceMiles": 2.8
+    },
+    "298": {
+      "agencyName": "Alexandria Police Department",
+      "contactInfo": "(859) 635-4126",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Campbell County",
+      "distanceMiles": 1.9
+    },
+    "302": {
+      "agencyName": "Newberry Police Department",
+      "contactInfo": "(803) 321-1010",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Newberry County",
+      "distanceMiles": 2.0
+    },
+    "300": {
+      "agencyName": "Tullahoma Police Department",
+      "contactInfo": "(931) 455-0530",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Coffee County",
+      "distanceMiles": 1.4
+    },
+    "303": {
+      "agencyName": "Valdosta Police Department",
+      "contactInfo": "(229) 242-2606",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lowndes County",
+      "distanceMiles": 2.9
+    },
+    "305": {
+      "agencyName": "Emporia Police Department",
+      "contactInfo": "(434) 634-2121",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Emporia city",
+      "distanceMiles": 0.8
+    },
+    "301": {
+      "agencyName": "Edgewater Police Department",
+      "contactInfo": "(386) 424-2400",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Volusia County",
+      "distanceMiles": 1.6
+    },
+    "308": {
+      "agencyName": "Orange Park Police Department",
+      "contactInfo": "(904) 264-5555",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Clay County",
+      "distanceMiles": 4.7
+    },
+    "307": {
+      "agencyName": "Troy Police Department / Troy City Jail",
+      "contactInfo": "(334) 566-0500",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pike County",
+      "distanceMiles": 2.3
+    },
+    "309": {
+      "agencyName": "Lewisburg Police Department",
+      "contactInfo": "(931) 359-4044",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Marshall County",
+      "distanceMiles": 0.6
+    },
+    "311": {
+      "agencyName": "Madison Police Department",
+      "contactInfo": "(812) 265-3347",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Jefferson County",
+      "distanceMiles": 3.0
+    },
+    "313": {
+      "agencyName": "Sedona Police Department",
+      "contactInfo": "(928) 282-3100",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Yavapai County",
+      "distanceMiles": 1.1
+    },
+    "312": {
+      "agencyName": "Iredell County Detention Center",
+      "contactInfo": "(704) 878-3131",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Iredell County",
+      "distanceMiles": 1.7
+    },
+    "316": {
+      "agencyName": "Springfield Police Department",
+      "contactInfo": "(615) 384-8422",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Robertson County",
+      "distanceMiles": 0.9
+    },
+    "322": {
+      "agencyName": "Lake Helen Police Department",
+      "contactInfo": "(386) 228-2145",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Volusia County",
+      "distanceMiles": 5.9
+    },
+    "323": {
+      "agencyName": "Winter Springs Police Department",
+      "contactInfo": "(407) 327-7964",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Seminole County",
+      "distanceMiles": 4.7
+    },
+    "382": {
+      "agencyName": "Rockwood Police Department",
+      "contactInfo": "(865) 354-3388",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Roane County",
+      "distanceMiles": 1.9
+    },
+    "383": {
+      "agencyName": "Terrell Police Department",
+      "contactInfo": "(972) 551-6622",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Kaufman County",
+      "distanceMiles": 3.2
+    },
+    "385": {
+      "agencyName": "Indian Shores Police Department",
+      "contactInfo": "(727) 595-5414",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pinellas County",
+      "distanceMiles": 3.6
+    },
+    "386": {
+      "agencyName": "Wauchula Police Department",
+      "contactInfo": "(863) 773-3265",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hardee County",
+      "distanceMiles": 1.1
+    },
+    "387": {
+      "agencyName": "Lake Placid Police Department",
+      "contactInfo": "(863) 699-3757",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Highlands County",
+      "distanceMiles": 0.4
+    },
+    "388": {
+      "agencyName": "Beaufort Police Department",
+      "contactInfo": "(843) 322-7900",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Beaufort County",
+      "distanceMiles": 1.1
+    },
+    "390": {
+      "agencyName": "Greenville Police Department",
+      "contactInfo": "(864) 271-5333",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Anderson County",
+      "distanceMiles": 7.5
+    },
+    "391": {
+      "agencyName": "Dade City Police Department",
+      "contactInfo": "(352) 521-1495",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pasco County",
+      "distanceMiles": 1.3
+    },
+    "389": {
+      "agencyName": "North Augusta Department Of Public Safety Station 1",
+      "contactInfo": "(803) 441-4251",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Aiken County",
+      "distanceMiles": 0.5
+    },
+    "393": {
+      "agencyName": "Ashland Police Department",
+      "contactInfo": "(804) 798-1227",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hanover County",
+      "distanceMiles": 0.3
+    },
+    "392": {
+      "agencyName": "City Of Hendersonville Police Department",
+      "contactInfo": "(828) 697-3031",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Henderson County",
+      "distanceMiles": 1.7
+    },
+    "394": {
+      "agencyName": "Vero Beach Police Department",
+      "contactInfo": "(772) 978-4600",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Indian River County",
+      "distanceMiles": 7.8
+    },
+    "398": {
+      "agencyName": "Orlando Police Department - Southeast",
+      "contactInfo": "(407) 246-4155",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Orange County",
+      "distanceMiles": 2.3
+    },
+    "399": {
+      "agencyName": "Lady Lake Police Department",
+      "contactInfo": "(352) 751-1560",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lake County",
+      "distanceMiles": 2.2
+    },
+    "397": {
+      "agencyName": "Jeffersontown City Police Department",
+      "contactInfo": "(502) 267-0503",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Jefferson County",
+      "distanceMiles": 2.2
+    },
+    "396": {
+      "agencyName": "Chipley Police Department",
+      "contactInfo": "(850) 638-6310",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Washington County",
+      "distanceMiles": 1.1
+    },
+    "416": {
+      "agencyName": "Enterprise Police Department",
+      "contactInfo": "(334) 348-2621",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Coffee County",
+      "distanceMiles": 1.4
+    },
+    "417": {
+      "agencyName": "Naples Police Department",
+      "contactInfo": "(239) 213-4844",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lee County",
+      "distanceMiles": 12.5
+    },
+    "418": {
+      "agencyName": "City Of Henderson Police Department",
+      "contactInfo": "(252) 438-4141",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Vance County",
+      "distanceMiles": 2.2
+    },
+    "422": {
+      "agencyName": "Marble Falls Police Department",
+      "contactInfo": "(830) 693-3611",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Burnet County",
+      "distanceMiles": 6.0
+    },
+    "420": {
+      "agencyName": "Sealy Police Department",
+      "contactInfo": "(979) 885-3330",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Austin County",
+      "distanceMiles": 1.5
+    },
+    "425": {
+      "agencyName": "Panama City Beach Police Department",
+      "contactInfo": "(850) 233-5010",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Bay County",
+      "distanceMiles": 1.4
+    },
+    "421": {
+      "agencyName": "Kissimmee Police Department",
+      "contactInfo": "(407) 847-0176",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Osceola County",
+      "distanceMiles": 2.5
+    },
+    "424": {
+      "agencyName": "High Springs Police Department",
+      "contactInfo": "(386) 454-1415",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Alachua County",
+      "distanceMiles": 0.9
+    },
+    "426": {
+      "agencyName": "Lamesa Police Department",
+      "contactInfo": "(806) 872-2121",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Dawson County",
+      "distanceMiles": 1.8
+    },
+    "427": {
+      "agencyName": "Kissimmee Police Department",
+      "contactInfo": "(407) 847-0176",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Osceola County",
+      "distanceMiles": 4.0
+    },
+    "428": {
+      "agencyName": "Ennis Police Department",
+      "contactInfo": "(972) 875-4462",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Ellis County",
+      "distanceMiles": 0.7
+    },
+    "430": {
+      "agencyName": "New Port Richey Police Department",
+      "contactInfo": "(727) 841-4550",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pasco County",
+      "distanceMiles": 2.9
+    },
+    "429": {
+      "agencyName": "Port Saint Lucie Police Department - Headquarters",
+      "contactInfo": "(772) 871-5000",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "St. Lucie County",
+      "distanceMiles": 1.7
+    },
+    "431": {
+      "agencyName": "West Orange Police Department",
+      "contactInfo": "(409) 883-7574",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Orange County",
+      "distanceMiles": 0.6
+    },
+    "432": {
+      "agencyName": "Palm Springs Police Department",
+      "contactInfo": "(561) 968-8243",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Palm Beach County",
+      "distanceMiles": 0.6
+    },
+    "434": {
+      "agencyName": "Florida Game And Fish Division Of Law Enforcement",
+      "contactInfo": "(850) 488-6251",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Leon County",
+      "distanceMiles": 0.7
+    },
+    "433": {
+      "agencyName": "Horry County Police Department",
+      "contactInfo": "(843) 915-8341",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Horry County",
+      "distanceMiles": 2.1
+    },
+    "436": {
+      "agencyName": "Savannah Chatham Metropolitan Police Department - Precinct 1",
+      "contactInfo": "(912) 652-6560",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Chatham County",
+      "distanceMiles": 8.0
+    },
+    "435": {
+      "agencyName": "Orlando Police Department - Southeast",
+      "contactInfo": "(407) 246-4155",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Orange County",
+      "distanceMiles": 6.7
+    },
+    "437": {
+      "agencyName": "Jacksonville Sheriffs Office",
+      "contactInfo": "(904) 630-2120",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Duval County",
+      "distanceMiles": 6.0
+    },
+    "537": {
+      "agencyName": "Punta Gorda Police Department",
+      "contactInfo": "(941) 639-4111",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Sarasota County",
+      "distanceMiles": 12.6
+    },
+    "444": {
+      "agencyName": "Jupiter Island Police Department",
+      "contactInfo": "(772) 545-0112",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Martin County",
+      "distanceMiles": 1.6
+    },
+    "443": {
+      "agencyName": "Melbourne Police Department",
+      "contactInfo": "(321) 409-2200",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Brevard County",
+      "distanceMiles": 4.5
+    },
+    "538": {
+      "agencyName": "Gulfport Police Department - Orange Grove Substation 204",
+      "contactInfo": "(228) 831-0700",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Harrison County",
+      "distanceMiles": 1.7
+    },
+    "539": {
+      "agencyName": "Zachary Police Department",
+      "contactInfo": "(225) 654-9393",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "East Baton Rouge Parish",
+      "distanceMiles": 0.5
+    },
+    "541": {
+      "agencyName": "Madison Police Department",
+      "contactInfo": "(706) 342-1200",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Morgan County",
+      "distanceMiles": 1.9
+    },
+    "542": {
+      "agencyName": "Zephyrhills Police Department",
+      "contactInfo": "(813) 780-0050",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pasco County",
+      "distanceMiles": 0.2
+    },
+    "544": {
+      "agencyName": "Wilmington Police Department",
+      "contactInfo": "(937) 382-6528",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Clinton County",
+      "distanceMiles": 1.6
+    },
+    "545": {
+      "agencyName": "Cumming Police Department / Cumming City Jail",
+      "contactInfo": "(770) 781-2000",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Forsyth County",
+      "distanceMiles": 1.3
+    },
+    "546": {
+      "agencyName": "Lenoir City Police Department",
+      "contactInfo": "(865) 986-2005",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Loudon County",
+      "distanceMiles": 0.8
+    },
+    "543": {
+      "agencyName": "Lake City Police Department",
+      "contactInfo": "(386) 752-4344",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Columbia County",
+      "distanceMiles": 0.9
+    },
+    "551": {
+      "agencyName": "Pascagoula Police Department",
+      "contactInfo": "(228) 762-2211",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Jackson County",
+      "distanceMiles": 2.1
+    },
+    "547": {
+      "agencyName": "Bessemer Police Department / Bessemer City Jail",
+      "contactInfo": "(205) 425-2411",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Jefferson County",
+      "distanceMiles": 3.7
+    },
+    "548": {
+      "agencyName": "Punta Gorda Police Department",
+      "contactInfo": "(941) 639-4111",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Charlotte County",
+      "distanceMiles": 5.1
+    },
+    "550": {
+      "agencyName": "Plaquemine Police Department",
+      "contactInfo": "(225) 687-9273",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Iberville Parish",
+      "distanceMiles": 1.1
+    },
+    "552": {
+      "agencyName": "Pasadena Police Department / Pasadena City Jail",
+      "contactInfo": "(713) 477-1221",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Harris County",
+      "distanceMiles": 2.0
+    },
+    "554": {
+      "agencyName": "Deridder Police Department",
+      "contactInfo": "(337) 462-8911",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Beauregard Parish",
+      "distanceMiles": 1.2
+    },
+    "549": {
+      "agencyName": "Surfside Beach Police Department",
+      "contactInfo": "(843) 913-6368",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Horry County",
+      "distanceMiles": 0.2
+    },
+    "556": {
+      "agencyName": "Florida City Police Department",
+      "contactInfo": "(305) 247-8223",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Miami-Dade County",
+      "distanceMiles": 0.7
+    },
+    "553": {
+      "agencyName": "Live Oak Police Department",
+      "contactInfo": "(386) 362-7463",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Suwannee County",
+      "distanceMiles": 0.9
+    },
+    "555": {
+      "agencyName": "Pineville Police Department",
+      "contactInfo": "(318) 442-6603",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Rapides Parish",
+      "distanceMiles": 2.9
+    },
+    "558": {
+      "agencyName": "Smithfield Police Department",
+      "contactInfo": "(757) 357-3247",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Isle of Wight County",
+      "distanceMiles": 1.6
+    },
+    "560": {
+      "agencyName": "Christian County Police Department",
+      "contactInfo": "(270) 887-4135",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Christian County",
+      "distanceMiles": 3.9
+    },
+    "561": {
+      "agencyName": "Panama City Police Department",
+      "contactInfo": "(850) 872-3112",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Bay County",
+      "distanceMiles": 1.2
+    },
+    "564": {
+      "agencyName": "Jacksonville Sheriffs Office",
+      "contactInfo": "(904) 630-2120",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Duval County",
+      "distanceMiles": 4.8
+    },
+    "557": {
+      "agencyName": "Palm Bay Police Department",
+      "contactInfo": "(321) 952-3456",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Brevard County",
+      "distanceMiles": 3.0
+    },
+    "565": {
+      "agencyName": "Parker Police Department",
+      "contactInfo": "(928) 669-2265",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "La Paz County",
+      "distanceMiles": 0.9
+    },
+    "658": {
+      "agencyName": "Newport News Park - Ranger Station",
+      "contactInfo": "(757) 886-7912",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Gloucester County",
+      "distanceMiles": 7.2
+    },
+    "661": {
+      "agencyName": "Muskogee Police Department",
+      "contactInfo": "(918) 683-8000",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Muskogee County",
+      "distanceMiles": 2.4
+    },
+    "659": {
+      "agencyName": "Calhoun Police Department",
+      "contactInfo": "(706) 629-1234",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Gordon County",
+      "distanceMiles": 3.6
+    },
+    "662": {
+      "agencyName": "Claremore Police Department",
+      "contactInfo": "(918) 341-1212",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Rogers County",
+      "distanceMiles": 0.6
+    },
+    "663": {
+      "agencyName": "Logan Police Department",
+      "contactInfo": "(304) 752-6535",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Logan County",
+      "distanceMiles": 2.8
+    },
+    "669": {
+      "agencyName": "West Union Police Department",
+      "contactInfo": "(864) 638-9978",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Oconee County",
+      "distanceMiles": 0.3
+    },
+    "667": {
+      "agencyName": "Venice Police Department",
+      "contactInfo": "(941) 486-2444",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Sarasota County",
+      "distanceMiles": 13.7
+    },
+    "665": {
+      "agencyName": "Shallotte Police Department",
+      "contactInfo": "(910) 754-6008",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Brunswick County",
+      "distanceMiles": 0.5
+    },
+    "670": {
+      "agencyName": "Florida Game And Fish Division Of Law Enforcement",
+      "contactInfo": "(850) 488-6251",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Wakulla County",
+      "distanceMiles": 17.8
+    },
+    "671": {
+      "agencyName": "Bradenton Police Department",
+      "contactInfo": "(941) 932-9300",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Manatee County",
+      "distanceMiles": 7.6
+    },
+    "672": {
+      "agencyName": "Boynton Beach Police Department",
+      "contactInfo": "(561) 732-8116",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Palm Beach County",
+      "distanceMiles": 3.5
+    },
+    "675": {
+      "agencyName": "Shalimar Police Department",
+      "contactInfo": "(850) 651-5723",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Okaloosa County",
+      "distanceMiles": 8.5
+    },
+    "676": {
+      "agencyName": "New Martinsville Police Department",
+      "contactInfo": "(304) 455-9100",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Wetzel County",
+      "distanceMiles": 1.7
+    },
+    "677": {
+      "agencyName": "Dunbar Police Department",
+      "contactInfo": "(304) 766-0204",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Kanawha County",
+      "distanceMiles": 0.4
+    },
+    "678": {
+      "agencyName": "Ocala Police Department - District 2",
+      "contactInfo": "(352) 629-8210",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Marion County",
+      "distanceMiles": 3.4
+    },
+    "679": {
+      "agencyName": "Elizabeth City Police Department",
+      "contactInfo": "(252) 335-4321",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pasquotank County",
+      "distanceMiles": 1.2
+    },
+    "680": {
+      "agencyName": "Crystal City Police Department",
+      "contactInfo": "(636) 937-4601",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Jefferson County",
+      "distanceMiles": 0.6
+    },
+    "682": {
+      "agencyName": "Pigeon Forge Police Department",
+      "contactInfo": "(865) 453-9063",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Sevier County",
+      "distanceMiles": 1.1
+    },
+    "681": {
+      "agencyName": "Starke Police Department",
+      "contactInfo": "(904) 964-5400",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Bradford County",
+      "distanceMiles": 0.3
+    },
+    "685": {
+      "agencyName": "Elberton City Police Department",
+      "contactInfo": "(706) 213-3130",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Elbert County",
+      "distanceMiles": 1.0
+    },
+    "780": {
+      "agencyName": "Mexia Police Department",
+      "contactInfo": "(254) 562-4150",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Limestone County",
+      "distanceMiles": 0.9
+    },
+    "781": {
+      "agencyName": "Logan County Juvenile Detention Center",
+      "contactInfo": "(937) 593-9513",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Logan County",
+      "distanceMiles": 2.0
+    },
+    "791": {
+      "agencyName": "Greenville Police Department",
+      "contactInfo": "(937) 548-1103",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Darke County",
+      "distanceMiles": 1.6
+    },
+    "792": {
+      "agencyName": "Columbia City Police Department",
+      "contactInfo": "(260) 248-5121",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Whitley County",
+      "distanceMiles": 1.2
+    },
+    "797": {
+      "agencyName": "New Castle Police Department",
+      "contactInfo": "(765) 529-5355",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Henry County",
+      "distanceMiles": 0.8
+    },
+    "381": {
+      "agencyName": "Brooksville Police Department",
+      "contactInfo": "(352) 754-6800",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hernando County",
+      "distanceMiles": 6.9
+    },
+    "002": {
+      "agencyName": "Muscle Shoals Police Department",
+      "contactInfo": "(256) 383-6746",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Colbert County",
+      "distanceMiles": 0.9
+    },
+    "801": {
+      "agencyName": "Cambridge Police Department",
+      "contactInfo": "(740) 439-4431",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Guernsey County",
+      "distanceMiles": 1.6
+    },
+    "802": {
+      "agencyName": "Idabel Police Department",
+      "contactInfo": "(580) 286-6554",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "McCurtain County",
+      "distanceMiles": 1.0
+    },
+    "384": {
+      "agencyName": "Gulfport Police Department",
+      "contactInfo": "(727) 893-1030",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pinellas County",
+      "distanceMiles": 2.3
+    },
+    "803": {
+      "agencyName": "Mattoon Police Department",
+      "contactInfo": "(217) 235-5451",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Coles County",
+      "distanceMiles": 2.5
+    },
+    "804": {
+      "agencyName": "Covington Police Department",
+      "contactInfo": "(901) 476-0243",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "TIPTON",
+      "distanceMiles": 13.3
+    },
+    "806": {
+      "agencyName": "Beaver Dam Police Department",
+      "contactInfo": "(270) 274-7106",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Ohio County",
+      "distanceMiles": 2.0
+    },
+    "809": {
+      "agencyName": "Giddings Police Department",
+      "contactInfo": "(979) 542-4750",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lee County",
+      "distanceMiles": 1.4
+    },
+    "859": {
+      "agencyName": "Lumberton Police Department",
+      "contactInfo": "(409) 755-2650",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hardin County",
+      "distanceMiles": 0.7
+    },
+    "900": {
+      "agencyName": "Logan Township Police Department",
+      "contactInfo": "(814) 949-3364",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Blair County",
+      "distanceMiles": 1.7
+    },
+    "808": {
+      "agencyName": "Cleveland Police Department",
+      "contactInfo": "(662) 843-3611",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Bolivar County",
+      "distanceMiles": 0.3
+    },
+    "901": {
+      "agencyName": "Sparta Police Department",
+      "contactInfo": "(931) 836-3734",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "White County",
+      "distanceMiles": 2.2
+    },
+    "904": {
+      "agencyName": "Wichita Falls Police Department",
+      "contactInfo": "(940) 761-7792",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Wichita County",
+      "distanceMiles": 4.1
+    },
+    "909": {
+      "agencyName": "Elizabethtown Police Department",
+      "contactInfo": "(270) 765-4125",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hardin County",
+      "distanceMiles": 3.1
+    },
+    "923": {
+      "agencyName": "Ponca City Police Department",
+      "contactInfo": "(580) 767-0370",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Kay County",
+      "distanceMiles": 2.6
+    },
+    "007": {
+      "agencyName": "Satellite Beach Police Department",
+      "contactInfo": "(321) 773-4400",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Brevard County",
+      "distanceMiles": 2.4
+    },
+    "001": {
+      "agencyName": "Venice Police Department",
+      "contactInfo": "(941) 486-2444",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Sarasota County",
+      "distanceMiles": 3.7
+    },
+    "006": {
+      "agencyName": "Winter Haven Police Department",
+      "contactInfo": "(863) 291-5858",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Polk County",
+      "distanceMiles": 4.0
+    },
+    "003": {
+      "agencyName": "Venice Police Department",
+      "contactInfo": "(941) 486-2444",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Sarasota County",
+      "distanceMiles": 11.8
+    },
+    "005": {
+      "agencyName": "Titusville Police Department",
+      "contactInfo": "(321) 264-7800",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Brevard County",
+      "distanceMiles": 4.0
+    },
+    "009": {
+      "agencyName": "Venice Police Department",
+      "contactInfo": "(941) 486-2444",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Charlotte County",
+      "distanceMiles": 12.4
+    },
+    "012": {
+      "agencyName": "Naples Police Department",
+      "contactInfo": "(239) 213-4844",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Collier County",
+      "distanceMiles": 2.7
+    },
+    "013": {
+      "agencyName": "Eustis Police Department",
+      "contactInfo": "(352) 357-4121",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lake County",
+      "distanceMiles": 1.8
+    },
+    "010": {
+      "agencyName": "Largo Police Department",
+      "contactInfo": "(727) 587-6730",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pinellas County",
+      "distanceMiles": 1.9
+    },
+    "016": {
+      "agencyName": "Sebring Police Department",
+      "contactInfo": "(863) 471-5108",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Highlands County",
+      "distanceMiles": 2.9
+    },
+    "017": {
+      "agencyName": "Citrus County Civil Air Patrol",
+      "contactInfo": "(352) 860-1875",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Citrus County",
+      "distanceMiles": 5.4
+    },
+    "015": {
+      "agencyName": "New Smyrna Beach Police Department",
+      "contactInfo": "(386) 424-2220",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Volusia County",
+      "distanceMiles": 3.2
+    },
+    "014": {
+      "agencyName": "Punta Gorda Police Department",
+      "contactInfo": "(941) 639-4111",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Charlotte County",
+      "distanceMiles": 8.4
+    },
+    "018": {
+      "agencyName": "Port Saint Lucie Police Department-West",
+      "contactInfo": "(772) 879-3300",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "St. Lucie County",
+      "distanceMiles": 4.1
+    },
+    "023": {
+      "agencyName": "Port Saint Lucie Police Department - Headquarters",
+      "contactInfo": "(772) 871-5000",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "St. Lucie County",
+      "distanceMiles": 3.0
+    },
+    "019": {
+      "agencyName": "Cape Coral Police Department",
+      "contactInfo": "(239) 574-3223",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lee County",
+      "distanceMiles": 1.9
+    },
+    "021": {
+      "agencyName": "Jupiter Police Department",
+      "contactInfo": "(561) 746-6201",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Palm Beach County",
+      "distanceMiles": 1.5
+    },
+    "020": {
+      "agencyName": "Longboat Key Town Police Department",
+      "contactInfo": "(941) 316-1977",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Sarasota County",
+      "distanceMiles": 10.9
+    },
+    "024": {
+      "agencyName": "Bradenton Police Department",
+      "contactInfo": "(941) 932-9300",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Manatee County",
+      "distanceMiles": 3.2
+    },
+    "030": {
+      "agencyName": "Zephyrhills Police Department",
+      "contactInfo": "(813) 780-0050",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pasco County",
+      "distanceMiles": 1.4
+    },
+    "029": {
+      "agencyName": "Port Orange Police Department",
+      "contactInfo": "(386) 506-5800",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Volusia County",
+      "distanceMiles": 1.0
+    },
+    "027": {
+      "agencyName": "Winter Garden Police Department",
+      "contactInfo": "(407) 656-3636",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Orange County",
+      "distanceMiles": 3.0
+    },
+    "031": {
+      "agencyName": "Fort Myers City Police Department",
+      "contactInfo": "(239) 321-7700",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lee County",
+      "distanceMiles": 4.0
+    },
+    "033": {
+      "agencyName": "Manatee County Detention Facility",
+      "contactInfo": "(941) 747-3011",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hillsborough County",
+      "distanceMiles": 11.1
+    },
+    "035": {
+      "agencyName": "Lakeland Police Department",
+      "contactInfo": "(863) 834-6900",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Polk County",
+      "distanceMiles": 3.7
+    },
+    "039": {
+      "agencyName": "Lake Helen Police Department",
+      "contactInfo": "(386) 228-2145",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Volusia County",
+      "distanceMiles": 5.9
+    },
+    "038": {
+      "agencyName": "Inglis Police Department",
+      "contactInfo": "(352) 447-0970",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Citrus County",
+      "distanceMiles": 12.7
+    },
+    "040": {
+      "agencyName": "Tampa Police Department District 3",
+      "contactInfo": "(813) 242-3800",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hillsborough County",
+      "distanceMiles": 11.7
+    },
+    "037": {
+      "agencyName": "New Port Richey Police Department",
+      "contactInfo": "(727) 841-4550",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pasco County",
+      "distanceMiles": 2.9
+    },
+    "041": {
+      "agencyName": "Naples Police Department",
+      "contactInfo": "(239) 213-4844",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Collier County",
+      "distanceMiles": 10.0
+    },
+    "048": {
+      "agencyName": "Vero Beach Police Department",
+      "contactInfo": "(772) 978-4600",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Indian River County",
+      "distanceMiles": 3.4
+    },
+    "053": {
+      "agencyName": "Apopka Police Department",
+      "contactInfo": "(407) 703-1771",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Orange County",
+      "distanceMiles": 2.6
+    },
+    "054": {
+      "agencyName": "Clearwater Police Department - District Ii - Headquarters",
+      "contactInfo": "(727) 562-4420",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pinellas County",
+      "distanceMiles": 2.9
+    },
+    "056": {
+      "agencyName": "Indian Shores Police Department",
+      "contactInfo": "(727) 595-5414",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pinellas County",
+      "distanceMiles": 3.1
+    },
+    "057": {
+      "agencyName": "Clearwater Police Department - District Iii Substation",
+      "contactInfo": "(727) 562-4255",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pinellas County",
+      "distanceMiles": 1.8
+    },
+    "060": {
+      "agencyName": "Ormond Beach Police Department",
+      "contactInfo": "(386) 677-0731",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Volusia County",
+      "distanceMiles": 3.4
+    },
+    "058": {
+      "agencyName": "Bunnell Police Department",
+      "contactInfo": "(386) 437-7508",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Flagler County",
+      "distanceMiles": 6.1
+    },
+    "059": {
+      "agencyName": "Cape Coral Police Department",
+      "contactInfo": "(239) 574-3223",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lee County",
+      "distanceMiles": 4.9
+    },
+    "061": {
+      "agencyName": "Fort Myers City Police Department",
+      "contactInfo": "(239) 321-7700",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lee County",
+      "distanceMiles": 6.3
+    },
+    "062": {
+      "agencyName": "Naples Police Department",
+      "contactInfo": "(239) 213-4844",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Collier County",
+      "distanceMiles": 4.1
+    },
+    "066": {
+      "agencyName": "Stuart Police Department",
+      "contactInfo": "(772) 287-1122",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Martin County",
+      "distanceMiles": 4.6
+    },
+    "068": {
+      "agencyName": "Melbourne Police Department",
+      "contactInfo": "(321) 409-2200",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Brevard County",
+      "distanceMiles": 4.5
+    },
+    "067": {
+      "agencyName": "Bradenton Police Department",
+      "contactInfo": "(941) 932-9300",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Manatee County",
+      "distanceMiles": 7.5
+    },
+    "073": {
+      "agencyName": "Saint Augustine Police Department",
+      "contactInfo": "(904) 825-1070",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "St. Johns County",
+      "distanceMiles": 1.9
+    },
+    "077": {
+      "agencyName": "Leesburg Police Department",
+      "contactInfo": "(352) 787-2121",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lake County",
+      "distanceMiles": 1.9
+    },
+    "079": {
+      "agencyName": "Pensacola Regional Airport Police",
+      "contactInfo": "(850) 436-5000",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Escambia County",
+      "distanceMiles": 2.1
+    },
+    "078": {
+      "agencyName": "Gulf Breeze Police Department",
+      "contactInfo": "(850) 934-5121",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Santa Rosa County",
+      "distanceMiles": 6.1
+    },
+    "076": {
+      "agencyName": "Florida Game And Fish Division Of Law Enforcement",
+      "contactInfo": "(850) 488-6251",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Leon County",
+      "distanceMiles": 4.5
+    },
+    "081": {
+      "agencyName": "Lady Lake Police Department",
+      "contactInfo": "(352) 751-1560",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Sumter County",
+      "distanceMiles": 2.6
+    },
+    "085": {
+      "agencyName": "Shalimar Police Department",
+      "contactInfo": "(850) 651-5723",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Okaloosa County",
+      "distanceMiles": 8.5
+    },
+    "083": {
+      "agencyName": "Boynton Beach Police Department",
+      "contactInfo": "(561) 732-8116",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Palm Beach County",
+      "distanceMiles": 3.8
+    },
+    "082": {
+      "agencyName": "Jacksonville Sheriffs Office",
+      "contactInfo": "(904) 630-2120",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Duval County",
+      "distanceMiles": 11.8
+    },
+    "084": {
+      "agencyName": "Lakeland Police Department",
+      "contactInfo": "(863) 834-6900",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Polk County",
+      "distanceMiles": 3.6
+    },
+    "093": {
+      "agencyName": "Fernandina Beach Police Department",
+      "contactInfo": "(904) 277-7342",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Nassau County",
+      "distanceMiles": 1.0
+    },
+    "734": {
+      "agencyName": "Wildwood Police Department",
+      "contactInfo": "(352) 330-1355",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Sumter County",
+      "distanceMiles": 5.2
+    },
+    "099": {
+      "agencyName": "Tampa Police Department - Headquarters",
+      "contactInfo": "(813) 276-3200",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hillsborough County",
+      "distanceMiles": 13.0
+    },
+    "747": {
+      "agencyName": "Orange Park Police Department",
+      "contactInfo": "(904) 264-5555",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Clay County",
+      "distanceMiles": 2.8
+    },
+    "371": {
+      "agencyName": "Port Richey Police Department",
+      "contactInfo": "(727) 816-1919",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hernando County",
+      "distanceMiles": 12.8
+    },
+    "146": {
+      "agencyName": "Tampa Police Department District 3",
+      "contactInfo": "(813) 242-3800",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hillsborough County",
+      "distanceMiles": 11.8
+    },
+    "917": {
+      "agencyName": "Tyler Police Department",
+      "contactInfo": "(903) 531-1015",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Smith County",
+      "distanceMiles": 3.3
+    },
+    "376": {
+      "agencyName": "Fort Myers City Police Department",
+      "contactInfo": "(239) 321-7700",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lee County",
+      "distanceMiles": 3.7
+    },
+    "903": {
+      "agencyName": "Manatee County Detention Facility",
+      "contactInfo": "(941) 747-3011",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Manatee County",
+      "distanceMiles": 3.7
+    },
+    "419": {
+      "agencyName": "Satellite Beach Police Department",
+      "contactInfo": "(321) 773-4400",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Brevard County",
+      "distanceMiles": 1.0
+    },
+    "106": {
+      "agencyName": "Bradenton Police Department",
+      "contactInfo": "(941) 932-9300",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Manatee County",
+      "distanceMiles": 3.7
+    },
+    "165": {
+      "agencyName": "Titusville Police Department",
+      "contactInfo": "(321) 264-7800",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Brevard County",
+      "distanceMiles": 3.2
+    },
+    "626": {
+      "agencyName": "Florida Game And Fish Division Of Law Enforcement",
+      "contactInfo": "(850) 488-6251",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Leon County",
+      "distanceMiles": 5.1
+    },
+    "482": {
+      "agencyName": "Union Public Safety",
+      "contactInfo": "(864) 429-1713",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Union County",
+      "distanceMiles": 0.8
+    },
+    "520": {
+      "agencyName": "Titusville Police Department",
+      "contactInfo": "(321) 264-7800",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Brevard County",
+      "distanceMiles": 6.2
+    },
+    "952": {
+      "agencyName": "Madisonville Police Department",
+      "contactInfo": "(270) 821-1720",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hopkins County",
+      "distanceMiles": 1.4
+    },
+    "956": {
+      "agencyName": "Pulaski Police Department",
+      "contactInfo": "(540) 994-8667",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Pulaski County",
+      "distanceMiles": 1.4
+    },
+    "926": {
+      "agencyName": "Clarksdale Police Department",
+      "contactInfo": "(662) 621-8152",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Coahoma County",
+      "distanceMiles": 1.0
+    },
+    "954": {
+      "agencyName": "Miami Police Department",
+      "contactInfo": "(918) 542-5585",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Ottawa County",
+      "distanceMiles": 1.1
+    },
+    "955": {
+      "agencyName": "Jefferson City Police Department",
+      "contactInfo": "(865) 475-2002",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Jefferson County",
+      "distanceMiles": 0.2
+    },
+    "957": {
+      "agencyName": "Foster Township Police Department",
+      "contactInfo": "(814) 362-4521",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "McKean County",
+      "distanceMiles": 0.8
+    },
+    "959": {
+      "agencyName": "South Boston Police Department",
+      "contactInfo": "(434) 575-4273",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Halifax County",
+      "distanceMiles": 0.1
+    },
+    "964": {
+      "agencyName": "Gaffney Police Department",
+      "contactInfo": "(864) 489-8115",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Cherokee County",
+      "distanceMiles": 1.1
+    },
+    "966": {
+      "agencyName": "Dumas Police Department",
+      "contactInfo": "(806) 935-3998",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Moore County",
+      "distanceMiles": 0.5
+    },
+    "968": {
+      "agencyName": "Angola City Police Department",
+      "contactInfo": "(260) 665-2121",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Steuben County",
+      "distanceMiles": 1.6
+    },
+    "972": {
+      "agencyName": "Poplar Bluff Police Department",
+      "contactInfo": "(573) 785-5776",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Butler County",
+      "distanceMiles": 1.7
+    },
+    "973": {
+      "agencyName": "Dalhart Police Department",
+      "contactInfo": "(806) 244-5544",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Hartley County",
+      "distanceMiles": 1.2
+    },
+    "253": {
+      "agencyName": "Huntington Police Department",
+      "contactInfo": "(260) 356-7110",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Huntington County",
+      "distanceMiles": 1.1
+    },
+    "922": {
+      "agencyName": "Columbia Police Department",
+      "contactInfo": "(931) 380-2710",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Maury County",
+      "distanceMiles": 1.1
+    },
+    "981": {
+      "agencyName": "Vidor Police Department",
+      "contactInfo": "(409) 769-4561",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Orange County",
+      "distanceMiles": 1.1
+    },
+    "991": {
+      "agencyName": "Brownfield Police Department",
+      "contactInfo": "(806) 637-2511",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Terry County",
+      "distanceMiles": 1.4
+    },
+    "993": {
+      "agencyName": "Mount Pleasant Police Department",
+      "contactInfo": "(724) 547-7210",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Westmoreland County",
+      "distanceMiles": 1.7
+    },
+    "918": {
+      "agencyName": "Allegheny Township Police Department",
+      "contactInfo": "(724) 845-9410",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Westmoreland County",
+      "distanceMiles": 0.3
+    },
+    "924": {
+      "agencyName": "Tahlequah Police Department",
+      "contactInfo": "(918) 456-8801",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Cherokee County",
+      "distanceMiles": 1.9
+    },
+    "823": {
+      "agencyName": "Broken Arrow Police Department",
+      "contactInfo": "(918) 451-8200",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Tulsa County",
+      "distanceMiles": 2.8
+    },
+    "969": {
+      "agencyName": "Ashe Memorial Hospital Police Department",
+      "contactInfo": "(336) 846-0731",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Ashe County",
+      "distanceMiles": 0.1
+    },
+    "260": {
+      "agencyName": "Fort Myers City Police Department",
+      "contactInfo": "(239) 321-7700",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Lee County",
+      "distanceMiles": 4.0
+    },
+    "872": {
+      "agencyName": "Rockledge Police Department",
+      "contactInfo": "(321) 690-3988",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Brevard County",
+      "distanceMiles": 0.2
+    },
+    "401": {
+      "agencyName": "Central Virginia Training Center Police Department",
+      "contactInfo": "(434) 947-6136",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Appomattox County",
+      "distanceMiles": 15.4
+    },
+    "760": {
+      "agencyName": "Gonzales Police Department",
+      "contactInfo": "(830) 672-8686",
+      "source": "HIFLD Local Law Enforcement Locations (DHS/CISA)",
+      "agencyType": "LOCAL POLICE DEPARTMENT",
+      "county": "Gonzales County",
+      "distanceMiles": 1.2
+    }
+  }
+}
