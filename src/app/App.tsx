@@ -29,7 +29,7 @@ type Severity = "critical" | "high" | "medium" | "low";
 type OperatorStatus = "Available" | "Busy" | "Break";
 type MyProfile = { name:string; extension:string; avatar:string; status:OperatorStatus; callsWatching:number; assignedStores:string[]; liveObservation:string[]; };
 type CaseType = "SI Call" | "Other Call" | "Dataminr";
-/** incoming = just logged · working = someone is on it · open = needs coverage / handoff · closed = done */
+/** incoming = store alert · working = on call elsewhere · open = needs coverage · closed = cleared */
 type CallQueueStatus = "incoming" | "working" | "open" | "closed";
 
 type Incident = {
@@ -847,7 +847,7 @@ function StoreLocatorPanel({storeId,onClose}:{storeId:string;onClose:()=>void}) 
   );
 }
 
-// ─── Call board: Incoming · Open = needs coverage (Working handled elsewhere) ─
+// ─── Call board: Incoming (store alert) · Open (coverage) — Done clears; Working elsewhere ─
 
 function CallBoard({
   incidents,
@@ -919,21 +919,7 @@ function CallBoard({
     storeInputRef?.current?.focus();
   }
 
-  /** Claim from Incoming → Working (leaves this board; handled in external system). */
-  function claimCall(id: string) {
-    if (!me) return;
-    const now = callTimeNow();
-    setIncidents((prev) =>
-      prev.map((i) =>
-        i.id === id
-          ? { ...i, queueStatus: "working" as const, openedAt: now, assigned: me.name }
-          : i,
-      ),
-    );
-    bumpCalls(1);
-  }
-
-  /** Park for coverage — someone else can take it. */
+  /** Park for coverage handoff (optional path from Incoming). */
   function putInOpen(id: string) {
     const call = incidents.find((i) => i.id === id);
     setIncidents((prev) =>
@@ -948,21 +934,8 @@ function CallBoard({
     }
   }
 
-  /** Take an Open (coverage) call → Working (leaves this board). */
-  function takeOpen(id: string) {
-    if (!me) return;
-    const now = callTimeNow();
-    setIncidents((prev) =>
-      prev.map((i) =>
-        i.id === id
-          ? { ...i, queueStatus: "working" as const, openedAt: now, assigned: me.name, notes: undefined }
-          : i,
-      ),
-    );
-    bumpCalls(1);
-  }
-
-  function closeCall(id: string) {
+  /** Done — clear alert / coverage item (does not assign or move to working). */
+  function markDone(id: string) {
     const call = incidents.find((i) => i.id === id);
     setIncidents((prev) =>
       prev.map((i) => (i.id === id ? { ...i, queueStatus: "closed" as const, respondedAt: callTimeNow() } : i)),
@@ -982,7 +955,7 @@ function CallBoard({
             <span className="text-[10px] font-bold text-red-400 uppercase tracking-widest">
               Open — Needs Coverage · {open.length}
             </span>
-            <span className="text-[10px] text-red-400/60">take if you can help</span>
+            <span className="text-[10px] text-red-400/60">Done clears when handled</span>
           </div>
           <div className="flex flex-wrap gap-1.5">
             {open.map((inc) => (
@@ -996,11 +969,11 @@ function CallBoard({
                 </span>
                 <button
                   type="button"
-                  onClick={() => takeOpen(inc.id)}
-                  disabled={!me}
-                  className="px-1.5 py-0.5 rounded text-[9px] font-bold bg-red-600 hover:bg-red-500 disabled:opacity-40 text-white"
+                  onClick={() => markDone(inc.id)}
+                  title="Clear — remove from Open"
+                  className="px-1.5 py-0.5 rounded text-[9px] font-bold bg-emerald-600 hover:bg-emerald-500 text-white"
                 >
-                  Take
+                  Done
                 </button>
               </div>
             ))}
@@ -1051,8 +1024,9 @@ function CallBoard({
         <div className="grid grid-cols-2 divide-x divide-white/5">
           {/* Incoming */}
           <div className="min-w-0">
-            <div className="px-3 py-1 bg-amber-500/15 border-b border-amber-500/25 flex items-center justify-between">
+            <div className="px-3 py-1 bg-amber-500/15 border-b border-amber-500/25 flex items-center justify-between gap-2">
               <span className="text-[10px] font-bold text-amber-400 uppercase tracking-widest">Incoming</span>
+              <span className="text-[9px] text-amber-400/50 truncate hidden sm:inline">Store alert · Done clears</span>
               <span className="text-[10px] font-mono font-bold text-amber-400">{incoming.length}</span>
             </div>
             <div className="max-h-44 overflow-y-auto">
@@ -1085,19 +1059,18 @@ function CallBoard({
                         <button
                           type="button"
                           onClick={() => putInOpen(inc.id)}
-                          title="Put in Open for coverage (if no one can work it)"
+                          title="Put in Open for coverage handoff"
                           className="px-2 py-0.5 rounded text-[10px] font-bold text-red-300/80 border border-red-500/25 hover:bg-red-500/15 transition-colors shrink-0"
                         >
                           → Open
                         </button>
                         <button
                           type="button"
-                          onClick={() => claimCall(inc.id)}
-                          disabled={!me}
-                          title={me ? `Claim as ${me.name} — leaves this board` : "Sign in to claim"}
-                          className="px-2.5 py-0.5 rounded text-[10px] font-bold bg-blue-600 hover:bg-blue-500 disabled:opacity-40 text-white transition-colors shrink-0"
+                          onClick={() => markDone(inc.id)}
+                          title="Done — clear store alert"
+                          className="px-2.5 py-0.5 rounded text-[10px] font-bold bg-emerald-600 hover:bg-emerald-500 text-white transition-colors shrink-0"
                         >
-                          Claim{me ? ` (${me.name.split(" ")[0]})` : ""}
+                          Done
                         </button>
                       </li>
                     );
@@ -1116,7 +1089,7 @@ function CallBoard({
             <div className="max-h-44 overflow-y-auto">
               {open.length === 0 ? (
                 <p className="px-3 py-5 text-center text-[11px] text-muted-foreground/50">
-                  Calls that need someone else go here
+                  Coverage handoffs appear here — Done clears
                 </p>
               ) : (
                 <ul>
@@ -1133,18 +1106,11 @@ function CallBoard({
                       <span className="font-mono text-[10px] text-slate-600 shrink-0">{inc.openedAt ?? inc.time}</span>
                       <button
                         type="button"
-                        onClick={() => takeOpen(inc.id)}
-                        disabled={!me}
-                        className="px-2.5 py-0.5 rounded text-[10px] font-bold bg-red-600 hover:bg-red-500 disabled:opacity-40 text-white transition-colors shrink-0"
+                        onClick={() => markDone(inc.id)}
+                        title="Done — clear from Open"
+                        className="px-2.5 py-0.5 rounded text-[10px] font-bold bg-emerald-600 hover:bg-emerald-500 text-white transition-colors shrink-0"
                       >
-                        Take
-                      </button>
-                      <button
-                        type="button"
-                        onClick={() => closeCall(inc.id)}
-                        className="px-2 py-0.5 rounded text-[10px] font-bold text-slate-400 border border-border hover:text-red-400 transition-colors shrink-0"
-                      >
-                        Close
+                        Done
                       </button>
                     </li>
                   ))}
@@ -1696,9 +1662,9 @@ function DashboardView({ incidents, setIncidents, operators, setOperators, myOpe
 
       {/* Legend */}
       <div className="flex items-center gap-3 text-[9px] text-muted-foreground px-0.5 flex-wrap">
-        <span className="inline-flex items-center gap-1"><span className="w-3 h-3 rounded-sm bg-amber-400" /> Incoming</span>
-        <span className="inline-flex items-center gap-1"><span className="w-3 h-3 rounded-sm bg-blue-500" /> Working</span>
-        <span className="inline-flex items-center gap-1"><span className="w-3 h-3 rounded-sm bg-red-500" /> Open</span>
+        <span className="inline-flex items-center gap-1"><span className="w-3 h-3 rounded-sm bg-amber-400" /> Incoming = store alert · Done clears</span>
+        <span className="inline-flex items-center gap-1"><span className="w-3 h-3 rounded-sm bg-red-500" /> Open = coverage · Done clears</span>
+        <span className="inline-flex items-center gap-1"><span className="w-3 h-3 rounded-sm bg-blue-500" /> Working (elsewhere)</span>
       </div>
 
       <WatchingWall
@@ -3335,6 +3301,10 @@ export default function App() {
     }
   }
 
+  const isPublicDemo =
+    import.meta.env.VITE_DEMO === "true" ||
+    String(import.meta.env.BASE_URL || "").includes("demo");
+
   return (
     <div className="flex flex-col h-screen w-full overflow-hidden bg-background" style={{fontFamily:"'Inter', sans-serif"}}>
       <div
@@ -3343,7 +3313,9 @@ export default function App() {
       >
         <ShieldCheck size={12} className="text-amber-500/80 shrink-0" />
         <p className="text-[11px] font-medium tracking-wide text-amber-200/80">
-          Internal use only — authorized SOC staff
+          {isPublicDemo
+            ? "DEMO — concept preview for SOC operations (not a live system)"
+            : "DEMO / Internal concept preview — not a live system"}
         </p>
       </div>
       <div className="flex flex-1 min-h-0 overflow-hidden">
